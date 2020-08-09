@@ -4,25 +4,25 @@
 translate chinese s05_ea528ae2:
 
     # "8:00 PM"
-    "8:00 PM"
+    "晚上八点"
 
 # game/code/d01/s05.rpy:161
 translate chinese d01s05_dorm_f3b04182:
 
     # mct "Back home."
-    mct "Back home."
+    mct "到家了."
 
 # game/code/d01/s05.rpy:163
 translate chinese d01s05_dorm_29f79795:
 
     # mct "Pete'll probably be late."
-    mct "Pete'll probably be late."
+    mct "Pete估计会晚回来."
 
 # game/code/d01/s05.rpy:165
 translate chinese d01s05_dorm_37da6258:
 
     # mct "Okay so what can I do?"
-    mct "Okay so what can I do?"
+    mct "所以说现在我该干嘛?"
 
 # game/code/d01/s05.rpy:168
 translate chinese d01s05_dorm_dcf06f7a:
@@ -40,19 +40,19 @@ translate chinese d01s05_dorm_627ab224:
 translate chinese d01s05_dorm_153b3343:
 
     # "A couple hours later..."
-    "A couple hours later..."
+    "几小时之后..."
 
 # game/code/d01/s05.rpy:176
 translate chinese d01s05_dorm_f1a5f9e3:
 
     # mct "Damn. I got nothing."
-    mct "Damn. I got nothing."
+    mct "可恶，我啥也想不出来."
 
 # game/code/d01/s05.rpy:178
 translate chinese d01s05_dorm_16498b72:
 
     # mct "Let's hope I can do better tomorrow."
-    mct "Let's hope I can do better tomorrow."
+    mct "希望明天我能有好点子."
 
 # game/code/d01/s05.rpy:181
 translate chinese d01s05_dorm_e676377d:
