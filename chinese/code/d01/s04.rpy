@@ -112,7 +112,7 @@ translate chinese s04_62e10323:
 translate chinese s04_05a0e74a:
 
     # pb "Sorry. I forgot to ask this morning, how's your [game.stacytitle]?"
-    pb "对了，我今天早上忘问你了，你 [game.stacytitle]怎么样?"
+    pb "对了，我今天早上忘问你了，你妹妹怎么样?"
 
 # game/code/d01/s04.rpy:205
 translate chinese s04_85e1c87a:
@@ -154,7 +154,7 @@ translate chinese s04_bb8ac82c:
 translate chinese s04_57c1172b:
 
     # mc "Hey! Keep your hands off my [game.stacytitle]! Don't even think about it!"
-    mc "喂喂喂，离我的朋友远点，我可不想你碰她."
+    mc "喂喂喂，离我的妹妹远点，我可不想你碰她."
 
 # game/code/d01/s04.rpy:219
 translate chinese s04_b6043fc1:
@@ -184,7 +184,7 @@ translate chinese s04_add5108b:
 translate chinese s04_aaadf451:
 
     # mc "What the fuck, dude? She's my [game.stacytitle]!"
-    mc "我擦你在说啥啊，她可是我最好的朋友!"
+    mc "我擦你在说啥啊，她可是我的妹妹啊!"
 
 # game/code/d01/s04.rpy:229
 translate chinese s04_8bacdffc:
@@ -862,7 +862,7 @@ translate chinese strings:
 
     # game/code/d01/s04.rpy:252
     old "That is my [game.stacytitle]! Should give her some privacy"
-    new "这可是我的好朋友! 我得尊重她的隐私"
+    new "这可是我的妹妹! 我得尊重她的隐私"
 
     # game/code/d01/s04.rpy:252
     old "Should watch more"
