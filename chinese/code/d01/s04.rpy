@@ -22,7 +22,7 @@ translate chinese s04_669664cb:
 translate chinese s04_e0ad8b16:
 
     # pb "Hey, there you are."
-    pb "呦，你已经来了啊."
+    pb "呦，你已经来了呀."
 
 # game/code/d01/s04.rpy:171
 translate chinese s04_a60fb28f:
