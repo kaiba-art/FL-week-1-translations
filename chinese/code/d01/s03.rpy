@@ -34,7 +34,7 @@ translate chinese s03_dc5397d2:
 translate chinese s03_ffb1c17a:
 
     # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "我觉得这是不是跟Fetishi Locator有关，在那之前我接到了Appt关于射精性癖的推送，然后几分钟之后我就看见了,Min与Antony在..."
+    mct "我觉得这是不是跟Fetishi Locator有关，在那之前我接到了Appt关于Cumshot性癖的推送，然后几分钟之后我就看见了,Min与Antony在..."
 
 # game/code/d01/s03.rpy:68
 translate chinese s03_6224a6c7:
@@ -160,7 +160,7 @@ translate chinese s03_b5163395:
 translate chinese s03_d7b2b802:
 
     # mc "Your [game.chloekevin] isn't coming?"
-    mc "你 [game.chloekevin] 不来吗?"
+    mc "你女朋友不来吗?"
 
 # game/code/d01/s03.rpy:122
 translate chinese s03_62edb21b:
@@ -220,7 +220,7 @@ translate chinese s03_45f11869:
 translate chinese s03_1c4154e0:
 
     # mc "It's not like your [game.chloekevin] to miss the beginning of the game."
-    mc "你的[game.chloekevin] 错过比赛的开场可真是不常见."
+    mc "你Chole错过比赛的开场可真是不常见."
 
 # game/code/d01/s03.rpy:139
 translate chinese s03_f0c9a692:
@@ -334,13 +334,13 @@ translate chinese s03_71858fb4:
 translate chinese s03_898380c6:
 
     # mct "I remember, one time, we were late because her [game.kevinchloe] forgot his keys. She was so pissed."
-    mct "我记着有一次我们来玩因为她[game.kevinchloe] 忘了他的钥匙，当时她可生气了."
+    mct "我记着有一次我们来玩因为她Chloe忘了他的钥匙，当时她可生气了."
 
 # game/code/d01/s03.rpy:173
 translate chinese s03_c1b53bcc:
 
     # mc "There's your [game.chloekevin]."
-    mc "你[game.chloekevin]来了."
+    mc "你女朋友来了."
 
 # game/code/d01/s03.rpy:175
 translate chinese s03_b46c5fef:
@@ -370,7 +370,7 @@ translate chinese s03_66baf98c:
 translate chinese s03_1ddb3d40:
 
     # mc "Yeah, I went home to help my [game.stacytitle]."
-    mc "对，我回家去帮助我 [game.stacytitle]了."
+    mc "对，我回家去帮助我妹妹了."
 
 # game/code/d01/s03.rpy:184
 translate chinese s03_889ca342:
@@ -400,7 +400,7 @@ translate chinese s03_bf198033:
 translate chinese s03_7a4a7ea8:
 
     # kb "By the way, when is your [game.stacytitle] coming?"
-    kb "顺便问一下，你 [game.stacytitle]啥时候来啊?"
+    kb "顺便问一下，你妹妹啥时候来啊?"
 
 # game/code/d01/s03.rpy:193
 translate chinese s03_393ded45:
@@ -466,13 +466,13 @@ translate chinese s03_c772efaa:
 translate chinese s03_0c398970:
 
     # sy "Heeeey! Big [game.mctitle], you're here!"
-    sy "Heeeey! [game.mctitle], 你终于回来了!"
+    sy "Heeeey! 大哥, 你终于回来了!"
 
 # game/code/d01/s03.rpy:231
 translate chinese s03_512059d9:
 
     # mct "Is that my [game.stacytitle]?! She looks completely different!"
-    mct "这是我的 [game.stacytitle]?! 她看起来变了许多!"
+    mct "这是我的妹妹?! 她看起来变了许多!"
 
 # game/code/d01/s03.rpy:232
 translate chinese s03_9c23b148:
@@ -628,7 +628,7 @@ translate chinese s03_c1e7f53c:
 translate chinese s03_d628f7cc:
 
     # sy "What? And where is my \"Thank you [game.stacytitle], for hiding my porn from mom and dad for me\"?"
-    sy "什么? 我的那句 \"谢谢你 [game.stacytitle], 找到了我的小黄片，然后帮助我藏起来了\"?"
+    sy "什么? 我的那句 \"谢谢你我亲爱的妹妹, 找到了我的小黄片，然后帮助我藏起来了\"?"
 
 # game/code/d01/s03.rpy:280
 translate chinese s03_e666a618:
@@ -742,7 +742,7 @@ translate chinese s03_73bfe911:
 translate chinese s03_1120c9ba:
 
     # sy "Oh, big [game.mctitle]! You're so cute with your lame excuses!"
-    sy "Oh,  [game.mctitle]!你用这些蹩脚的借口时真是可爱呢!"
+    sy "Oh, 我的好哥哥!你用这些蹩脚的借口时真是可爱呢!"
 
 # game/code/d01/s03.rpy:322
 translate chinese s03_079510f8:
@@ -784,7 +784,7 @@ translate chinese s03_ecbd1a15:
 translate chinese s03_2d37d8da:
 
     # mc "Who are you and what have you done with my [game.stacytitle]?!"
-    mc "你对我真正的 [game.stacytitle]做了些什么啊?!"
+    mc "你对我真正的妹妹做了些什么啊?!"
 
 # game/code/d01/s03.rpy:337
 translate chinese s03_53494d9e:
@@ -802,7 +802,7 @@ translate chinese s03_16179f26:
 translate chinese s03_e6eb0ce7:
 
     # sy "Wow! Big [game.mctitle]'s so angry!"
-    sy "Wow! [game.mctitle]生气了!"
+    sy "Wow!我的好哥哥生气了!"
 
 # game/code/d01/s03.rpy:345
 translate chinese s03_83282cee:
@@ -844,7 +844,7 @@ translate chinese s03_e7b88e90:
 translate chinese s03_33a2cf6e:
 
     # mct "It's so embarrassing that my [game.stacytitle] has watched all my kinky porn. What does she think of me now that she can see I'm a real pervert?!"
-    mct "I这也太尴尬了，我的 [game.stacytitle]把我的小黄片给看完了. 她现在会怎么想我啊，不会觉得我是个变态吧?!"
+    mct "I这也太尴尬了，我的妹妹把我的小黄片给看完了. 她现在会怎么想我啊，不会觉得我是个变态吧?!"
 
 # game/code/d01/s03.rpy:359
 translate chinese s03_ed8939ee:
@@ -976,7 +976,7 @@ translate chinese s03_0065676a:
 translate chinese s03_27142ba9:
 
     # mct "Would he even recognize that it's his [game.chloekevin]'s pictures?"
-    mct "或许他会认出这是他[game.chloekevin]的照片?"
+    mct "或许他会认出这是他Chloe的照片?"
 
 # game/code/d01/s03.rpy:407
 translate chinese s03_f842849b:
