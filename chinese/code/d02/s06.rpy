@@ -118,241 +118,241 @@ translate chinese d02s06_448253f2:
 translate chinese d02s06_c1e70be4:
 
     # kb "Ahah! Right!"
-    kb "Ahah! Right!"
+    kb "嘿嘿，你说得对!"
 
 # game/code/d02/s06.rpy:85
 translate chinese d02s06_fa7b3d1b:
 
     # mc "Mr Nordin is not here yet. Is he late?"
-    mc "Mr Nordin is not here yet. Is he late?"
+    mc "Nordin教授还没有来，他迟到了吗?"
 
 # game/code/d02/s06.rpy:87
 translate chinese d02s06_8b96f65f:
 
     # kb "Yeah. Maybe he won't come at all?"
-    kb "Yeah. Maybe he won't come at all?"
+    kb "嗯，又或许他根本不来了?"
 
 # game/code/d02/s06.rpy:89
 translate chinese d02s06_050c649e:
 
     # mc "That would be good. I could use some free time."
-    mc "That would be good. I could use some free time."
+    mc "那样的话就太好了，这样我就能利用这段时间了."
 
 # game/code/d02/s06.rpy:92
 translate chinese d02s06_5f4b12f4:
 
     # kb "How did the cleaning go?"
-    kb "How did the cleaning go?"
+    kb "你昨天体育馆清洁得怎么样?"
 
 # game/code/d02/s06.rpy:95
 translate chinese d02s06_fa8c5876:
 
     # mc "It wasn’t that bad! Pete joined and we finished everything faster!"
-    mc "It wasn’t that bad! Pete joined and we finished everything faster!"
+    mc "还不错吧，Pete帮我了一把，我们就很快完成了!"
 
 # game/code/d02/s06.rpy:97
 translate chinese d02s06_80dcb2f0:
 
     # mc "We cleaned everything pretty quickly!"
-    mc "We cleaned everything pretty quickly!"
+    mc "我们很快地清理了所有东西!"
 
 # game/code/d02/s06.rpy:99
 translate chinese d02s06_ebdccf1b:
 
     # kb "Ah nice!"
-    kb "Ah nice!"
+    kb "奈斯!"
 
 # game/code/d02/s06.rpy:102
 translate chinese d02s06_0f9e6cc9:
 
     # kb "How did the meeting with Pete go?"
-    kb "How did the meeting with Pete go?"
+    kb "对了，你跟Pete的见面怎么样?"
 
 # game/code/d02/s06.rpy:104
 translate chinese d02s06_beb56350:
 
     # mc "Nice! Pete also showed me Fetish Locator!"
-    mc "Nice! Pete also showed me Fetish Locator!"
+    mc "很好，他也告诉我关于app的事了!"
 
 # game/code/d02/s06.rpy:106
 translate chinese d02s06_fd005d89:
 
     # kb "I see! I told you! Almost everyone at our college is using it!"
-    kb "I see! I told you! Almost everyone at our college is using it!"
+    kb "我早就告诉你我们学校的人都在用!"
 
 # game/code/d02/s06.rpy:108
 translate chinese d02s06_b16ae0ae:
 
     # mc "({i}Heh. I probably shouldn't tell him about his [game.chloekevin] sucking off Pete just to get points in the app!{/i})"
-    mc "({i}Heh. I probably shouldn't tell him about his [game.chloekevin] sucking off Pete just to get points in the app!{/i})"
+    mc "({i}呃，我或许不应该告诉他，他的 [game.chloekevin] 为了app的分数给Pete整了口活!{/i})"
 
 # game/code/d02/s06.rpy:110
 translate chinese d02s06_a9e74211:
 
     # mc "({i}I even have the picture of Chloe covered in cum! Definitely should keep that to myself!{/i})"
-    mc "({i}I even have the picture of Chloe covered in cum! Definitely should keep that to myself!{/i})"
+    mc "({i}我甚至有Chloe脸上残留着精液的照片! 我应该把它当做秘密保留在我这!{/i})"
 
 # game/code/d02/s06.rpy:111
 translate chinese d02s06_673ade22:
 
     # mc "Pete told me about the party! Tickets are sold in the app. But I need to get 50 points to get there!"
-    mc "Pete told me about the party! Tickets are sold in the app. But I need to get 50 points to get there!"
+    mc "Pete告诉我关于派对的事了，我们可以在app上购买到票，但是我需要50分才行!"
 
 # game/code/d02/s06.rpy:113
 translate chinese d02s06_52b42f0d:
 
     # kb "Wow, that seems like a lot!"
-    kb "Wow, that seems like a lot!"
+    kb "50分可不是小数目啊!"
 
 # game/code/d02/s06.rpy:114
 translate chinese d02s06_abb7e839:
 
     # kb "Does it have anything to do with Min and Antony? You told me they were talking about some party yesterday."
-    kb "Does it have anything to do with Min and Antony? You told me they were talking about some party yesterday."
+    kb "或许跟Min和Antony有关? 你跟我说他们昨天谈论着什么派对."
 
 # game/code/d02/s06.rpy:116
 translate chinese d02s06_bcb169b5:
 
     # mc "Oh! You’re right! I completely forgot about that! It might be the same party! Maybe Min and Antony are organizing this party?"
-    mc "Oh! You’re right! I completely forgot about that! It might be the same party! Maybe Min and Antony are organizing this party?"
+    mc "你说得对，我都快忘了这事，这或许是同一个派对!或许是Min和Antony举办的派对?"
 
 # game/code/d02/s06.rpy:118
 translate chinese d02s06_8f16e9c2:
 
     # kb "Why not?"
-    kb "Why not?"
+    kb "有可能是吧?"
 
 # game/code/d02/s06.rpy:120
 translate chinese d02s06_c8708a17:
 
     # mc "Maybe I could find something out."
-    mc "Maybe I could find something out."
+    mc "或许我能找到什么线索."
 
 # game/code/d02/s06.rpy:122
 translate chinese d02s06_1982d67d:
 
     # kb "And why did Pete tell you about this party? I don't remember him taking you to any parties."
-    kb "And why did Pete tell you about this party? I don't remember him taking you to any parties."
+    kb "为什么Pete告诉了你关于派对的事? 我不记着他带你去过任何一个派对啊."
 
 # game/code/d02/s06.rpy:124
 translate chinese d02s06_48aa700c:
 
     # mc "Oh, yeah. I forgot to tell you. He is sure that Lydia will be there."
-    mc "Oh, yeah. I forgot to tell you. He is sure that Lydia will be there."
+    mc "呃，是啊，我忘了告诉你，他肯定Lydia也会参加."
 
 # game/code/d02/s06.rpy:126
 translate chinese d02s06_d04e2ad1:
 
     # kb "Ah! I see. Lydia! That explains a lot. So 50 points than? How do you plan to get them?"
-    kb "Ah! I see. Lydia! That explains a lot. So 50 points than? How do you plan to get them?"
+    kb "我懂了，原来是Lydia! 这就可以解释了. 不过50分确实很多，你计划怎么赚这些分呢?"
 
 # game/code/d02/s06.rpy:128
 translate chinese d02s06_034cedef:
 
     # mc "I don't have a real plan yet."
-    mc "I don't have a real plan yet."
+    mc "我还没有一个真正的计划."
 
 # game/code/d02/s06.rpy:130
 translate chinese d02s06_f63fa37c:
 
     # mc "But I already got some points, and I hope to get more today and tomorrow!"
-    mc "But I already got some points, and I hope to get more today and tomorrow!"
+    mc "但是我已经有一些分了，我希望今天或者明天能好运点!"
 
 # game/code/d02/s06.rpy:132
 translate chinese d02s06_7033deac:
 
     # kb "Hmmm I see. Well, good luck with that!"
-    kb "Hmmm I see. Well, good luck with that!"
+    kb "那祝你好运!"
 
 # game/code/d02/s06.rpy:134
 translate chinese d02s06_6d04953c:
 
     # mc "Thanks!"
-    mc "Thanks!"
+    mc "谢谢!"
 
 # game/code/d02/s06.rpy:146
 translate chinese d02s06_56672fe1:
 
     # fl "Thanks. Your user name is saved now."
-    fl "Thanks. Your user name is saved now."
+    fl "谢谢，你的用户名已被保存."
 
 # game/code/d02/s06.rpy:148
 translate chinese d02s06_181f9e16:
 
     # fl "Yesterday was a lot of fun! But boys had a huge advantage! It is so much easier for you to get some cum!"
-    fl "Yesterday was a lot of fun! But boys had a huge advantage! It is so much easier for you to get some cum!"
+    fl "昨天真的很有趣，不过男孩们昨天可是享福了! 对你们来说高潮射精太简单了!"
 
 # game/code/d02/s06.rpy:150
 translate chinese d02s06_03c5dbf6:
 
     # fl "Today will be about girls! Fetish of the day is ..."
-    fl "Today will be about girls! Fetish of the day is ..."
+    fl "所以说今天的性癖是关于女孩的，那就是..."
 
 # game/code/d02/s06.rpy:152
 translate chinese d02s06_e52bd013:
 
     # fl "Go and eat some pussy!"
-    fl "Go and eat some pussy!"
+    fl "舔女孩们的小穴!"
 
 # game/code/d02/s06.rpy:153
 translate chinese d02s06_45b7e47a:
 
     # mc "({i}Oh fuck!{/i})"
-    mc "({i}Oh fuck!{/i})"
+    mc "({i}我去!{/i})"
 
 # game/code/d02/s06.rpy:155
 translate chinese d02s06_c10b8745:
 
     # mc "({i}Now I'm regretting not putting 100%% of effort yesterday!{/i})"
-    mc "({i}Now I'm regretting not putting 100%% of effort yesterday!{/i})"
+    mc "({i}现在，我很后悔昨天没有付出100%%的努力了!{/i})"
 
 # game/code/d02/s06.rpy:157
 translate chinese d02s06_0c8dfce3:
 
     # mct "I should have tried to earn more points yesterday!"
-    mct "I should have tried to earn more points yesterday!"
+    mct "我昨天应该再试着赚取更多分数的!"
 
 # game/code/d02/s06.rpy:158
 translate chinese d02s06_e0b96f3c:
 
     # mc "({i}How am I going to find a girl for that?!{/i})"
-    mc "({i}How am I going to find a girl for that?!{/i})"
+    mc "({i}我怎么才能找到女孩来完成这个挑战啊?!{/i})"
 
 # game/code/d02/s06.rpy:160
 translate chinese d02s06_a4b4692d:
 
     # mc "({i}It is not like I can lick a girl's pussy without her knowing, like I did yesterday cumming on AmRose.{/i})"
-    mc "({i}It is not like I can lick a girl's pussy without her knowing, like I did yesterday cumming on AmRose.{/i})"
+    mc "({i}呃，不可能在一个女孩不知道的情况下我就去舔她的小穴,就像我昨天在AmRose那干的事一样.{/i})"
 
 # game/code/d02/s06.rpy:162
 translate chinese d02s06_3da94ecc:
 
     # mc "({i}That was so crazy! I came on AmRose while she was sleeping!{/i})"
-    mc "({i}That was so crazy! I came on AmRose while she was sleeping!{/i})"
+    mc "({i}太疯狂了，在她睡觉的时候我射到了她的身上!{/i})"
 
 # game/code/d02/s06.rpy:163
 translate chinese d02s06_9edc2817:
 
     # mct "What if she knew about it? How would she react?"
-    mct "What if she knew about it? How would she react?"
+    mct "她要是知道的话会发生什么，她会怎么办?"
 
 # game/code/d02/s06.rpy:175
 translate chinese d02s06_f2a7f36b:
 
     # mct "Min just left the class?"
-    mct "Min just left the class?"
+    mct "Min刚刚离开了教室?"
 
 # game/code/d02/s06.rpy:176
 translate chinese d02s06_d854af83:
 
     # mct "It wasn't 15 minutes yet. Teacher might still come."
-    mct "It wasn't 15 minutes yet. Teacher might still come."
+    mct "才刚过15分钟，教授还有可能回来."
 
 # game/code/d02/s06.rpy:179
 translate chinese d02s06_45a656e0:
 
     # "Couple minutes later"
-    "Couple minutes later"
+    "几分钟之后"
 
 # game/code/d02/s06.rpy:183
 translate chinese d02s06_015d20de:
@@ -364,193 +364,193 @@ translate chinese d02s06_015d20de:
 translate chinese d02s06_39d50247:
 
     # mct "She came back in a skirt! She did it right after today`s fetish was announced!"
-    mct "She came back in a skirt! She did it right after today`s fetish was announced!"
+    mct "她会来的时候换成了裙子，就在App发送了通知之后!"
 
 # game/code/d02/s06.rpy:185
 translate chinese d02s06_2d7431a4:
 
     # mct "I already know {i}what{/i} she and Antony are planning to do!"
-    mct "I already know {i}what{/i} she and Antony are planning to do!"
+    mct "我已经知道 {i}到底{/i} 她和Antony要干什么了!"
 
 # game/code/d02/s06.rpy:191
 translate chinese d02s06_fd7af61c:
 
     # mc "And here is Mr. Nordin. Lecture is still going to happen."
-    mc "And here is Mr. Nordin. Lecture is still going to happen."
+    mc "Nordin教授来了. 看来还是会上课了."
 
 # game/code/d02/s06.rpy:193
 translate chinese d02s06_ab1437c2:
 
     # kb "Yep! Sadly!"
-    kb "Yep! Sadly!"
+    kb "啊，可惜了!"
 
 # game/code/d02/s06.rpy:196
 translate chinese d02s06_f1c2fe01:
 
     # mc "Man! This fetish of the day is a bummer!"
-    mc "Man! This fetish of the day is a bummer!"
+    mc "老兄，今天的性癖挑战实在是太难了!"
 
 # game/code/d02/s06.rpy:198
 translate chinese d02s06_d32089cb:
 
     # kb "Yea, you need to find a girl for this!"
-    kb "Yea, you need to find a girl for this!"
+    kb "嗯，你得找个愿意跟你做这个的女孩!"
 
 # game/code/d02/s06.rpy:200
 translate chinese d02s06_a985b678:
 
     # kb "There is an option to buy a rubber pussy in a sexshop, but I doubt you will get any points for that!"
-    kb "There is an option to buy a rubber pussy in a sexshop, but I doubt you will get any points for that!"
+    kb "呃，我倒是可以去情趣用品店买个假的逼，但是我觉得这个方法行不通!"
 
 # game/code/d02/s06.rpy:202
 translate chinese d02s06_ec080e62:
 
     # mc "Haha! Yeah!"
-    mc "Haha! Yeah!"
+    mc "哈哈哈哈，可真有你的!"
 
 # game/code/d02/s06.rpy:203
 translate chinese d02s06_03a1bc66:
 
     # mc "({i}But do I have a better idea?!{/i})"
-    mc "({i}But do I have a better idea?!{/i})"
+    mc "({i}但是我也没有更好的办法了?!{/i})"
 
 # game/code/d02/s06.rpy:205
 translate chinese d02s06_0b3da5ed:
 
     # kb "Or you can put an ad on the app."
-    kb "Or you can put an ad on the app."
+    kb "或许你可以在App上发个帖."
 
 # game/code/d02/s06.rpy:207
 translate chinese d02s06_7a0e86b4:
 
     # mc "What is that?"
-    mc "What is that?"
+    mc "那是什么?"
 
 # game/code/d02/s06.rpy:209
 translate chinese d02s06_c9dc21ba:
 
     # kb "You pay some money and post an ad in the app with the info what you are looking for! Maybe you'll get lucky!"
-    kb "You pay some money and post an ad in the app with the info what you are looking for! Maybe you'll get lucky!"
+    kb "你花点钱在app上发帖，来找你想要的东西!或许你会非常幸运呢!"
 
 # game/code/d02/s06.rpy:211
 translate chinese d02s06_e7baac27:
 
     # mc "Let's see how to do that..."
-    mc "Let's see how to do that..."
+    mc "让我看看怎么发帖..."
 
 # game/code/d02/s06.rpy:213
 translate chinese d02s06_2514821a:
 
     # mc "It costs $5 to put an ad up for one day! That’s almost robbery!"
-    mc "It costs $5 to put an ad up for one day! That’s almost robbery!"
+    mc "我得支付$5来发送这个帖子，而且只在一天内有效! 这跟抢劫没啥区别啊!"
 
 # game/code/d02/s06.rpy:216
 translate chinese d02s06_de13e7e8:
 
     # kb "Well that or the rubber pussy. and the rubber pussy will cost you more!"
-    kb "Well that or the rubber pussy. and the rubber pussy will cost you more!"
+    kb "呃，但是总比你买橡胶逼的主意好啊，而且那个还更贵!"
 
 # game/code/d02/s06.rpy:218
 translate chinese d02s06_7cbebcce:
 
     # mc "That is true!"
-    mc "That is true!"
+    mc "这倒是真的!"
 
 # game/code/d02/s06.rpy:220
 translate chinese d02s06_6ef48d10:
 
     # kb "You need to post a picture with an ad."
-    kb "You need to post a picture with an ad."
+    kb "你得发布一个照片来完成帖子."
 
 # game/code/d02/s06.rpy:222
 translate chinese d02s06_428e5365:
 
     # mc "Picture of what??"
-    mc "Picture of what??"
+    mc "什么照片??"
 
 # game/code/d02/s06.rpy:224
 translate chinese d02s06_8a9895aa:
 
     # kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
-    kb "Well, it would be a dickpic if that is what you offering. But in this case you are actually going to use a different part of the body!"
+    kb "呃，就是关于你可以交易什么的照片. 这种情况下就是你身体的哪个部位咯!"
 
 # game/code/d02/s06.rpy:226
 translate chinese d02s06_c153789c:
 
     # mc "So should I post a photo of my tongue?!"
-    mc "So should I post a photo of my tongue?!"
+    mc "那我应该照一个舌头的照片?!"
 
 # game/code/d02/s06.rpy:228
 translate chinese d02s06_2a312316:
 
     # kb "Well that or your lips! Think for yourself which will work better?"
-    kb "Well that or your lips! Think for yourself which will work better?"
+    kb "那个或者说你的嘴唇，你自己想想哪个更好点?"
 
 # game/code/d02/s06.rpy:230
 translate chinese d02s06_4c3165dc:
 
     # mc "Actually lips sounds better!"
-    mc "Actually lips sounds better!"
+    mc "嘴唇应该更好点吧!"
 
 # game/code/d02/s06.rpy:232
 translate chinese d02s06_67f28a29:
 
     # mc "({i}But should I post this at all? This whole idea sounds weird.{/i})"
-    mc "({i}But should I post this at all? This whole idea sounds weird.{/i})"
+    mc "({i}但是我真应该这么做吗，这个主意听起来好奇怪.{/i})"
 
 # game/code/d02/s06.rpy:233
 translate chinese d02s06_ac0e2301:
 
     # mct "What if someone would find this out? This is a bit scary."
-    mct "What if someone would find this out? This is a bit scary."
+    mct "如果有人认识出我怎么办，这可太吓人了."
 
 # game/code/d02/s06.rpy:234
 translate chinese d02s06_e12dc444:
 
     # mct "So should I do it?"
-    mct "So should I do it?"
+    mct "我应该做吗?"
 
 # game/code/d02/s06.rpy:239
 translate chinese d02s06_9e0f00f0:
 
     # mc "Okay, let's do this!"
-    mc "Okay, let's do this!"
+    mc "好吧，就这么办了!"
 
 # game/code/d02/s06.rpy:248
 translate chinese d02s06_eda69769:
 
     # mc "Done!"
-    mc "Done!"
+    mc "OK了!"
 
 # game/code/d02/s06.rpy:250
 translate chinese d02s06_0cb958e7:
 
     # kb "Cool!"
-    kb "Cool!"
+    kb "挺好的!"
 
 # game/code/d02/s06.rpy:252
 translate chinese d02s06_1db01c34:
 
     # mc "So how long should I wait?"
-    mc "So how long should I wait?"
+    mc "所以说我应该等多长时间?"
 
 # game/code/d02/s06.rpy:254
 translate chinese d02s06_fed0d51d:
 
     # kb "How do I know?! I never posted anything!"
-    kb "How do I know?! I never posted anything!"
+    kb "我怎么知道，我可从来没发过贴!"
 
 # game/code/d02/s06.rpy:256
 translate chinese d02s06_1e782752:
 
     # mc "What?! And why would you tell me to do that if you’ve never done it yourself?!"
-    mc "What?! And why would you tell me to do that if you’ve never done it yourself?!"
+    mc "卧槽，那这样你怎么还告诉我去发帖?!"
 
 # game/code/d02/s06.rpy:258
 translate chinese d02s06_13e82622:
 
     # kb "You wanted to know how to find someone with a pussy! I just told you what I know!"
-    kb "You wanted to know how to find someone with a pussy! I just told you what I know!"
+    kb "你不是想要个女孩做挑战吗! 我就是告诉了你我知道的事!"
 
 # game/code/d02/s06.rpy:260
 translate chinese d02s06_1c641253:
