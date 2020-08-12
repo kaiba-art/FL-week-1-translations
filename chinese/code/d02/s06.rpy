@@ -4,73 +4,73 @@
 translate chinese d02s06_d141bee8:
 
     # "Day 2"
-    "Day 2"
+    "第二天"
 
 # game/code/d02/s06.rpy:23
 translate chinese d02s06_52759d10:
 
     # "7:00 AM"
-    "7:00 AM"
+    "早上七点"
 
 # game/code/d02/s06.rpy:26
 translate chinese d02s06_df6d5b35:
 
     # mc "Good morning me!"
-    mc "Good morning me!"
+    mc "对我自己说声早上好!"
 
 # game/code/d02/s06.rpy:27
 translate chinese d02s06_e99e848f:
 
     # mc "Seems like Pete never came back home last night. Probably found a good party or two."
-    mc "Seems like Pete never came back home last night. Probably found a good party or two."
+    mc "看起来Pete做完没回来，估计他的派对很好玩吧."
 
 # game/code/d02/s06.rpy:29
 translate chinese d02s06_36d55616:
 
     # mc "({i}But I had a nice time with AmRose yesterday as well.{/i})"
-    mc "({i}But I had a nice time with AmRose yesterday as well.{/i})"
+    mc "({i}不过昨晚我跟AmRose过得也不错.{/i})"
 
 # game/code/d02/s06.rpy:31
 translate chinese d02s06_5e8dc635:
 
     # mct "I feel excited for today!"
-    mct "I feel excited for today!"
+    mct "我已经迫不及待要开始新的一天了!"
 
 # game/code/d02/s06.rpy:32
 translate chinese d02s06_2a2bc255:
 
     # mc "({i}Let`s take a shower and go to the studies.{/i})"
-    mc "({i}Let`s take a shower and go to the studies.{/i})"
+    mc "({i}我先去洗个澡然后就去学习.{/i})"
 
 # game/code/d02/s06.rpy:41
 translate chinese d02s06_4ee8cc8f:
 
     # "9:00 AM"
-    "9:00 AM"
+    "早上九点"
 
 # game/code/d02/s06.rpy:53
 translate chinese d02s06_b3ad3221:
 
     # mct "There is AmRose!"
-    mct "There is AmRose!"
+    mct "AmRose也在这啊!"
 
 # game/code/d02/s06.rpy:55
 translate chinese d02s06_8d8849ac:
 
     # mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
-    mct "Did she noticed that I came on her yesterday... Would be very awkward if she did..."
+    mct "她不会发现我昨晚在她身上射了吧... 如果这样的话会尴尬的..."
 
 # game/code/d02/s06.rpy:59
 translate chinese d02s06_f11ce5d8:
 
     # mc "Hi AmRose! I have to go ask Kevin about some things! I'll see you at the next lecture!"
-    mc "Hi AmRose! I have to go ask Kevin about some things! I'll see you at the next lecture!"
+    mc "嗨，AmRose! 我得去问Kevin点事! 下节课的时候见!"
 
 # game/code/d02/s06.rpy:63
 translate chinese d02s06_7a1090b9:
 
     # arj "Sure! See you later!"
-    arj "Sure! See you later!"
+    arj "好啊，等会见!"
 
 # game/code/d02/s06.rpy:67
 translate chinese d02s06_4cd44184:
@@ -82,37 +82,37 @@ translate chinese d02s06_4cd44184:
 translate chinese d02s06_89124156:
 
     # arj "({i}Oh I forgot that I will have to go home soon. I will have to skip the next lecture.{/i})"
-    arj "({i}Oh I forgot that I will have to go home soon. I will have to skip the next lecture.{/i})"
+    arj "({i}我忘了我得回家一趟. 下节课我上不了了.{/i})"
 
 # game/code/d02/s06.rpy:69
 translate chinese d02s06_bc2f9008:
 
     # arjt "I hope [mcname] won't be upset with me because of that."
-    arjt "I hope [mcname] won't be upset with me because of that."
+    arjt "希望[mcname]别因为这个对我失望."
 
 # game/code/d02/s06.rpy:73
 translate chinese d02s06_0cbf64f8:
 
     # mc "({i}Seems like I managed to upset AmRose. She seems pissed at me.{/i})"
-    mc "({i}Seems like I managed to upset AmRose. She seems pissed at me.{/i})"
+    mc "({i}看来我让AmRose失望了，她看起来跟我生气了.{/i})"
 
 # game/code/d02/s06.rpy:75
 translate chinese d02s06_d7bc8020:
 
     # mc "Hey! Morning."
-    mc "Hey! Morning."
+    mc "Hey!早上好."
 
 # game/code/d02/s06.rpy:76
 translate chinese d02s06_47f1da4a:
 
     # kb "Hey back. Got any punishments today?"
-    kb "Hey back. Got any punishments today?"
+    kb "嗨，你今天没有陷入麻烦吧?"
 
 # game/code/d02/s06.rpy:79
 translate chinese d02s06_448253f2:
 
     # mc "Not yet! But there is plenty of time today!"
-    mc "Not yet! But there is plenty of time today!"
+    mc "还没有，不过今天还有不少时间呢!"
 
 # game/code/d02/s06.rpy:81
 translate chinese d02s06_c1e70be4:
