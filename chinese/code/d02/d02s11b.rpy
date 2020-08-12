@@ -70,7 +70,7 @@ translate chinese d02s11b_2d6b93d8:
 translate chinese d02s11b_2a4db930:
 
     # mes "Mr.D1cky is afraid of a little blood or something. He doesn't want to \"ride the red wave\" even for me.{w} Not even for FL challenges."
-    mes "Mr.D1cky 有一点恐血. 他不太喜欢 \"带汁儿的甜点"\就算是为了我.{w} 跟别说是FL 的挑战了."
+    mes "Mr.D1cky 有一点恐血. 他不太喜欢 \"带汁儿的甜点"\就算是为了我.{w} 更别说是为了FL的挑战了."
 
 # game/code/d02/d02s11b.rpy:77
 translate chinese d02s11b_432f3c5e:
@@ -286,55 +286,55 @@ translate chinese replay_d02s11b_a6dd4e57:
 translate chinese replay_d02s11b_88412589:
 
     # "[mcname] started with slow sucking on Min's clit, that made her to give out a loud moan."
-    "[mcname]开始慢慢的吮吸Min的阴蒂, that made her to give out a loud moan."
+    "[mcname]开始慢慢的吮吸Min的阴蒂, 这让她发出了更大的娇喘声."
 
 # game/code/d02/d02s11b.rpy:228
 translate chinese replay_d02s11b_f1a64d64:
 
     # "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
-    "After that [mcname] drew a path with his tongue through her lips from clit down the length of her slit and back... {w}That made her moan even more."
+    "之后 [mcname] 的舌头从阴唇沿着缝隙，一直舔到阴蒂，来回重复几次... {w}这使她的呻吟更大声了."
 
 # game/code/d02/d02s11b.rpy:229
 translate chinese replay_d02s11b_7a19cf07:
 
     # mct "This doesn't taste bad at all. Antony doesn't know what he is missing."
-    mct "This doesn't taste bad at all. Antony doesn't know what he is missing."
+    mct "总的来说味道还算不错，Antony可不知道他错过了什么美味."
 
 # game/code/d02/d02s11b.rpy:232
 translate chinese replay_d02s11b_d9521958:
 
     # "[mcname] finally breached the entrance to Min's sacred hole with his tongue and started to explore the inner halls like a hungry beast..."
-    "[mcname] finally breached the entrance to Min's sacred hole with his tongue and started to explore the inner halls like a hungry beast..."
+    "[mcname] 最后慢慢地把舌头伸进了Min那湿湿的小穴，然后开始像饥饿的野兽般品尝它的食物..."
 
 # game/code/d02/d02s11b.rpy:234
 translate chinese replay_d02s11b_a89139dc:
 
     # mct "Huh, I do taste a little blood. Tastes like iron...{w} Why do I know what iron tastes like?"
-    mct "Huh, I do taste a little blood. Tastes like iron...{w} Why do I know what iron tastes like?"
+    mct "呃，我好像舔到了一点血. 有点像铁的味道...{w} 等会，我为什么会知道铁是什么味?"
 
 # game/code/d02/d02s11b.rpy:235
 translate chinese replay_d02s11b_33f8dab7:
 
     # "[mcname]'s actions brought an already exited Min to a top of her pleasure. Her pussy was craving for such attention!"
-    "[mcname]'s actions brought an already exited Min to a top of her pleasure. Her pussy was craving for such attention!"
+    "[mcname]的动作吧Min带到了高潮. 她的小穴正在疯狂的颤抖，就像充满了欲望一样!"
 
 # game/code/d02/d02s11b.rpy:236
 translate chinese replay_d02s11b_32df4632:
 
     # "Her insides were pulsating and her scream went through the empty bathroom and echoed down the sports hall..."
-    "Her insides were pulsating and her scream went through the empty bathroom and echoed down the sports hall..."
+    "她的内心在跳动，尖叫声穿过空荡荡的浴室，在体育馆回荡..."
 
 # game/code/d02/d02s11b.rpy:239
 translate chinese replay_d02s11b_e5cb2ce8:
 
     # mes "YES! OH YES! PLEASE LET ME CUM!!"
-    mes "YES! OH YES! PLEASE LET ME CUM!!"
+    mes "对对，就是这样，快点让我高潮吧!!"
 
 # game/code/d02/d02s11b.rpy:241
 translate chinese replay_d02s11b_957fef2f:
 
     # mct "That's right. Cum for me bitch!"
-    mct "That's right. Cum for me bitch!"
+    mct "这就对了，在我面前高潮吧!"
 
 # game/code/d02/d02s11b.rpy:246
 translate chinese replay_d02s11b_ce8ae155:
@@ -346,145 +346,145 @@ translate chinese replay_d02s11b_ce8ae155:
 translate chinese replay_d02s11b_b1cfa47b:
 
     # "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirted into his open mouth."
-    "With a tongue deep inside of her pussy [mcname] felt how Min's orgasm let go of her muscles as she squirted into his open mouth."
+    "舌头在Min的蜜穴里搅动， [mcname] 感觉Min的一阵痉挛之后，她就在张开的嘴里潮喷了."
 
 # game/code/d02/d02s11b.rpy:250
 translate chinese replay_d02s11b_3929faa5:
 
     # mes "Oh, Fuck!{w} I Have NEVER ...{w} You are extremely talented."
-    mes "Oh, Fuck!{w} I Have NEVER ...{w} You are extremely talented."
+    mes "啊!啊，太爽了!{w} 我从来没有这样 ...{w} 你真是...会呢."
 
 # game/code/d02/d02s11b.rpy:256
 translate chinese replay_d02s11b_60314aff:
 
     # mes "Thank you."
-    mes "Thank you."
+    mes "谢谢你."
 
 # game/code/d02/d02s11b.rpy:257
 translate chinese replay_d02s11b_41e24afe:
 
     # mc "I'm glad we could help each other out, with this challenge."
-    mc "I'm glad we could help each other out, with this challenge."
+    mc "我很高兴我们能在今天的挑战上互相帮助."
 
 # game/code/d02/d02s11b.rpy:259
 translate chinese replay_d02s11b_b66575e4:
 
     # mes "Yes. Now if you'll excuse me...{w} I need to pee and put my clothes back on."
-    mes "Yes. Now if you'll excuse me...{w} I need to pee and put my clothes back on."
+    mes "是啊，如果你现在不介意的话...{w} 我得去上个卫生间."
 
 # game/code/d02/d02s11b.rpy:261
 translate chinese replay_d02s11b_72aa4035:
 
     # mes "Did you swallow your tongue? You can leave now!"
-    mes "Did you swallow your tongue? You can leave now!"
+    mes "你哑巴了吗，你现在可以走了!"
 
 # game/code/d02/d02s11b.rpy:263
 translate chinese replay_d02s11b_9291f744:
 
     # mct "She is back at acting confident, like I didn't just gave her an incredible orgasm!"
-    mct "She is back at acting confident, like I didn't just gave her an incredible orgasm!"
+    mct "她好想回到自信的状态了, 就像刚才什么也没发生原因!"
 
 # game/code/d02/d02s11b.rpy:267
 translate chinese replay_d02s11b_c039aa13:
 
     # mes "Thanks, again. That was excellent."
-    mes "Thanks, again. That was excellent."
+    mes "再次谢谢你，刚才真的很让我舒服."
 
 # game/code/d02/d02s11b.rpy:268
 translate chinese replay_d02s11b_1ba6ec5a:
 
     # mc "Thank you. You were delicious."
-    mc "Thank you. You were delicious."
+    mc "呃谢谢你，你尝起来很美味."
 
 # game/code/d02/d02s11b.rpy:273
 translate chinese replay_d02s11b_1cf044d1:
 
     # "Min goes into a stall. After a couple of seconds [mcname] walks up to it and slowly opens the door."
-    "Min goes into a stall. After a couple of seconds [mcname] walks up to it and slowly opens the door."
+    "Min进了厕所. 几秒钟之后 [mcname] 来到那并打开了门."
 
 # game/code/d02/d02s11b.rpy:276
 translate chinese replay_d02s11b_61b75870:
 
     # mc "You know, I would kinda like to see that"
-    mc "You know, I would kinda like to see that"
+    mc "我倒是不介意在你方便的时候看着"
 
 # game/code/d02/d02s11b.rpy:278
 translate chinese replay_d02s11b_d80b3761:
 
     # mes "Oh, you're still here!"
-    mes "Oh, you're still here!"
+    mes "你还在这啊!"
 
 # game/code/d02/d02s11b.rpy:279
 translate chinese replay_d02s11b_e08008ca:
 
     # mc "Yeah, I think I deserve some reward"
-    mc "Yeah, I think I deserve some reward"
+    mc "当然了，我觉得我应该得到点奖励"
 
 # game/code/d02/d02s11b.rpy:281
 translate chinese replay_d02s11b_f929d0ba:
 
     # mes "(laughs) Yes, you do. But I don't think I could pee with you watching right now... {w}Maybe next time?"
-    mes "(laughs) Yes, you do. But I don't think I could pee with you watching right now... {w}Maybe next time?"
+    mes "(轻笑) 当然可以，不过现在的话你看着我...我可能尿不出来... {w}或许下次?"
 
 # game/code/d02/d02s11b.rpy:282
 translate chinese replay_d02s11b_597fff18:
 
     # mc "I don't think I've ever heard you laugh before... I like it."
-    mc "I don't think I've ever heard you laugh before... I like it."
+    mc "我之前从来都没听过你笑... 我喜欢这种感觉."
 
 # game/code/d02/d02s11b.rpy:284
 translate chinese replay_d02s11b_e3aec1e4:
 
     # mct "That didn't take long. I can hear her peeing."
-    mct "That didn't take long. I can hear her peeing."
+    mct "我离开后就听见她尿出来的声音了."
 
 # game/code/d02/d02s11b.rpy:292
 translate chinese replay_d02s11b_d07f8876:
 
     # fl "You earned some points!"
-    fl "You earned some points!"
+    fl "你得到了一些分数!"
 
 # game/code/d02/d02s11b.rpy:294
 translate chinese replay_d02s11b_629fe89d:
 
     # mct "Hey, I just got [s11b_points] points!"
-    mct "Hey, I just got [s11b_points] points!"
+    mct "Hey, 我得到了[s11b_points]分!"
 
 translate chinese strings:
 
     # game/code/d02/d02s11b.rpy:78
     old "Munch Min's Red Carpet"
-    new "Munch Min's Red Carpet"
+    new "品尝下Min那带汁的甜点"
 
     # game/code/d02/d02s11b.rpy:78
     old "Run for the Cafe"
-    new "Run for the Cafe"
+    new "赶快去咖啡店"
 
     # game/code/d02/d02s11b.rpy:78
     old "Not My Thing"
-    new "Not My Thing"
+    new "算了吧"
 
     # game/code/d02/d02s11b.rpy:110
     old "Enter with Eyes Down as ordered"
-    new "Enter with Eyes Down as ordered"
+    new "目光放低着进去"
 
     # game/code/d02/d02s11b.rpy:110
     old "Enter looking at her face"
-    new "Enter looking at her face"
+    new "看着她的脸进去"
 
     # game/code/d02/d02s11b.rpy:218
     old "That completes the challenge"
-    new "That completes the challenge"
+    new "这会完成挑战的"
 
     # game/code/d02/d02s11b.rpy:218
     old "She didn't say I {i}have{/i} to stop"
-    new "She didn't say I {i}have{/i} to stop"
+    new "她没说{i}我必须{/i} 停下"
 
     # game/code/d02/d02s11b.rpy:264
     old "Leave quietly"
-    new "Leave quietly"
+    new "悄悄地离开"
 
     # game/code/d02/d02s11b.rpy:264
     old "Stay & Watch"
-    new "Stay & Watch"
+    new "待着看"
 
