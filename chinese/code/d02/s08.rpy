@@ -4,175 +4,175 @@
 translate chinese d02s08_ce6bbf32:
 
     # "12:30 PM"
-    "12:30 PM"
+    "中午十二点半"
 
 # game/code/d02/s08.rpy:43
 translate chinese d02s08_da42ce48:
 
     # mct "Okay I think the message meant one of these benches."
-    mct "Okay I think the message meant one of these benches."
+    mct "信息上说的应该就是这个长凳了."
 
 # game/code/d02/s08.rpy:44
 translate chinese d02s08_6d66599d:
 
     # mct "Let's sit here and wait."
-    mct "Let's sit here and wait."
+    mct "我坐着等会吧."
 
 # game/code/d02/s08.rpy:46
 translate chinese d02s08_7975ff2e:
 
     # mct "Who could it be? {w} I'm a bit worried."
-    mct "Who could it be? {w} I'm a bit worried."
+    mct "会是谁呢? {w} 我有点小担心."
 
 # game/code/d02/s08.rpy:48
 translate chinese d02s08_61cc607a:
 
     # mct "And I feel a bit stupid sitting here and holding this banana."
-    mct "And I feel a bit stupid sitting here and holding this banana."
+    mct "而且我觉得拿根儿香蕉坐在这有点傻."
 
 # game/code/d02/s08.rpy:49
 translate chinese d02s08_4d71f7ab:
 
     # mct "It's really nothing special. I probably wouldn't even notice if someone else is holding a banana."
-    mct "It's really nothing special. I probably wouldn't even notice if someone else is holding a banana."
+    mct "没什么特别的，如果别人手里拿根香蕉的话我可能都不会发现的."
 
 # game/code/d02/s08.rpy:50
 translate chinese d02s08_b65946cd:
 
     # mct "But I feel like I'm holding a sex toy and like everybody who goes by will know why I'm holding it."
-    mct "But I feel like I'm holding a sex toy and like everybody who goes by will know why I'm holding it."
+    mct "但是我觉得就像是拿着一个性玩具一样，而且所有人都好像知道我要干什么那种."
 
 # game/code/d02/s08.rpy:53
 translate chinese d02s08_72e19a6d:
 
     # mct "Where is she?"
-    mct "Where is she?"
+    mct "她在哪呢?"
 
 # game/code/d02/s08.rpy:54
 translate chinese d02s08_b0661108:
 
     # mct "I'm waiting here for girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
-    mct "I'm waiting here for girl that I don't know, who is supposed to just give me her pussy to taste... {w} When I think about it - this is crazy!"
+    mct "我在这等一个我不知道的女孩, 而且她说可以帮我完成挑战... {w}仔细想一想的话，这可真是疯狂!"
 
 # game/code/d02/s08.rpy:56
 translate chinese d02s08_e27f8da1:
 
     # mct "Someone is coming! {w}Is that her?"
-    mct "Someone is coming! {w}Is that her?"
+    mct "有人过来了! {w}是她吗?"
 
 # game/code/d02/s08.rpy:58
 translate chinese d02s08_1215041f:
 
     # mct "I need to clear my head. This bench looks perfect!"
-    mct "I need to clear my head. This bench looks perfect!"
+    mct "我得保持清醒（转移注意力），这个长凳看起来很完美!"
 
 # game/code/d02/s08.rpy:61
 translate chinese d02s08_cb4cb0b0:
 
     # mct "So, where do I find a girl?"
-    mct "So, where do I find a girl?"
+    mct "所以说我上哪找女孩去?"
 
 # game/code/d02/s08.rpy:62
 translate chinese d02s08_f88c16e7:
 
     # mct "Do I just hope that a girl will appear and let me eat her pussy?"
-    mct "Do I just hope that a girl will appear and let me eat her pussy?"
+    mct "我难道得盼望一个女孩凭空出现，然后让我舔她的小穴?"
 
 # game/code/d02/s08.rpy:64
 translate chinese d02s08_572b294c:
 
     # mct "Who is that?"
-    mct "Who is that?"
+    mct "那是谁?"
 
 # game/code/d02/s08.rpy:67
 translate chinese d02s08_35ec09e1:
 
     # mct "Wait a second.{w} Oh!{w} I think I know her!?"
-    mct "Wait a second.{w} Oh!{w} I think I know her!?"
+    mct "等一下.{w} Oh!{w} 我或许认识她!?"
 
 # game/code/d02/s08.rpy:70
 translate chinese d02s08_ecdbe41e:
 
     # mct "Holy shit! {w}Is that the girl from Pete's bed?"
-    mct "Holy shit! {w}Is that the girl from Pete's bed?"
+    mct "我去! {w}这不是Pete床上的那个女孩吗?"
 
 # game/code/d02/s08.rpy:72
 translate chinese d02s08_47bd33ef:
 
     # mct "The one with \"NOT YOURS\" tattoo..."
-    mct "The one with \"NOT YOURS\" tattoo..."
+    mct "就是那个有\"不是你的（NOT YOURS）\"纹身的那个..."
 
 # game/code/d02/s08.rpy:74
 translate chinese d02s08_349f2a98:
 
     # mc "({i}Would I lick the pussy of a girl that had sex with Pete?{/i})"
-    mc "({i}Would I lick the pussy of a girl that had sex with Pete?{/i})"
+    mc "({i}我不会得舔一个跟Pete做过爱女孩的小穴吧?{/i})"
 
 # game/code/d02/s08.rpy:76
 translate chinese d02s08_0a557614:
 
     # mct "She was furious with me yesterday!"
-    mct "She was furious with me yesterday!"
+    mct "昨天她对我发火了!"
 
 # game/code/d02/s08.rpy:80
 translate chinese d02s08_d93db3cc:
 
     # mct "Damn! I still don't know her name!"
-    mct "Damn! I still don't know her name!"
+    mct "啧，我还是不知道她的名字是什么!"
 
 # game/code/d02/s08.rpy:81
 translate chinese d02s08_5877ff0f:
 
     # mct "Should I apologize for peeping on her?"
-    mct "Should I apologize for peeping on her?"
+    mct "我是不是应该像她道歉呢?"
 
 # game/code/d02/s08.rpy:82
 translate chinese d02s08_027b15f8:
 
     # mct "Or maybe she will not even remember that it was me?"
-    mct "Or maybe she will not even remember that it was me?"
+    mct "又或许她根本不记得我了呢?"
 
 # game/code/d02/s08.rpy:84
 translate chinese d02s08_cc4d2d15:
 
     # mct "I don't even know her name."
-    mct "I don't even know her name."
+    mct "我甚至都不知道她的名字."
 
 # game/code/d02/s08.rpy:90
 translate chinese d02s08_72f6be47:
 
     # mct "Seems like she is jogging her way."
-    mct "Seems like she is jogging her way."
+    mct "看起来她自己在慢跑."
 
 # game/code/d02/s08.rpy:94
 translate chinese d02s08_62046bc5:
 
     # mct "Yeah. She definitely remembers me."
-    mct "Yeah. She definitely remembers me."
+    mct “呃，看起来她没忘了我."
 
 # game/code/d02/s08.rpy:98
 translate chinese d02s08_02110e2b:
 
     # mct "But it seems I'm not waiting here for her."
-    mct "But it seems I'm not waiting here for her."
+    mct "但是看起来我要等的人并不是她."
 
 # game/code/d02/s08.rpy:99
 translate chinese d02s08_28d847c4:
 
     # mct "Otherwise she would have said something."
-    mct "Otherwise she would have said something."
+    mct “不然她就会说些什么了."
 
 # game/code/d02/s08.rpy:100
 translate chinese d02s08_501971e8:
 
     # mct "Or maybe she sent me the message, but when she saw me here she just pretended to be passing by!?"
-    mct "Or maybe she sent me the message, but when she saw me here she just pretended to be passing by!?"
+    mct "又或许其实是她发送了消息，但是看到是我就直接走了!?"
 
 # game/code/d02/s08.rpy:101
 translate chinese d02s08_f3e39b2a:
 
     # mct "That would actually be a smart strategy to avoid awkward conversation if she doesn't like me."
-    mct "That would actually be a smart strategy to avoid awkward conversation if she doesn't like me."
+    mct "如果她不喜欢我的话这倒是个聪明的方法呢."
 
 # game/code/d02/s08.rpy:102
 translate chinese d02s08_3df8b771:
@@ -556,43 +556,43 @@ translate chinese d02s08_9f1eb88a:
 translate chinese d02s08_d4324930:
 
     # pw "Yes her! Is it a problem?"
-    pw "Yes her! Is it a problem?"
+    pw "?"
 
 # game/code/d02/s08.rpy:264
 translate chinese d02s08_9f3a64b6:
 
     # mc "The problem is with your end of the bargain if you are into girls!"
-    mc "The problem is with your end of the bargain if you are into girls!"
+    mc "问题就是你是同性恋，那我怎么完成挑战啊!"
 
 # game/code/d02/s08.rpy:266
 translate chinese d02s08_1788d88f:
 
     # pw "I'm bi! And I only have to let you lick my pussy! Nothing more!"
-    pw "I'm bi! And I only have to let you lick my pussy! Nothing more!"
+    pw "我是双性恋!而且我只会让你舔我的小穴...而不是!"
 
 # game/code/d02/s08.rpy:268
 translate chinese d02s08_cab887a2:
 
     # mc "And who is the girl?"
-    mc "And who is the girl?"
+    mc "她是谁?"
 
 # game/code/d02/s08.rpy:270
 translate chinese d02s08_0ad3cdf8:
 
     # pw "She is a barista at a local coffee shop."
-    pw "She is a barista at a local coffee shop."
+    pw "她是这里咖啡厅的咖啡师."
 
 # game/code/d02/s08.rpy:271
 translate chinese d02s08_4f289c5e:
 
     # pw "The problem is that I already know that she isn't into girls ... {w}yet!"
-    pw "The problem is that I already know that she isn't into girls ... {w}yet!"
+    pw "问题是我已经知道她不喜欢女孩了... {w}!"
 
 # game/code/d02/s08.rpy:272
 translate chinese d02s08_32887a04:
 
     # pw "That is why I need you for that!"
-    pw "That is why I need you for that!"
+    pw "这就是我为什么需要你的帮助!"
 
 # game/code/d02/s08.rpy:274
 translate chinese d02s08_e526a903:
@@ -604,13 +604,13 @@ translate chinese d02s08_e526a903:
 translate chinese d02s08_cae56461:
 
     # mc "Okay. How are we doing this?"
-    mc "Okay. How are we doing this?"
+    mc "好吧，那我们应该怎么做?"
 
 # game/code/d02/s08.rpy:277
 translate chinese d02s08_1c53abca:
 
     # pw "Now we're talking! Here is the plan ..."
-    pw "Now we're talking! Here is the plan ..."
+    pw "现在我告诉你，这是我的计划..."
 
 # game/code/d02/s08.rpy:279
 translate chinese d02s08_ab234c13:
@@ -622,13 +622,13 @@ translate chinese strings:
 
     # game/code/d02/s08.rpy:185
     old "Agree to do a favor"
-    new "Agree to do a favor"
+    new "接受"
 
     # game/code/d02/s08.rpy:185
     old "Reject the offer"
-    new "Reject the offer"
+    new "拒绝"
 
     # game/code/d02/s08.rpy:185
     old "Make a counteroffer"
-    new "Make a counteroffer"
+    new "还价"
 
