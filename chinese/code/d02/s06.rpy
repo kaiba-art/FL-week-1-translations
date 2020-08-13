@@ -556,275 +556,275 @@ translate chinese d02s06_13e82622:
 translate chinese d02s06_1c641253:
 
     # mc "{i}Great{/i}! Okay, we’ll see how this works out!"
-    mc "{i}Great{/i}! Okay, we’ll see how this works out!"
+    mc "{i}很好{/i}! 现在让我们看看它到底好不好使吧!"
 
 # game/code/d02/s06.rpy:264
 translate chinese d02s06_30d1c34f:
 
     # mc "No, that’s too weird! I’ll try something else!"
-    mc "No, that’s too weird! I’ll try something else!"
+    mc "不，这太奇怪了，我还是试试别的方法吧!"
 
 # game/code/d02/s06.rpy:272
 translate chinese d02s06_cbc032a3:
 
     # fl "You have a new message!"
-    fl "You have a new message!"
+    fl "你收到了一条新信息!"
 
 # game/code/d02/s06.rpy:273
 translate chinese d02s06_feebcc28:
 
     # "Anon" "Meet me on the bench in the park behind the old campus in 30 minutes. Have a banana in your hand!"
-    "Anon" "Meet me on the bench in the park behind the old campus in 30 minutes. Have a banana in your hand!"
+    "Anon" "30分钟后在老学城后边公园的长凳上等我. 别忘了带一个香蕉拿在你的手上!"
 
 # game/code/d02/s06.rpy:274
 translate chinese d02s06_18c1cbff:
 
     # mc "({i}Wow! That simple?! But I don't even know who that is! What if it is not even a girl?{/i})"
-    mc "({i}Wow! That simple?! But I don't even know who that is! What if it is not even a girl?{/i})"
+    mc "({i}看起来还挺简单，不过我不认识她是谁，呃，万一这个"她"不是一个女孩呢?{/i})"
 
 # game/code/d02/s06.rpy:275
 translate chinese d02s06_e654802c:
 
     # mc "({i}And what the fuck is this with banana? I hope it is just to recognize me from a random person...{/i})"
-    mc "({i}And what the fuck is this with banana? I hope it is just to recognize me from a random person...{/i})"
+    mc "({i}而且这个香蕉TM是干什么用的? 我希望这只是为了认出我而已...{/i})"
 
 # game/code/d02/s06.rpy:276
 translate chinese d02s06_c1d164ba:
 
     # mc "({i}That looks a bit scary. Should I respond to this?{/i})"
-    mc "({i}That looks a bit scary. Should I respond to this?{/i})"
+    mc "({i}看起来不是这么简单...我应该回复这个消息吗?{/i})"
 
 # game/code/d02/s06.rpy:280
 translate chinese d02s06_03051b13:
 
     # mc "That is totally insane! No way I'm going there!"
-    mc "That is totally insane! No way I'm going there!"
+    mc "太奇怪了，我才不会去!"
 
 # game/code/d02/s06.rpy:287
 translate chinese d02s06_7a8abb2b:
 
     # mc "({i}Should I tell Kevin about this? But what if this message is from his [game.chloekevin]? She is using this app very actively!{/i})"
-    mc "({i}Should I tell Kevin about this? But what if this message is from his [game.chloekevin]? She is using this app very actively!{/i})"
+    mc "({i}我是不是应该告诉Kevin这件事? 不管万一这是他[game.chloekevin]发给我的呢? 她看起来经常用这个app!{/i})"
 
 # game/code/d02/s06.rpy:288
 translate chinese d02s06_c6450146:
 
     # mc "({i}I better keep it to myself.{/i})"
-    mc "({i}I better keep it to myself.{/i})"
+    mc "({i}我还是不告诉他了吧.{/i})"
 
 # game/code/d02/s06.rpy:290
 translate chinese d02s06_700c9a78:
 
     # mc "({i}It shouldn't be dangerous to sit on a bench in the park! If I don't like what is offered then I can just leave!{/i})"
-    mc "({i}It shouldn't be dangerous to sit on a bench in the park! If I don't like what is offered then I can just leave!{/i})"
+    mc "({i}大白天在公园长凳上应该不会发生什么! 如果我不喜欢或者有什么危险的事我离开就好了!{/i})"
 
 # game/code/d02/s06.rpy:291
 translate chinese d02s06_3aba2a79:
 
     # mc "({i}Okay - so I guess I should confirm that I agree. Meet you in 30 minutes.{/i})"
-    mc "({i}Okay - so I guess I should confirm that I agree. Meet you in 30 minutes.{/i})"
+    mc "({i}好吧，我应该告诉她我同意了. 30分钟以后见.{/i})"
 
 # game/code/d02/s06.rpy:292
 translate chinese d02s06_bbd8c845:
 
     # "[mcname] is sending the message in the Fetish Locator app."
-    "[mcname] is sending the message in the Fetish Locator app."
+    "[mcname]在App上回复了消息."
 
 # game/code/d02/s06.rpy:294
 translate chinese d02s06_23b63442:
 
     # mc "({i}Done! Interesting. Who could it be?{/i})"
-    mc "({i}Done! Interesting. Who could it be?{/i})"
+    mc "({i}Ok了，不过有意思，这会是谁呢?{/i})"
 
 # game/code/d02/s06.rpy:295
 translate chinese d02s06_5ff75b01:
 
     # mct "This message is sent by someone from our college. This is a good chance it is someone I know!"
-    mct "This message is sent by someone from our college. This is a good chance it is someone I know!"
+    mct "这个消息是我们学校的某人发送的. 所以说很有可能我认识这个人!"
 
 # game/code/d02/s06.rpy:298
 translate chinese d02s06_b619ca43:
 
     # mct "Could that be AmRose? She knows about the app. Is she using it?"
-    mct "Could that be AmRose? She knows about the app. Is she using it?"
+    mct "万一是AmRose呢? 她知道这个app. 难道她也在用吗?"
 
 # game/code/d02/s06.rpy:299
 translate chinese d02s06_b3d32ba0:
 
     # mct "How should I react if I meet her in the park?"
-    mct "How should I react if I meet her in the park?"
+    mct "如果真的是他我应该怎么办?"
 
 # game/code/d02/s06.rpy:300
 translate chinese d02s06_0ce90a01:
 
     # mct "Would she be Okay with me eating her out?! Would I be good with that? It would definitely change our friendship."
-    mct "Would she be Okay with me eating her out?! Would I be good with that? It would definitely change our friendship."
+    mct "她会同意我舔她的小穴吗t?!我又会怎么办? 这样的话我们的关系肯定不会像以前一样了."
 
 # game/code/d02/s06.rpy:302
 translate chinese d02s06_83790a4e:
 
     # mct "Where can I find a banana now?"
-    mct "Where can I find a banana now?"
+    mct "现在我上哪去找香蕉?"
 
 # game/code/d02/s06.rpy:303
 translate chinese d02s06_00db0acd:
 
     # mc "({i}I should sneak out of the lecture and go to the cafeteria to look for one.{/i})"
-    mc "({i}I should sneak out of the lecture and go to the cafeteria to look for one.{/i})"
+    mc "({i}或许我应该逃课去酒吧找一个.{/i})"
 
 # game/code/d02/s06.rpy:305
 translate chinese d02s06_9db38bfb:
 
     # rn "Okay, let`s have a 15 minute break!"
-    rn "Okay, let`s have a 15 minute break!"
+    rn "好了同学们，让我们休息15分钟!"
 
 # game/code/d02/s06.rpy:307
 translate chinese d02s06_4b30f8fa:
 
     # mct "This is my chance!"
-    mct "This is my chance!"
+    mct "我的机会来了!"
 
 # game/code/d02/s06.rpy:309
 translate chinese d02s06_cdf56ffd:
 
     # mct "I need to find a way to get points!"
-    mct "I need to find a way to get points!"
+    mct "我必须得得到这些分数!"
 
 # game/code/d02/s06.rpy:310
 translate chinese d02s06_06c64dd8:
 
     # mct "Sitting here won't get me any points..."
-    mct "Sitting here won't get me any points..."
+    mct "而在这坐着我什么也得不到..."
 
 # game/code/d02/s06.rpy:313
 translate chinese d02s06_618be91c:
 
     # mc "Hey I will go now, super hungry and the lecture is boring!"
-    mc "Hey I will go now, super hungry and the lecture is boring!"
+    mc "我现在得走了，我太饿了，而且这课太无聊了!"
 
 # game/code/d02/s06.rpy:315
 translate chinese d02s06_a972c0f2:
 
     # kb "See you!"
-    kb "See you!"
+    kb "回见!"
 
 # game/code/d02/s06.rpy:317
 translate chinese d02s06_bf9f08f4:
 
     # "[mcname] is leaving the class, but on the way out he remembers about Min changing into skirt."
-    "[mcname] is leaving the class, but on the way out he remembers about Min changing into skirt."
+    "[mcname]离开了教室, 但是出去之前他想起来Min换上了裙子."
 
 # game/code/d02/s06.rpy:319
 translate chinese d02s06_71eab1da:
 
     # mct "Damn, I will miss seeing Antony eat Min out! Will they do it in class again?!"
-    mct "Damn, I will miss seeing Antony eat Min out! Will they do it in class again?!"
+    mct "啧啧，我会错过Min和Antony的演出了，他们还会在教室里继续做吗?!"
 
 # game/code/d02/s06.rpy:320
 translate chinese d02s06_e13fab6e:
 
     # mct "Well they haven't done it yet. Watching them isn’t enough of a reason to stay for another hour. I need to find a pussy to eat for myself!"
-    mct "Well they haven't done it yet. Watching them isn’t enough of a reason to stay for another hour. I need to find a pussy to eat for myself!"
+    mct "现在看起来他们还什么都没干，不过再呆在这一个小时来等他们可不怎么值. 我得去找一个能帮我完成挑战的女孩!"
 
 # game/code/d02/s06.rpy:327
 translate chinese d02s06_3e11c097:
 
     # arjt "Oh! [mcname] just left."
-    arjt "Oh! [mcname] just left."
+    arjt "[mcname]刚刚离开了."
 
 # game/code/d02/s06.rpy:328
 translate chinese d02s06_cba77ca9:
 
     # arjt "But I guess it is good since I will be leaving any moment too."
-    arjt "But I guess it is good since I will be leaving any moment too."
+    arjt "这样也好，等会我也得走了."
 
 # game/code/d02/s06.rpy:335
 translate chinese d02s06_c7ff8a2f:
 
     # arjt "Oh. Looks like it is time for me to go."
-    arjt "Oh. Looks like it is time for me to go."
+    arjt "ok，看来我也该走了."
 
 # game/code/d02/s06.rpy:339
 translate chinese d02s06_4eedf7a5:
 
     # "[mcname] is on his way to the cafeteria...{w} When suddenly he sees ..."
-    "[mcname] is on his way to the cafeteria...{w} When suddenly he sees ..."
+    "[mcname] 来到了酒吧...{w} 他偶然看到了 ..."
 
 # game/code/d02/s06.rpy:344
 translate chinese d02s06_354c4361:
 
     # mct "Damn! There is Lydia!"
-    mct "Damn! There is Lydia!"
+    mct "我去，是Lydia!"
 
 # game/code/d02/s06.rpy:345
 translate chinese d02s06_9a7faac9:
 
     # mc "({i}Problem is that she doesn't know that I exist yet. But I'm working on that!{/i})"
-    mc "({i}Problem is that she doesn't know that I exist yet. But I'm working on that!{/i})"
+    mc "({i}问题是在她面前我还没有什么存在感. 但是我正在努力!{/i})"
 
 # game/code/d02/s06.rpy:346
 translate chinese d02s06_b2d0e7e2:
 
     # mc "({i}Someone like Pete would just walk up to her and use some cheesy pickup line.{/i})"
-    mc "({i}Someone like Pete would just walk up to her and use some cheesy pickup line.{/i})"
+    mc "({i}要是Pete的话估计就会去用荤段子搭讪了.{/i})"
 
 # game/code/d02/s06.rpy:348
 translate chinese d02s06_cdfee642:
 
     # mct "I'm sure that something like that isn't going to work with her! And I'm not confident enough to try it; I'd probably be super nervous and fuck things up. And with such a fine thing as Lydia I will only get one chance."
-    mct "I'm sure that something like that isn't going to work with her! And I'm not confident enough to try it; I'd probably be super nervous and fuck things up. And with such a fine thing as Lydia I will only get one chance."
+    mct "我敢肯定这对她来说没有用的! 不过我也没有自信去试一试; 我估计会很紧张然后把一切都搞糟. 对于想Lydia这样的女孩我只有一次机会去搭讪."
 
 # game/code/d02/s06.rpy:349
 translate chinese d02s06_7122e018:
 
     # mc "({i}I'm not going to risk it! I need her to know the real me!{/i})"
-    mc "({i}I'm not going to risk it! I need her to know the real me!{/i})"
+    mc "({i}我才不会去冒这个险，我得让她认识到我真正的魅力!{/i})"
 
 # game/code/d02/s06.rpy:352
 translate chinese d02s06_880d2aef:
 
     # mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
-    mct "What are the chances that this message on Fetish Locator is actually from Lydia?!"
+    mct "刚才FL上那个给我发消息的人，又有多大的可能是Lydia呢?!"
 
 # game/code/d02/s06.rpy:353
 translate chinese d02s06_121c2921:
 
     # mc "({i}After all she should be at the private party from the app.{/i})"
-    mc "({i}After all she should be at the private party from the app.{/i})"
+    mc "({i}不管怎么说她也会参加那个派对.{/i})"
 
 # game/code/d02/s06.rpy:354
 translate chinese d02s06_0d03ebf6:
 
     # mc "({i}Noo! That isn't possible! I can't imagine her letting someone random lick her pussy for points!{/i})"
-    mc "({i}Noo! That isn't possible! I can't imagine her letting someone random lick her pussy for points!{/i})"
+    mc "({i}不不，不可能! 我想象不到她会为了分数去让陌生人舔他的小穴!{/i})"
 
 # game/code/d02/s06.rpy:355
 translate chinese d02s06_fd4ab1b9:
 
     # mc "({i}But what if it is her? What if she comes there and joins me on that bench?! How should I react?!{/i})"
-    mc "({i}But what if it is her? What if she comes there and joins me on that bench?! How should I react?!{/i})"
+    mc "({i}但是如果真的是他呢? 如果她真的来长凳这见我了呢?! 到时候我应该怎么办?!{/i})"
 
 # game/code/d02/s06.rpy:357
 translate chinese d02s06_c701655e:
 
     # mc "({i}It is probably pointless to stress about that. I should just go and find that fucking banana!{/i})"
-    mc "({i}It is probably pointless to stress about that. I should just go and find that fucking banana!{/i})"
+    mc "({i}现在想这些事一点用都没有. 我应该去找这个该死的香蕉来带走!{/i})"
 
 translate chinese strings:
 
     # game/code/d02/s06.rpy:235
     old "Post your lips to find a pussy"
-    new "Post your lips to find a pussy"
+    new "发布你嘴唇的照片"
 
     # game/code/d02/s06.rpy:235
     old "Better to look for pussy somewhere else"
-    new "Better to look for pussy somewhere else"
+    new "还是再想想别的办法吧"
 
     # game/code/d02/s06.rpy:277
     old "Sounds shady, better stay away"
-    new "Sounds shady, better stay away"
+    new "听起来很奇怪，还是离远点吧"
 
     # game/code/d02/s06.rpy:277
     old "Respond to a stranger on the app"
-    new "Respond to a stranger on the app"
+    new "回复陌生人的消息"
 
