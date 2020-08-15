@@ -292,7 +292,7 @@ translate chinese d01s02_26e102ad:
 translate chinese d01s02_34948fd5:
 
     # mc "Nice! Your [game.chloekevin] is doing fine?"
-    mc "不错啊，你女朋友怎么样?"
+    mc "不错啊，你[game.chloekevin]怎么样?"
 
 # game/code/d01/s02.rpy:191
 translate chinese d01s02_ed823cb2:
