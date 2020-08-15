@@ -154,7 +154,7 @@ translate chinese d01s05_dorm_c8378d9e:
 translate chinese d01s05_dorm_b3e801a8:
 
     # mct "Damn! Almost there, but now I'm starting to think about how wrong it is to masturbate to my own [game.stacytitle]."
-    mct "可恶，就差一点了，但是现在我开始觉得意淫我的妹妹来帮助我自慰是个错误的决定."
+    mct "可恶，就差一点了，但是现在我开始觉得意淫我的[game.stacytitle]来帮助我自慰是个错误的决定."
 
 # game/code/d01/s05.rpy:307
 translate chinese d01s05_dorm_110cb411:
