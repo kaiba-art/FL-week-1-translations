@@ -112,7 +112,7 @@ translate chinese s04_62e10323:
 translate chinese s04_05a0e74a:
 
     # pb "Sorry. I forgot to ask this morning, how's your [game.stacytitle]?"
-    pb "对了，我今天早上忘问你了，你妹妹怎么样?"
+    pb "对了，我今天早上忘问你了，你[game.stacytitle]怎么样?"
 
 # game/code/d01/s04.rpy:205
 translate chinese s04_85e1c87a:
@@ -184,7 +184,7 @@ translate chinese s04_add5108b:
 translate chinese s04_aaadf451:
 
     # mc "What the fuck, dude? She's my [game.stacytitle]!"
-    mc "我擦你在说啥啊，她可是我的妹妹啊!"
+    mc "我擦你在说啥啊，她可是我的[game.stacytitle]啊!"
 
 # game/code/d01/s04.rpy:229
 translate chinese s04_8bacdffc:
@@ -226,7 +226,7 @@ translate chinese s04_d20045c6:
 translate chinese s04_4a0540d1:
 
     # mct "Damn! My [game.stacytitle]'s so hot now!"
-    mct "我滴个龟龟，她现在可真是火辣"
+    mct "我滴个龟龟，我的[game.stacytitle]现在可真是火辣"
 
 # game/code/d01/s04.rpy:280
 translate chinese s04_a77fd7d6:
