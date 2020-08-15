@@ -466,7 +466,7 @@ translate chinese d01s01_shower_57fa9222:
 translate chinese d01s01_shower_0e59eaaa:
 
     # pb "And you were sleeping like a rock...{w} didn't even blink an eye."
-    pb "And you were sleeping like a rock...{w} didn't even blink an eye."
+    pb "你睡得跟石头一样...{w} 眼睛都没眨一下."
 
 # game/code/d01/s01.rpy:192
 translate chinese d01s01_shower_09d9eada:
