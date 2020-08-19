@@ -262,115 +262,115 @@ translate chinese replay_d03s03a_666716d9:
 translate chinese replay_d03s03a_591619a8:
 
     # mct "Maybe I should discuss this matter with Kevin? She is his [game.chloekevin] in the end..."
-    mct "Maybe I should discuss this matter with Kevin? She is his [game.chloekevin] in the end..."
+    mct "或许等会我应该跟Kevin谈论下这个事? 他毕竟是他的[game.chloekevin]..."
 
 # game/code/d03/d03s03.rpy:162
 translate chinese replay_d03s03a_c44637b6:
 
     # mct "I kinda want to go back and watch some more, but that's a bad idea."
-    mct "I kinda want to go back and watch some more, but that's a bad idea."
+    mct "我想回去接着看,但是这应该是一个坏主意."
 
 # game/code/d03/d03s03.rpy:164
 translate chinese replay_d03s03a_4bfccef3:
 
     # mct "At least this way I won't be late to meet AmRose at the cafeteria."
-    mct "At least this way I won't be late to meet AmRose at the cafeteria."
+    mct "至少这样我跟AmRose的约会不会迟到."
 
 # game/code/d03/d03s03.rpy:167
 translate chinese replay_d03s03a_d6e81c94:
 
     # mct "Ok I'm almost there. {w}I hope AmRose is not already waiting for me..."
-    mct "Ok I'm almost there. {w}I hope AmRose is not already waiting for me..."
+    mct "好了，我马上就要到了. {w}我希望AmRose现在还没有到..."
 
 # game/code/d03/d03s03.rpy:172
 translate chinese replay_d03s03a_afad5d4a:
 
     # mct "Fuck! {w}Where is my phone?!"
-    mct "Fuck! {w}Where is my phone?!"
+    mct "我擦! {w}我的手机呢?!"
 
 # game/code/d03/d03s03.rpy:174
 translate chinese replay_d03s03a_f2a76311:
 
     # mct "I forgot it in the locker room! {w}FUCK!!"
-    mct "I forgot it in the locker room! {w}FUCK!!"
+    mct "我把它忘在更衣室了! {w}卧槽!!"
 
 # game/code/d03/d03s03.rpy:175
 translate chinese replay_d03s03a_f8602559:
 
     # mct "Let's run back quickly!"
-    mct "Let's run back quickly!"
+    mct "我得赶紧跑回去!"
 
 # game/code/d03/d03s03.rpy:176
 translate chinese replay_d03s03a_88412167:
 
     # mct "I hope Chloe and Dario finished having fun in there!"
-    mct "I hope Chloe and Dario finished having fun in there!"
+    mct "我希望Chloe和Dario已经完事了!"
 
 # game/code/d03/d03s03.rpy:180
 translate chinese replay_d03s03a_44d872e6:
 
     # mct "What? {w} Kevin?!"
-    mct "What? {w} Kevin?!"
+    mct "什么t? {w} Kevin?!"
 
 # game/code/d03/d03s03.rpy:182
 translate chinese replay_d03s03a_67591a57:
 
     # mct "What the hell is he doing?!"
-    mct "What the hell is he doing?!"
+    mct "他tm在干什么啊?!"
 
 # game/code/d03/d03s03.rpy:190
 translate chinese replay_d03s03a_8d24faa9:
 
     # mct "He is masturbating to his own [game.chloekevin] getting fucked?!"
-    mct "He is masturbating to his own [game.chloekevin] getting fucked?!"
+    mct "他正在看着他的[game.chloekevin]跟别人做爱，而且他还在自慰?!"
 
 # game/code/d03/d03s03.rpy:192
 translate chinese replay_d03s03a_1fee32d6:
 
     # mct "How sick is that?!"
-    mct "How sick is that?!"
+    mct "他是有什么病吗?!"
 
 # game/code/d03/d03s03.rpy:195
 translate chinese replay_d03s03a_90e903e9:
 
     # mct "On the other hand, I masturbated so that my [game.stacytitle] would see it.{w} I guess I shouldn't judge."
-    mct "On the other hand, I masturbated so that my [game.stacytitle] would see it.{w} I guess I shouldn't judge."
+    mct "不过, 我在知道我的[game.stacytitle]看着我的情况下自慰来着.{w} 我猜我跟Kevin的情况差不多."
 
 # game/code/d03/d03s03.rpy:197
 translate chinese replay_d03s03a_c071e978:
 
     # mct "And where are his pants?"
-    mct "And where are his pants?"
+    mct "而且他的内裤tm哪去了?"
 
 # game/code/d03/d03s03.rpy:199
 translate chinese replay_d03s03a_c724dabe:
 
     # mct "Shit! What the fuck brings Miss Waller here?!"
-    mct "Shit! What the fuck brings Miss Waller here?!"
+    mct "我擦，Miss Waller为什么在这?!"
 
 # game/code/d03/d03s03.rpy:201
 translate chinese replay_d03s03a_62b83e22:
 
     # mct "She hasn't seen Kevin yet!"
-    mct "She hasn't seen Kevin yet!"
+    mct "她还没看见Kevin!"
 
 # game/code/d03/d03s03.rpy:207
 translate chinese replay_d03s03a_adf421c3:
 
     # mct "She is going to spot Kevin any second now! {w}They will all get into serious trouble!"
-    mct "She is going to spot Kevin any second now! {w}They will all get into serious trouble!"
+    mct "他马上会发现Kevin的! {w}这样的话他们会陷入大麻烦的!"
 
 # game/code/d03/d03s03.rpy:211
 translate chinese replay_d03s03a_833a720c:
 
     # mct "Okay, no time to think! "
-    mct "Okay, no time to think! "
+    mct 好吧，没时间去想了! "
 
 # game/code/d03/d03s03.rpy:213
 translate chinese replay_d03s03a_de18b8ea:
 
     # mct "I just need to make a distraction!"
-    mct "I just need to make a distraction!"
+    mct "我得让她转移注意力!"
 
 # game/code/d03/d03s03.rpy:226
 translate chinese replay_d03s03a_2e4abe44:
@@ -382,7 +382,7 @@ translate chinese replay_d03s03a_2e4abe44:
 translate chinese replay_d03s03a_91dd8ca5:
 
     # zw "What is going on here?!"
-    zw "What is going on here?!"
+    zw "发生了什么?!"
 
 # game/code/d03/d03s03.rpy:230
 translate chinese replay_d03s03a_6371a3c8:
@@ -394,19 +394,19 @@ translate chinese replay_d03s03a_6371a3c8:
 translate chinese replay_d03s03a_001815b5:
 
     # zw "What the hell do you think you're doing?!"
-    zw "What the hell do you think you're doing?!"
+    zw "你tm在这干什么呢?!"
 
 # game/code/d03/d03s03.rpy:233
 translate chinese replay_d03s03a_46cb644d:
 
     # mc "Sorry, Miss Waller! The floor is slippery!"
-    mc "Sorry, Miss Waller! The floor is slippery!"
+    mc "对不起，Miss Waller!地板太滑了!"
 
 # game/code/d03/d03s03.rpy:235
 translate chinese replay_d03s03a_5721bc0f:
 
     # zw "It is the second time you are making some kind of chaos in one week!"
-    zw "It is the second time you are making some kind of chaos in one week!"
+    zw "这已经是你这周第二次惹麻烦了!"
 
 # game/code/d03/d03s03.rpy:237
 translate chinese replay_d03s03a_c927c5e0:
@@ -418,201 +418,201 @@ translate chinese replay_d03s03a_c927c5e0:
 translate chinese replay_d03s03a_148ccf8d:
 
     # zw "Clean up this mess now!"
-    zw "Clean up this mess now!"
+    zw "赶紧把这烂摊子清理干净!"
 
 # game/code/d03/d03s03.rpy:239
 translate chinese replay_d03s03a_ab246602:
 
     # mct "Her loud voice should have warned everyone..."
-    mct "Her loud voice should have warned everyone..."
+    mct "她尖叫的声音应该让所有人都听见了..."
 
 # game/code/d03/d03s03.rpy:241
 translate chinese replay_d03s03a_f2c84480:
 
     # zw "Did I see you pushing a student?!"
-    zw "Did I see you pushing a student?!"
+    zw "我之前看到你推到了一个学生?!"
 
 # game/code/d03/d03s03.rpy:242
 translate chinese replay_d03s03a_add18b39:
 
     # mc "What?! No! I slipped on the wet floor!"
-    mc "What?! No! I slipped on the wet floor!"
+    mc "什么，没有啊，我只是在湿的地板上滑到了而已!"
 
 # game/code/d03/d03s03.rpy:243
 translate chinese replay_d03s03a_aa7b93c4:
 
     # zw "There was more noise coming from in here."
-    zw "There was more noise coming from in here."
+    zw "我之前好像听到那里传来了什么声音."
 
 # game/code/d03/d03s03.rpy:245
 translate chinese replay_d03s03a_660079da:
 
     # mc "See, there is no one there... {w}are you done peeking in the Men's locker room?"
-    mc "See, there is no one there... {w}are you done peeking in the Men's locker room?"
+    mc "看，这里没有人... {w}您之前难道在偷看男更衣室吗?"
 
 # game/code/d03/d03s03.rpy:247
 translate chinese replay_d03s03a_bb23d441:
 
     # zw "Ok, Mister. Since you seem to have some attraction to this cleaning equipment you will be cleaning classes today!"
-    zw "Ok, Mister. Since you seem to have some attraction to this cleaning equipment you will be cleaning classes today!"
+    zw "呃，好吧好吧， 你看来很喜欢清理垃圾啊，今天你就打扫教室吧!"
 
 # game/code/d03/d03s03.rpy:248
 translate chinese replay_d03s03a_391e2685:
 
     # mc "What?! No!"
-    mc "What?! No!"
+    mc "不是吧!"
 
 # game/code/d03/d03s03.rpy:249
 translate chinese replay_d03s03a_d149713b:
 
     # zw "Yes!"
-    zw "Yes!"
+    zw "就是这样!"
 
 # game/code/d03/d03s03.rpy:250
 translate chinese replay_d03s03a_9e2edb49:
 
     # mct "Damn..."
-    mct "Damn..."
+    mct "我擦..."
 
 # game/code/d03/d03s03.rpy:254
 translate chinese replay_d03s03a_5dddfad8:
 
     # kb "Did she leave?"
-    kb "Did she leave?"
+    kb "她走了吗?"
 
 # game/code/d03/d03s03.rpy:255
 translate chinese replay_d03s03a_84d9991b:
 
     # mc "Yes..."
-    mc "Yes..."
+    mc "嗯..."
 
 # game/code/d03/d03s03.rpy:256
 translate chinese replay_d03s03a_74493ad1:
 
     # kb "Dude! Thanks! You saved my ass... {w}Can we talk about this a bit later?"
-    kb "Dude! Thanks! You saved my ass... {w}Can we talk about this a bit later?"
+    kb "老兄! 谢谢你! 你救了我... {w}我们能等会谈谈吗?"
 
 # game/code/d03/d03s03.rpy:257
 translate chinese replay_d03s03a_594381b7:
 
     # mc "Sure... {w}I will be in the cafeteria."
-    mc "Sure... {w}I will be in the cafeteria."
+    mc "当然... {w}我会在咖啡厅等你."
 
 # game/code/d03/d03s03.rpy:259
 translate chinese replay_d03s03a_9715d5cd:
 
     # kb "I'll find you there. And here... I guess this is your phone?"
-    kb "I'll find you there. And here... I guess this is your phone?"
+    kb "我会在那找你的. 对了... 这是你的手机?"
 
 # game/code/d03/d03s03.rpy:260
 translate chinese replay_d03s03a_845bde9d:
 
     # mc "Yeah, right... Thanks!"
-    mc "Yeah, right... Thanks!"
+    mc "对对, 是我的... 谢谢!"
 
 # game/code/d03/d03s03.rpy:264
 translate chinese replay_d03s03a_634b0e5b:
 
     # zw "A-a-a-a!!"
-    zw "A-a-a-a!!"
+    zw "啊啊啊啊啊!!"
 
 # game/code/d03/d03s03.rpy:265
 translate chinese replay_d03s03a_0ddb38b1:
 
     # zw "What is this?!"
-    zw "What is this?!"
+    zw "这tm是什么?!"
 
 # game/code/d03/d03s03.rpy:267
 translate chinese replay_d03s03a_7bce90de:
 
     # zw "How dare you! {w}All of you!"
-    zw "How dare you! {w}All of you!"
+    zw "你们怎么敢这么做! {w}你们所有人!"
 
 # game/code/d03/d03s03.rpy:270
 translate chinese replay_d03s03a_fe3819d4:
 
     # "Some minutes of Zarah Waller's angry screaming later..."
-    "Some minutes of Zarah Waller's angry screaming later..."
+    "在外边能听见Zarah Waller持续几分钟的怒吼..."
 
 # game/code/d03/d03s03.rpy:277
 translate chinese replay_d03s03a_ff9f6802:
 
     # zw "What are you doing here? Are you involved in this too?"
-    zw "What are you doing here? Are you involved in this too?"
+    zw "你tm又在这干什么? 你也参与这个了?"
 
 # game/code/d03/d03s03.rpy:278
 translate chinese replay_d03s03a_8db026f1:
 
     # mc "Involved in what?"
-    mc "Involved in what?"
+    mc "参与了什么?"
 
 # game/code/d03/d03s03.rpy:279
 translate chinese replay_d03s03a_14af1242:
 
     # zw "I... of course you are. Just consider yourself lucky this time!"
-    zw "I... of course you are. Just consider yourself lucky this time!"
+    zw "我... 算了吧. J这次算你走运!"
 
 # game/code/d03/d03s03.rpy:282
 translate chinese replay_d03s03a_457617f7:
 
     # kb "Of hey, [mcname]! What are you doing here?"
-    kb "Of hey, [mcname]! What are you doing here?"
+    kb "嗨, [mcname]!你在这干什么?"
 
 # game/code/d03/d03s03.rpy:283
 translate chinese replay_d03s03a_4ec011bf:
 
     # mc "I heard the ... {w} Everything..."
-    mc "I heard the ... {w} Everything..."
+    mc "我听到了 ... {w} 刚才发生的一切..."
 
 # game/code/d03/d03s03.rpy:284
 translate chinese replay_d03s03a_3b479550:
 
     # kb "Oh shit..."
-    kb "Oh shit..."
+    kb "我擦..."
 
 # game/code/d03/d03s03.rpy:285
 translate chinese replay_d03s03a_d15ddc27:
 
     # kb "Can we talk about this later?"
-    kb "Can we talk about this later?"
+    kb "我们能等会谈谈吗?"
 
 # game/code/d03/d03s03.rpy:286
 translate chinese replay_d03s03a_9d33bdbe:
 
     # mc "Sure... {w}I will be in the cafeteria..."
-    mc "Sure... {w}I will be in the cafeteria..."
+    mc "当然... {w}我会在咖啡厅等你..."
 
 # game/code/d03/d03s03.rpy:288
 translate chinese replay_d03s03a_9715d5cd_1:
 
     # kb "I'll find you there. And here... I guess this is your phone?"
-    kb "I'll find you there. And here... I guess this is your phone?"
+    kb "我会在那找你的. 对了... 这是你的手机?"
 
 # game/code/d03/d03s03.rpy:289
 translate chinese replay_d03s03a_845bde9d_1:
 
     # mc "Yeah, right... Thanks!"
-    mc "Yeah, right... Thanks!"
+    mc "对对, 是我的... 谢谢!"
 
 translate chinese strings:
 
     # game/code/d03/d03s03.rpy:108
     old "Yes, it is my fetish"
-    new "Yes, it is my fetish"
+    new "是的，这是我的性癖"
 
     # game/code/d03/d03s03.rpy:108
     old "Not really, but I'd do it for points"
-    new "Not really, but I'd do it for points"
+    new "不完全是，不过我会为分数做的"
 
     # game/code/d03/d03s03.rpy:108
     old "Not my thing"
-    new "Not my thing"
+    new "我不喜欢这个"
 
     # game/code/d03/d03s03.rpy:208
     old "Make a distraction and save Kevin and Chloe from being caught"
-    new "Make a distraction and save Kevin and Chloe from being caught"
+    new "制造些混乱，使Kevin和Chloe不被抓到"
 
     # game/code/d03/d03s03.rpy:208
     old "Just let them be caught by Miss Waller"
-    new "Just let them be caught by Miss Waller"
+    new "让他们被Miss Waller抓到"
 
