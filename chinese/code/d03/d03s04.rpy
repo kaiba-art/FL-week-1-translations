@@ -4,79 +4,79 @@
 translate chinese d03s04_4a64aca4:
 
     # "12:25 PM"
-    "12:25 PM"
+    "中午十二点二十五分"
 
 # game/code/d03/d03s04.rpy:110
 translate chinese d03s04_d24b1f9e:
 
     # mct "Lydia is here. My day just got a lot nicer."
-    mct "Lydia is here. My day just got a lot nicer."
+    mct "Lydia也在这，看着她我心情都变好了."
 
 # game/code/d03/d03s04.rpy:117
 translate chinese d03s04_6f8dc5ab:
 
     # mct "Looks like she's hanging out with Min and... I forget the other girl's name."
-    mct "Looks like she's hanging out with Min and... I forget the other girl's name."
+    mct "看起来她在和Min和...聊天... 我忘了那个女孩的名字是什么了."
 
 # game/code/d03/d03s04.rpy:118
 translate chinese d03s04_79eaaf94:
 
     # mct "Cynthia? Theater major, I think. I saw her in one of the plays they do here."
-    mct "Cynthia? Theater major, I think. I saw her in one of the plays they do here."
+    mct "Cynthia? 我记着她好像是戏剧专业的. 我在最近的一个演出看到过她."
 
 # game/code/d03/d03s04.rpy:121
 translate chinese d03s04_efeb706f:
 
     # mct "Oh, and there's AmRose."
-    mct "Oh, and there's AmRose."
+    mct "呃，AmRose也在这."
 
 # game/code/d03/d03s04.rpy:138
 translate chinese d03s04_2e8e8e8c:
 
     # mct "Let`s go."
-    mct "Let`s go."
+    mct "我进去了."
 
 # game/code/d03/d03s04.rpy:145
 translate chinese d03s04_d6614d80:
 
     # mc "Hellooo, lady..."
-    mc "Hellooo, lady..."
+    mc "中午好呀..."
 
 # game/code/d03/d03s04.rpy:149
 translate chinese d03s04_e93afa02:
 
     # arj "Hello. My name is Amber-Rose Jenkins. You distracted me from my game. Prepare to die."
-    arj "Hello. My name is Amber-Rose Jenkins. You distracted me from my game. Prepare to die."
+    arj "嗨. 我的名字是Amber-Rose Jenkins. 你打扰了我游戏的兴致. 准备好受死吧."
 
 # game/code/d03/d03s04.rpy:150
 translate chinese d03s04_49d0b7c0:
 
     # mc "Nice one. Anything fun?"
-    mc "Nice one. Anything fun?"
+    mc "这个有意思，你发现了什么好玩的吗?"
 
 # game/code/d03/d03s04.rpy:153
 translate chinese d03s04_6068fb22:
 
     # arj "Nah, just something casual to kill time. How are you doing?"
-    arj "Nah, just something casual to kill time. How are you doing?"
+    arj "没，就是找点事来耗时间，你怎么样?"
 
 # game/code/d03/d03s04.rpy:154
 translate chinese d03s04_1b841b7c:
 
     # mct "Probably I shouldn't mention that I saw her camgirl stream yesterday... That would be too weird..."
-    mct "Probably I shouldn't mention that I saw her camgirl stream yesterday... That would be too weird..."
+    mct "或许我不应该告诉她我昨天晚上在那个网站看到她了... 不然会很奇怪的..."
 
 # game/code/d03/d03s04.rpy:157
 translate chinese d03s04_b739af2b:
 
     # arj "Hello there, mister man."
-    arj "Hello there, mister man."
+    arj "你好啊先生."
 
 # game/code/d03/d03s04.rpy:158
 translate chinese d03s04_94508d6f:
 
     # mc "What's so fascinating?"
-    mc "What's so fascinating?"
+    mc "刚才你一直在看什么?"
 
 # game/code/d03/d03s04.rpy:160
 translate chinese d03s04_113cf047:
@@ -88,91 +88,91 @@ translate chinese d03s04_113cf047:
 translate chinese d03s04_a85c603a:
 
     # mc "Your phone. What's got you so engrossed?"
-    mc "Your phone. What's got you so engrossed?"
+    mc "你的手机，什么让你这么全神贯注?"
 
 # game/code/d03/d03s04.rpy:163
 translate chinese d03s04_b542fbba:
 
     # arj "oh, just twitter. What's up with you?"
-    arj "oh, just twitter. What's up with you?"
+    arj "只是推特而已，你怎么样?"
 
 # game/code/d03/d03s04.rpy:165
 translate chinese d03s04_0af99806:
 
     # mc "Just living. It's good to be back here and healthy."
-    mc "Just living. It's good to be back here and healthy."
+    mc "没什么，还好吧，能健康地回到这里还不错."
 
 # game/code/d03/d03s04.rpy:170
 translate chinese d03s04_d5177348:
 
     # arj "I've been meaning to ask you about that. You went home for a weekend then disappeared for two weeks. What the hell?"
-    arj "I've been meaning to ask you about that. You went home for a weekend then disappeared for two weeks. What the hell?"
+    arj "对，我就是想问你这个来着，你周末回了家，然后就消失了两个星期，你在那干什么了?"
 
 # game/code/d03/d03s04.rpy:174
 translate chinese d03s04_958371ef:
 
     # mc "Nothing too major, got a bad flu or something. I forget. I pretty much slept and was kinda out-of-it most of the time."
-    mc "Nothing too major, got a bad flu or something. I forget. I pretty much slept and was kinda out-of-it most of the time."
+    mc "没什么事，就是得了流感而已. 我不太记得了，我睡了很多觉，因为我一直很难受."
 
 # game/code/d03/d03s04.rpy:178
 translate chinese d03s04_4a93257b:
 
     # arj "Oh, so that's why you didn't call... or text... or reply to messages... "
-    arj "Oh, so that's why you didn't call... or text... or reply to messages... "
+    arj "哦, 这就是你为什么没打电话...或者发短信... 又或者是回复短信... "
 
 # game/code/d03/d03s04.rpy:182
 translate chinese d03s04_ab919f89:
 
     # mc "Ah, shit. I'm sorry. I hope you didn't worry."
-    mc "Ah, shit. I'm sorry. I hope you didn't worry."
+    mc "啊，对不起，我希望你不要这么担心."
 
 # game/code/d03/d03s04.rpy:187
 translate chinese d03s04_57285029:
 
     # arjt "Just be cool, AmRose. Don't let him know how much you worried you were then or how pissed you are now."
-    arjt "Just be cool, AmRose. Don't let him know how much you worried you were then or how pissed you are now."
+    arjt "冷静, AmRose. 别让他知道你是有多么担心，而且你现在有多么生气."
 
 # game/code/d03/d03s04.rpy:189
 translate chinese d03s04_25f377a1:
 
     # arjt "Just be cool, AmRose. Don't let him know how worried you were."
-    arjt "Just be cool, AmRose. Don't let him know how worried you were."
+    arjt "冷静, AmRose. 别让他知道你是有多么担心."
 
 # game/code/d03/d03s04.rpy:193
 translate chinese d03s04_df2bf3ae:
 
     # arj "Nah. Well, actually yes. I was worried, then I was very worried, and then I spoke to your [game.stacytitle]."
-    arj "Nah. Well, actually yes. I was worried, then I was very worried, and then I spoke to your [game.stacytitle]."
+    arj "不，呃，好吧我,是有点担心, 然后我就给你的[game.stacytitle]打电话来着."
 
 # game/code/d03/d03s04.rpy:197
 translate chinese d03s04_c1444eee:
 
     # mc "Huh. I guess she must have thought to charge up my phone and reply to people."
-    mc "Huh. I guess she must have thought to charge up my phone and reply to people."
+    mc "呃. 我猜她是在那拿电话帮我回信息了来着."
 
 # game/code/d03/d03s04.rpy:199
 translate chinese d03s04_39bbffdd:
 
     # arj "Yeah, we had a nice conversation. Stacy seems pretty awesome."
-    arj "Yeah, we had a nice conversation. Stacy seems pretty awesome."
+    arj "是的，我们谈了一会，Stacy看起来很棒."
 
 # game/code/d03/d03s04.rpy:201
 translate chinese d03s04_27ad82ea:
 
     # mc "I guess so. She's my [game.stacytitle], so I'm biased."
-    mc "I guess so. She's my [game.stacytitle], so I'm biased."
+    mc "是这样的，她是我的[game.stacytitle],所以我很认同你 ."
 
 # game/code/d03/d03s04.rpy:203
 translate chinese d03s04_71069313:
 
     # arj "She said she's moving here soon. I can't wait to meet her."
-    arj "She said she's moving here soon. I can't wait to meet her."
+    arj "她说她马上会搬到这来，我迫不及待地想见到她了."
 
 # game/code/d03/d03s04.rpy:205
 translate chinese d03s04_fddba1d6:
 
     # mc "This weekend, yeah. I should probably look for places she can rent."
-    mc "This weekend, yeah. I should probably look for places she can rent."
+    mc "对啊，这个周末. 我或许得给她找一个住的地方."
 
 # game/code/d03/d03s04.rpy:207
 translate chinese d03s04_995536aa:
