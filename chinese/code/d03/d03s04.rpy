@@ -178,13 +178,13 @@ translate chinese d03s04_fddba1d6:
 translate chinese d03s04_995536aa:
 
     # arj "She's moving here this weekend and doesn't have a place to stay yet?"
-    arj "She's moving here this weekend and doesn't have a place to stay yet?"
+    arj "她星期天要来却还没有住的地方?"
 
 # game/code/d03/d03s04.rpy:211
 translate chinese d03s04_b95ad689:
 
     # mc "Yeah, that shouldn't be too difficult.. right?"
-    mc "Yeah, that shouldn't be too difficult.. right?"
+    mc 对的，不过这不应该是个难题...对吧?"
 
 # game/code/d03/d03s04.rpy:215
 translate chinese d03s04_a23ffca6:
