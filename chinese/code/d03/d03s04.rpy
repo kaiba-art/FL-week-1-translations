@@ -1042,17 +1042,17 @@ translate chinese strings:
 
     # game/code/d03/d03s04.rpy:519
     old "Don't risk it"
-    new "Don't risk it"
+    new "不冒这个险"
 
     # game/code/d03/d03s04.rpy:519
     old "Take a picture of AmRose's foot"
-    new "Take a picture of AmRose's foot"
+    new "偷拍AmRose的脚"
 
     # game/code/d03/d03s04.rpy:543
     old "Respect her privacy"
-    new "Respect her privacy"
+    new "尊重她的隐私"
 
     # game/code/d03/d03s04.rpy:543
     old "I am curious"
-    new "I am curious"
+    new "我很好奇"
 
