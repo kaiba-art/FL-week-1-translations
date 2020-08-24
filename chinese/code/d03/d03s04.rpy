@@ -772,271 +772,271 @@ translate chinese replay_d03s04_c42f9084:
 translate chinese replay_d03s04_c17ef8ec:
 
     # mc "What's that?"
-    mc "那是什么?"
+    mc "什么?"
 
 # game/code/d03/d03s04.rpy:535
 translate chinese replay_d03s04_4388253e:
 
     # arj "Some guy just getting a raging erection while sitting in the cafeteria during lunch."
-    arj "Some guy just getting a raging erection while sitting in the cafeteria during lunch."
+    arj "某个人午餐时间在咖啡厅不可控制地勃起了."
 
 # game/code/d03/d03s04.rpy:537
 translate chinese replay_d03s04_2ec2fd28:
 
     # mc "Yeah, that would be weird."
-    mc "Yeah, that would be weird."
+    mc "是啊，那可真是奇怪."
 
 # game/code/d03/d03s04.rpy:539
 translate chinese replay_d03s04_ea170192:
 
     # arj "Like what would he do in that situation? Just sit there until it goes away?"
-    arj "Like what would he do in that situation? Just sit there until it goes away?"
+    arj "不过他这时候会怎么办呢，一直坐在那等着结束吗?"
 
 # game/code/d03/d03s04.rpy:541
 translate chinese replay_d03s04_3536fdd4:
 
     # mc "Think about baseball?"
-    mc "Think about baseball?"
+    mc "想想棒球的事?"
 
 # game/code/d03/d03s04.rpy:542
 translate chinese replay_d03s04_3e5ec512:
 
     # mct "What is that she's texting?"
-    mct "What is that she's texting?"
+    mct "她刚才在发送什么?"
 
 # game/code/d03/d03s04.rpy:545
 translate chinese replay_d03s04_82fd699a:
 
     # mct "Meh, doesn't matter"
-    mct "Meh, doesn't matter"
+    mct "呃，算了呢"
 
 # game/code/d03/d03s04.rpy:548
 translate chinese replay_d03s04_3c365154:
 
     # mct "Screw it. Let's take a look."
-    mct "Screw it. Let's take a look."
+    mct "管她呢，我要看看是什么."
 
 # game/code/d03/d03s04.rpy:550
 translate chinese replay_d03s04_d43c66ea:
 
     # mct "I can't make out who she's chatting with, but I think I can read the texts."
-    mct "I can't make out who she's chatting with, but I think I can read the texts."
+    mct "我可能不会知道她在跟谁聊天，不过我觉得我可以看到她写的信息."
 
 # game/code/d03/d03s04.rpy:555
 translate chinese replay_d03s04_4a63df23:
 
     # arj "Unless thinking about athletic men running around in uniforms turns them on."
-    arj "Unless thinking about athletic men running around in uniforms turns them on."
+    arj "至少想那些穿着制服的运动员不会勃起."
 
 # game/code/d03/d03s04.rpy:557
 translate chinese replay_d03s04_ce3f7f57:
 
     # mc "Hmm, think about classes?"
-    mc "Hmm, think about classes?"
+    mc "呃，想着上课呢?"
 
 # game/code/d03/d03s04.rpy:560
 translate chinese replay_d03s04_4f8e9b55:
 
     # mct "Let's see, it says \"Yesterday was great, but it wasn't enough\""
-    mct "Let's see, it says \"Yesterday was great, but it wasn't enough\""
+    mct "让我看看, 它说 \"昨晚真的不错,但是还不够\""
 
 # game/code/d03/d03s04.rpy:563
 translate chinese replay_d03s04_81536775:
 
     # arj "Nah, I've seen too many guys half asleep fantasizing about girls during classes."
-    arj "Nah, I've seen too many guys half asleep fantasizing about girls during classes."
+    arj "得了吧，我看到太多的男生在课上半睡着想女孩了."
 
 # game/code/d03/d03s04.rpy:565
 translate chinese replay_d03s04_fee0c657:
 
     # mc "Good point. Lie back and think of England?"
-    mc "Good point. Lie back and think of England?"
+    mc "这倒是对的，放松点然后想想英国?"
 
 # game/code/d03/d03s04.rpy:568
 translate chinese replay_d03s04_c77dfe89:
 
     # mct "Then it says \"I still need a few more points to get my Party invite.\""
-    mct "Then it says \"I still need a few more points to get my Party invite.\""
+    mct "然后他说 \"我还需要一些分数来赚取派对的门票.\""
 
 # game/code/d03/d03s04.rpy:571
 translate chinese replay_d03s04_ceb1f8cc:
 
     # arj "Too many Anglophiles."
-    arj "Too many Anglophiles."
+    arj "太多一个人了."
 
 # game/code/d03/d03s04.rpy:573
 translate chinese replay_d03s04_55a9cb3b:
 
     # mc "Think about their own mother?"
-    mc "Think about their own mother?"
+    mc "或者想他们自己的妈妈呢?"
 
 # game/code/d03/d03s04.rpy:576
 translate chinese replay_d03s04_8722e7c0:
 
     # mct "Then AmRose says \"Meet me at the main Lecture Hall at 3pm.\""
-    mct "Then AmRose says \"Meet me at the main Lecture Hall at 3pm.\""
+    mct "然后AmRose写到\"在主教室下午三点跟我见面.\""
 
 # game/code/d03/d03s04.rpy:579
 translate chinese replay_d03s04_4bd08e88:
 
     # arj "That would make things much more awkward."
-    arj "That would make things much more awkward."
+    arj "这样会使事情非常尴尬的."
 
 # game/code/d03/d03s04.rpy:581
 translate chinese replay_d03s04_58de4651:
 
     # mc "Hopefully nobody is turned on by that."
-    mc "Hopefully nobody is turned on by that."
+    mc "呃，我希望至少没人会因此性奋的吧."
 
 # game/code/d03/d03s04.rpy:584
 translate chinese replay_d03s04_ea904c23:
 
     # mct "Continues, \"We can use the Prof's Desk!\""
-    mct "Continues, \"We can use the Prof's Desk!\""
+    mct "然后她继续写, \"我们可以用教授的讲桌!\""
 
 # game/code/d03/d03s04.rpy:585
 translate chinese replay_d03s04_896cc2bb:
 
     # mct "The other person responds, \"That will definitely score me enough points! UR the Greatest!"
-    mct "The other person responds, \"That will definitely score me enough points! UR the Greatest!"
+    mct "另一个人回复, \"太棒了，这样我肯定能赚到足够的分数去参加派对了!"
 
 # game/code/d03/d03s04.rpy:591
 translate chinese replay_d03s04_3ba52c63:
 
     # arj "Well, it's either that or think about Prof. Nordin."
-    arj "Well, it's either that or think about Prof. Nordin."
+    arj "好吧，要么就是想着Nordin教授."
 
 # game/code/d03/d03s04.rpy:593
 translate chinese replay_d03s04_4bdbe0b5:
 
     # mc "Gah! Nobody wants that."
-    mc "Gah! Nobody wants that."
+    mc "呃，没人想这样."
 
 # game/code/d03/d03s04.rpy:595
 translate chinese replay_d03s04_c7dfded4:
 
     # mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
-    mct "She chatting with someone... What is this about? Is she working on earning points with someone?"
+    mct "她在跟某人聊天... 她们到底在说什么? 她是在跟谁合作来赚取分数吗?"
 
 # game/code/d03/d03s04.rpy:597
 translate chinese replay_d03s04_3e0849df:
 
     # mct "Is this connected with her streaming yesterday?"
-    mct "Is this connected with her streaming yesterday?"
+    mct "这是关于她昨天的直播的事情吗?"
 
 # game/code/d03/d03s04.rpy:598
 translate chinese replay_d03s04_82b23322:
 
     # mct "Hmm... Maybe I should swing by the main lecture hall later."
-    mct "Hmm... Maybe I should swing by the main lecture hall later."
+    mct "呃... 或许等会我应该去主教室看看."
 
 # game/code/d03/d03s04.rpy:601
 translate chinese replay_d03s04_b65e4c17:
 
     # arj "Oh, I almost forgot, I need to do something."
-    arj "Oh, I almost forgot, I need to do something."
+    arj "我差点忘了，我还有事."
 
 # game/code/d03/d03s04.rpy:603
 translate chinese replay_d03s04_5630f8f2:
 
     # mc "Yeah, okay."
-    mc "Yeah, okay."
+    mc "呃呃, 好的."
 
 # game/code/d03/d03s04.rpy:605
 translate chinese replay_d03s04_877aa2af:
 
     # arj "I'll be in the library most of this afternoon if you want to study or something."
-    arj "I'll be in the library most of this afternoon if you want to study or something."
+    arj "我晚上会待在图书馆，如果你想学习或者干点别的...来找我."
 
 # game/code/d03/d03s04.rpy:607
 translate chinese replay_d03s04_5ce3b81a:
 
     # mc "Maybe. Take care."
-    mc "Maybe. Take care."
+    mc "或许吧，你小心点."
 
 # game/code/d03/d03s04.rpy:609
 translate chinese replay_d03s04_9ce81934:
 
     # arj "You too! I really am glad you're back and you're healthy."
-    arj "You too! I really am glad you're back and you're healthy."
+    arj "你也是! 我真高兴你健康地回来了."
 
 # game/code/d03/d03s04.rpy:612
 translate chinese replay_d03s04_f7945449:
 
     # mct "This red skirt looks great on her!"
-    mct "This red skirt looks great on her!"
+    mct "这个红色的裙子穿在她身上真好看!"
 
 # game/code/d03/d03s04.rpy:614
 translate chinese replay_d03s04_5376d29f:
 
     # mct "Probably even better than that maid outfit..."
-    mct "Probably even better than that maid outfit..."
+    mct "或许比那个女仆装还好..."
 
 # game/code/d03/d03s04.rpy:616
 translate chinese replay_d03s04_ca293c67:
 
     # mc "Right, so just sit here and think about Prof. Nordin until my little problem goes away."
-    mc "Right, so just sit here and think about Prof. Nordin until my little problem goes away."
+    mc "对的, 或者在那一直想Nordin教授，直到我的小问题...消失."
 
 # game/code/d03/d03s04.rpy:624
 translate chinese replay_d03s04_d07f8876:
 
     # fl "You earned some points!"
-    fl "You earned some points!"
+    fl "你得到了一些分数!"
 
 # game/code/d03/d03s04.rpy:626
 translate chinese replay_d03s04_108dcd35:
 
     # mct "Nice! [d03s04_footsyPoints] points!"
-    mct "Nice! [d03s04_footsyPoints] points!"
+    mct "太棒了! [d03s04_footsyPoints] 分!"
 
 # game/code/d03/d03s04.rpy:628
 translate chinese replay_d03s04_a7622481:
 
     # mct "Such a nice view on Lydia from here!"
-    mct "Such a nice view on Lydia from here!"
+    mct "搁着正好能很好地看到Lydia!"
 
 # game/code/d03/d03s04.rpy:637
 translate chinese replay_d03s04_b61a3da0:
 
     # "a couple minutes later"
-    "a couple minutes later"
+    "几分钟之后"
 
 # game/code/d03/d03s04.rpy:640
 translate chinese replay_d03s04_472411dc:
 
     # mc "Hey Kevin..."
-    mc "Hey Kevin..."
+    mc "嗨Kevin..."
 
 # game/code/d03/d03s04.rpy:642
 translate chinese replay_d03s04_57d5a15f:
 
     # kb "Hey..."
-    kb "Hey..."
+    kb "嗨..."
 
 # game/code/d03/d03s04.rpy:644
 translate chinese replay_d03s04_b1b02ce2:
 
     # mc "Well, don't just stand there. Pull up a chair."
-    mc "Well, don't just stand there. Pull up a chair."
+    mc "呃，别只是站在那，拿张椅子坐过来啊."
 
 # game/code/d03/d03s04.rpy:646
 translate chinese replay_d03s04_59a95231:
 
     # kb "We need to talk. And it is a bit too crowded here... {w}Can we go somewhere else?"
-    kb "We need to talk. And it is a bit too crowded here... {w}Can we go somewhere else?"
+    kb "我们得谈谈. 而且这有点嘈杂... {w}我们可以去别的地方吗?"
 
 # game/code/d03/d03s04.rpy:647
 translate chinese replay_d03s04_56439429:
 
     # mc "Sure, I know just the place."
-    mc "Sure, I know just the place."
+    mc "当然，我知道一个地方."
 
 # game/code/d03/d03s04.rpy:651
 translate chinese replay_d03s04_95007012:
 
     # "[mcname] was about to leave, when on his way out he met eyes with Min"
-    "[mcname] was about to leave, when on his way out he met eyes with Min"
+    "[mcname]正在朝门走去时, 他的目光与Min交织在了一起."
 
 translate chinese strings:
 
