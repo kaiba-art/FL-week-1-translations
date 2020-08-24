@@ -4,25 +4,25 @@
 translate chinese d03s05_445aec41:
 
     # "02:30 PM"
-    "02:30 PM"
+    "下午两点半"
 
 # game/code/d03/d03s05.rpy:22
 translate chinese d03s05_6153070d:
 
     # mc "Hey, Nora!"
-    mc "Hey, Nora!"
+    mc "嗨, Nora!"
 
 # game/code/d03/d03s05.rpy:23
 translate chinese d03s05_0c8c0019:
 
     # nk "Hey, [mcname]! Glad to see you again!"
-    nk "Hey, [mcname]! Glad to see you again!"
+    nk "嗨, [mcname]! 很高兴又见到你!"
 
 # game/code/d03/d03s05.rpy:25
 translate chinese d03s05_55f2f8d3:
 
     # mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffees that you made yesterday?"
-    mc "Me too! Bringing you new customers! {w}Can we have two of those wonderful coffees that you made yesterday?"
+    mc "我也是! 而且带来了新的顾客! {w}我们可以点两杯我昨天喝过的美味咖啡吗?"
 
 # game/code/d03/d03s05.rpy:26
 translate chinese d03s05_c029c7d1:
