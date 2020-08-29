@@ -28,241 +28,241 @@ translate chinese d03s05_55f2f8d3:
 translate chinese d03s05_c029c7d1:
 
     # nk "Take a seat, I'll bring it to you!"
-    nk "Take a seat, I'll bring it to you!"
+    nk "去坐吧，我等会给你们拿过来!"
 
 # game/code/d03/d03s05.rpy:28
 translate chinese d03s05_a81ca944:
 
     # "Barista" "Welcome! Would you like anything?"
-    "Barista" "Welcome! Would you like anything?"
+    "咖啡师" "欢迎光临，你们想喝什么?"
 
 # game/code/d03/d03s05.rpy:30
 translate chinese d03s05_f1c41e79:
 
     # mc "Hi! Can I have a Latte?"
-    mc "Hi! Can I have a Latte?"
+    mc "嗨，我可以点杯拿铁吗?"
 
 # game/code/d03/d03s05.rpy:31
 translate chinese d03s05_98444598:
 
     # kb "And me too!"
-    kb "And me too!"
+    kb "我也是!"
 
 # game/code/d03/d03s05.rpy:32
 translate chinese d03s05_e2b756f3:
 
     # "Barista" "Take a seat, I'll bring it to you!"
-    "Barista" "Take a seat, I'll bring it to you!"
+    "Barista" "去坐吧，我等会给你们拿过来!"
 
 # game/code/d03/d03s05.rpy:33
 translate chinese d03s05_6d04953c:
 
     # mc "Thanks!"
-    mc "Thanks!"
+    mc "谢谢!"
 
 # game/code/d03/d03s05.rpy:43
 translate chinese d03s05_50d31177:
 
     # mc "It's a really nice cafe, but not many people come here."
-    mc "It's a really nice cafe, but not many people come here."
+    mc "这个真是个不错的咖啡店，不过没有多少人来."
 
 # game/code/d03/d03s05.rpy:47
 translate chinese d03s05_ef626556:
 
     # kb "And this hot barista knows you by name!"
-    kb "And this hot barista knows you by name!"
+    kb "老兄，这个性感的咖啡师居然知道你的名字!"
 
 # game/code/d03/d03s05.rpy:48
 translate chinese d03s05_a3f057c0:
 
     # mc "Yeah, we just had an encounter yesterday... {w}Long story. It is related to that new app..."
-    mc "Yeah, we just had an encounter yesterday... {w}Long story. It is related to that new app..."
+    mc "呃，我们昨天才认识... {w}说来话长. 关于Fetish Locator的..."
 
 # game/code/d03/d03s05.rpy:50
 translate chinese d03s05_8db50c70:
 
     # kb "Oh! I see!"
-    kb "Oh! I see!"
+    kb "哦，我懂了!"
 
 # game/code/d03/d03s05.rpy:52
 translate chinese d03s05_914dda54:
 
     # kb "I can see that! And barista is smoking hot!"
-    kb "I can see that! And barista is smoking hot!"
+    kb "我懂，不过这个咖啡师可真是火辣!"
 
 # game/code/d03/d03s05.rpy:54
 translate chinese d03s05_7fe2db55:
 
     # mc "So! What was it I walked in on today?"
-    mc "So! What was it I walked in on today?"
+    mc "所以说! 我今天看到了什么?"
 
 # game/code/d03/d03s05.rpy:56
 translate chinese d03s05_e01291b1:
 
     # kb "Well. It is a bit embarrassing... And I didn't want to share it. {w}But since things went this way, I guess it is better if you would know the truth."
-    kb "Well. It is a bit embarrassing... And I didn't want to share it. {w}But since things went this way, I guess it is better if you would know the truth."
+    kb "呃. 说起来有点尴尬... 我也不太想说这个事. {w}不过事已至此, 还是告诉你实话比较好."
 
 # game/code/d03/d03s05.rpy:59
 translate chinese d03s05_56245d42:
 
     # kb "Me and Chloe... {w}We are not just siblings. {w}We are together. {w}As a couple..."
-    kb "Me and Chloe... {w}We are not just siblings. {w}We are together. {w}As a couple..."
+    kb "我和Chloe... {w}我们不只是兄弟姐妹. {w}我们在一起. {w}就像情侣那样..."
 
 # game/code/d03/d03s05.rpy:61
 translate chinese d03s05_288d9b73:
 
     # kb "Me and Chloe... {w}We are not just old friends. {w}We are together. {w}As a couple..."
-    kb "Me and Chloe... {w}We are not just old friends. {w}We are together. {w}As a couple..."
+    kb 我和Chloe... {w}我们不只是老朋友. {w}我们在一起. {w}就像情侣那样..."
 
 # game/code/d03/d03s05.rpy:64
 translate chinese d03s05_849d1e45:
 
     # mc "Oh wow!"
-    mc "Oh wow!"
+    mc "不是吧，老兄!"
 
 # game/code/d03/d03s05.rpy:65
 translate chinese d03s05_2199b643:
 
     # mc "Ok wait! Give me a sec to let this information sink in..."
-    mc "Ok wait! Give me a sec to let this information sink in..."
+    mc "等等! 我需要几秒来消化这个信息..."
 
 # game/code/d03/d03s05.rpy:67
 translate chinese d03s05_4d7aff17:
 
     # mc "If you and Chloe... If you are with her... then why did I see her fucking Dario?"
-    mc "If you and Chloe... If you are with her... then why did I see her fucking Dario?"
+    mc "呃，如果你和Chole... 如果你和她是情侣的话... 那我为什么看见她和Dario在做爱?"
 
 # game/code/d03/d03s05.rpy:70
 translate chinese d03s05_b10de45f:
 
     # kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
-    kb "Yeah... That's another thing... {w}We've been together for some time. We've had terrific sex and done just about everything..."
+    kb "呃，是啊... 这是另一个事... {w}我们在一起的时候，我经常跟她做爱，而且我们几乎做了所有能做的事..."
 
 # game/code/d03/d03s05.rpy:73
 translate chinese d03s05_aad3a003:
 
     # kb "But just recently - like since Fetish Locator started - we discovered something new."
-    kb "But just recently - like since Fetish Locator started - we discovered something new."
+    kb "但是最近 - 从Fetish Locator推出以后 - 我们发现了一些新的东西."
 
 # game/code/d03/d03s05.rpy:76
 translate chinese d03s05_6eb54c63:
 
     # nk "Hey, here is your coffee!"
-    nk "Hey, here is your coffee!"
+    nk "呦, 这是你们的咖啡!"
 
 # game/code/d03/d03s05.rpy:78
 translate chinese d03s05_f60705b3:
 
     # "Barista" "Hey, here is your coffee!"
-    "Barista" "Hey, here is your coffee!"
+    "咖啡师" "嗨,这是你们的咖啡!"
 
 # game/code/d03/d03s05.rpy:80
 translate chinese d03s05_6d04953c_1:
 
     # mc "Thanks!"
-    mc "Thanks!"
+    mc "谢谢!"
 
 # game/code/d03/d03s05.rpy:84
 translate chinese d03s05_fa878c65:
 
     # nk "Do you want to introduce me to your friend? {w} Or does he know me already?"
-    nk "Do you want to introduce me to your friend? {w} Or does he know me already?"
+    nk "为什么不把我介绍给你的朋友呢? {w} 嗯...难道他已经认识我了?"
 
 # game/code/d03/d03s05.rpy:86
 translate chinese d03s05_850645e2:
 
     # mc "Nora, this is one of my best friends, Kevin. {w}Kevin, this is my favorite barista, Nora."
-    mc "Nora, this is one of my best friends, Kevin. {w}Kevin, this is my favorite barista, Nora."
+    mc "Nora, 这是我最好的朋友之一, Kevin. {w}Kevin, 这是我最喜欢的咖啡师, Nora."
 
 # game/code/d03/d03s05.rpy:87
 translate chinese d03s05_6f309b75:
 
     # mct "What did she mean by \"know me already\"?"
-    mct "What did she mean by \"know me already\"?"
+    mct "她那句 \"已经认识我\"是什么意思?"
 
 # game/code/d03/d03s05.rpy:89
 translate chinese d03s05_f31fe6cd:
 
     # mct "Fuck! She thinks he is THE friend from yesterday!"
-    mct "Fuck! She thinks he is THE friend from yesterday!"
+    mct "我擦! 她以为Kevin是昨天秘密约会的那个人!"
 
 # game/code/d03/d03s05.rpy:91
 translate chinese d03s05_88e1f1c6:
 
     # kb "It's a pleasure to meet you, Nora!"
-    kb "It's a pleasure to meet you, Nora!"
+    kb "很荣幸认识你, Nora!"
 
 # game/code/d03/d03s05.rpy:93
 translate chinese d03s05_53e76a66:
 
     # nk "The pleasure is all mine. A {i}friend{/i} of [mcname]'s is always welcome here."
-    nk "The pleasure is all mine. A {i}friend{/i} of [mcname]'s is always welcome here."
+    nk "我也是. {i}嗯{/i}[mcname]的朋友来我这总是受欢迎的."
 
 # game/code/d03/d03s05.rpy:95
 translate chinese d03s05_0aa50d27:
 
     # mc "Kevin is {i}another{/i} very good friend of mine, but not the one from yesterday."
-    mc "Kevin is {i}another{/i} very good friend of mine, but not the one from yesterday."
+    mc "Kevin是{i}另一个{/i}我非常要好的朋友,但不是昨天晚上的那个."
 
 # game/code/d03/d03s05.rpy:97
 translate chinese d03s05_67e08145:
 
     # nk "I knew that was you sweetheart! Enjoy the coffee boys! It is on the house!"
-    nk "I knew that was you sweetheart! Enjoy the coffee boys! It is on the house!"
+    nk "我就知道昨天是你，宝贝! 好好享受你们的咖啡! 我请你们的!"
 
 # game/code/d03/d03s05.rpy:100
 translate chinese d03s05_a46717f8:
 
     # mc "But it... was... not me..."
-    mc "But it... was... not me..."
+    mc "但是昨天... 其实... 不是我..."
 
 # game/code/d03/d03s05.rpy:102
 translate chinese d03s05_f2650af8:
 
     # kb "Wow! What this was about? {w} You said it's related to Fetish Locator? {w}Did you bang her?!"
-    kb "Wow! What this was about? {w} You said it's related to Fetish Locator? {w}Did you bang her?!"
+    kb "我去! 你在说什么? {w} 你说是有关Fetish Locator的? {w} 你跟她做爱了?!"
 
 # game/code/d03/d03s05.rpy:104
 translate chinese d03s05_e8fe5622:
 
     # mc "No! I didn't {i}bang{/i} her! {w}That's a story for another time..."
-    mc "No! I didn't {i}bang{/i} her! {w}That's a story for another time..."
+    mc "不是! 我没有{i}跟她{/i}做爱! {w}下次我再告诉你吧..."
 
 # game/code/d03/d03s05.rpy:106
 translate chinese d03s05_1618bd88:
 
     # "Barista" "By the way I'm Nora!"
-    "Barista" "By the way I'm Nora!"
+    "咖啡师" "对了，我的名字是Nora!"
 
 # game/code/d03/d03s05.rpy:108
 translate chinese d03s05_176ecca7:
 
     # mc "Delighted to meet you Nora! I'm [mcname]."
-    mc "Delighted to meet you Nora! I'm [mcname]."
+    mc "很高兴认识你Nora! 我是[mcname]."
 
 # game/code/d03/d03s05.rpy:110
 translate chinese d03s05_3349679d:
 
     # kb "And I'm Kevin!"
-    kb "And I'm Kevin!"
+    kb "我是Kevin!"
 
 # game/code/d03/d03s05.rpy:112
 translate chinese d03s05_3ab15ad1:
 
     # nk "Nice to meet you both!"
-    nk "Nice to meet you both!"
+    nk "很高兴认识你们俩!"
 
 # game/code/d03/d03s05.rpy:113
 translate chinese d03s05_51585163:
 
     # nk "Well, I can see you have important things to discuss. I'll be just over there if you need anything."
-    nk "Well, I can see you have important things to discuss. I'll be just over there if you need anything."
+    nk "很好, 看起来你们俩有重要的事要说. 如果你们需要什么东西尽管叫我."
 
 # game/code/d03/d03s05.rpy:117
 translate chinese d03s05_00bb00bd:
 
     # kb "Thanks, Nora!"
-    kb "Thanks, Nora!"
+    kb "谢谢, Nora!"
 
 # game/code/d03/d03s05.rpy:119
 translate chinese d03s05_72d1afe8:
@@ -274,31 +274,31 @@ translate chinese d03s05_72d1afe8:
 translate chinese d03s05_4bb483a3:
 
     # kb "So, where were we?"
-    kb "So, where were we?"
+    kb "我们刚才说到哪了?"
 
 # game/code/d03/d03s05.rpy:123
 translate chinese d03s05_0874069e:
 
     # mc "You and Chloe are together, but you recently discovered something new that has to do with Chloe fucking Dario."
-    mc "You and Chloe are together, but you recently discovered something new that has to do with Chloe fucking Dario."
+    mc "你和Chole是情侣, 然后你说你最近发现了是买东西，就是跟Chole和Dario做爱有关的事."
 
 # game/code/d03/d03s05.rpy:125
 translate chinese d03s05_a9e66d0b:
 
     # kb "Wow. It sounds strange when you say it like that. But yeah..."
-    kb "Wow. It sounds strange when you say it like that. But yeah..."
+    kb "哇哦. 听到你说出来有点奇怪. 不过确实..."
 
 # game/code/d03/d03s05.rpy:127
 translate chinese d03s05_3d2f497d:
 
     # kb "I guess it is pretty simple. I enjoy watching her get fucked by other guys."
-    kb "I guess it is pretty simple. I enjoy watching her get fucked by other guys."
+    kb "我觉得很简单. 我看到她在跟别人做爱时我很享受."
 
 # game/code/d03/d03s05.rpy:129
 translate chinese d03s05_cfb564c1:
 
     # mc "So, you're a cuckold?"
-    mc "So, you're a cuckold?"
+    mc "所以说, 你喜欢被戴绿帽?"
 
 # game/code/d03/d03s05.rpy:132
 translate chinese d03s05_bb87c77c:
