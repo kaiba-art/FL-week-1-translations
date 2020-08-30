@@ -382,145 +382,145 @@ translate chinese d03s05_7a46236a:
 translate chinese d03s05_9b0ef937:
 
     # kb "Sure, but that's not my point. You still watched a girl you wanted to have sex with getting fucked by some other guy, and you got off on that."
-    kb "Sure, but that's not my point. You still watched a girl you wanted to have sex with getting fucked by some other guy, and you got off on that."
+    kb "当然，不过这不是我想说的. 但是你还是看那个你想要肏的女孩在跟别人做爱，而且你还在自慰."
 
 # game/code/d03/d03s05.rpy:160
 translate chinese d03s05_29bb2b53:
 
     # mc "Huh. I have to think about that."
-    mc "Huh. I have to think about that."
+    mc "呃.我得想想."
 
 # game/code/d03/d03s05.rpy:162
 translate chinese d03s05_4625af52:
 
     # mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
-    mct "Ok first of all. {w}Polly just entered. She and Nora are chatting just like old friends!"
+    mct "这个我倒是没想到. {w}Polly 进来后，跟Nora像老朋友一样在谈话!"
 
 # game/code/d03/d03s05.rpy:163
 translate chinese d03s05_04d52ffd:
 
     # mct "Polly is a regular here, but Nora has no clue that Polly just gave her an orgasm yesterday."
-    mct "Polly is a regular here, but Nora has no clue that Polly just gave her an orgasm yesterday."
+    mct "Polly是这里的老顾客...但是Nora完全不知道昨晚其实是..."
 
 # game/code/d03/d03s05.rpy:165
 translate chinese d03s05_a8f210b5:
 
     # mct "That is very interesting!"
-    mct "That is very interesting!"
+    mct "这就有意思了!"
 
 # game/code/d03/d03s05.rpy:166
 translate chinese d03s05_c4a285b5:
 
     # mct "Back to Kevin."
-    mct "Back to Kevin."
+    mct "回到Kevin这边."
 
 # game/code/d03/d03s05.rpy:167
 translate chinese d03s05_3ce213d9:
 
     # mct "Should I be a good friend and support his strange relationship with his [game.chloekevin]?"
-    mct "Should I be a good friend and support his strange relationship with his [game.chloekevin]?"
+    mct "我应该作为一个好朋友来支持他跟他的[game.chloekevin]现在的关系?"
 
 # game/code/d03/d03s05.rpy:169
 translate chinese d03s05_ae1631bb:
 
     # mct "Or I should be a good friend and tell him the hard truth that his relationship doesn't sound healthy?"
-    mct "Or I should be a good friend and tell him the hard truth that his relationship doesn't sound healthy?"
+    mct "还是我一个作为一个好朋友来告诉他他的关系是畸形的?"
 
 # game/code/d03/d03s05.rpy:176
 translate chinese d03s05_0c14e728:
 
     # mc "Huh. I don't agree, but I guess I can understand that."
-    mc "Huh. I don't agree, but I guess I can understand that."
+    mc "呃，我不同意，不过我想我懂你."
 
 # game/code/d03/d03s05.rpy:178
 translate chinese d03s05_4c316874:
 
     # kb "You don't agree? What does that mean?"
-    kb "You don't agree? What does that mean?"
+    kb "你不同意? 这代表什么?"
 
 # game/code/d03/d03s05.rpy:180
 translate chinese d03s05_07c4de99:
 
     # mc "I mean, I don't think I could do that. I think I would be revolted watching someone that I wanted to fuck have sex with someone else."
-    mc "I mean, I don't think I could do that. I think I would be revolted watching someone that I wanted to fuck have sex with someone else."
+    mc "我的意思是, 我不认我可以像你一样，同样的情况下我可能会感到反胃."
 
 # game/code/d03/d03s05.rpy:182
 translate chinese d03s05_24e3d8a0:
 
     # mc "That's me, though. That's just how I'm wired."
-    mc "That's me, though. That's just how I'm wired."
+    mc "我就是这样."
 
 # game/code/d03/d03s05.rpy:184
 translate chinese d03s05_28d50e44:
 
     # mc "You say that is what turns you on, and I believe you."
-    mc "You say that is what turns you on, and I believe you."
+    mc "你说这能使你性奋，我相信你."
 
 # game/code/d03/d03s05.rpy:186
 translate chinese d03s05_3000661f:
 
     # mc "What's that saying? \"Your kink isn't my kink, but that's okay.\""
-    mc "What's that saying? \"Your kink isn't my kink, but that's okay.\""
+    mc "那句话怎么说来着? \"你想要的并不是我想要的，不过这没什么.\""
 
 # game/code/d03/d03s05.rpy:188
 translate chinese d03s05_11006ad4:
 
     # kb "So, you don't think less of me?"
-    kb "So, you don't think less of me?"
+    kb "所以说，我在你心里的形象没变差?"
 
 # game/code/d03/d03s05.rpy:190
 translate chinese d03s05_454fa6e2:
 
     # mc "Nah, dude. I couldn't think less of you if I tried."
-    mc "Nah, dude. I couldn't think less of you if I tried."
+    mc "没有老兄，就算我试了也不会这样想你的."
 
 # game/code/d03/d03s05.rpy:192
 translate chinese d03s05_3c087b73:
 
     # kb "Ha! {w}Alright, good talk."
-    kb "Ha! {w}Alright, good talk."
+    kb "哈! {w}这让我轻松了许多."
 
 # game/code/d03/d03s05.rpy:195
 translate chinese d03s05_9a9e8d66:
 
     # mct "Oh right, I made this picture of Chloe. Should I show it to Kevin?"
-    mct "Oh right, I made this picture of Chloe. Should I show it to Kevin?"
+    mct "对了, 我之前偷拍了张Chloe的照片，我应该给他看么?"
 
 # game/code/d03/d03s05.rpy:200
 translate chinese d03s05_25122b3c:
 
     # mc "Oh hey, here's something you might enjoy"
-    mc "Oh hey, here's something you might enjoy"
+    mc "对了, 你会喜欢这个的"
 
 # game/code/d03/d03s05.rpy:201
 translate chinese d03s05_38cca946:
 
     # kb "Wow! Nice one!"
-    kb "Wow! Nice one!"
+    kb "哇哦! 真不错!"
 
 # game/code/d03/d03s05.rpy:205
 translate chinese d03s05_56d54741:
 
     # kb "How did you get that angle without being spotted?"
-    kb "How did you get that angle without being spotted?"
+    kb "你是怎么在那而不被发现的?"
 
 # game/code/d03/d03s05.rpy:207
 translate chinese d03s05_fcb9ffe6:
 
     # mc "Well, she was kinda covered in Pete's cum and couldn't see me."
-    mc "Well, she was kinda covered in Pete's cum and couldn't see me."
+    mc "嗯, 她脸上沾满了Pete的精液，所以说应该看不到我."
 
 # game/code/d03/d03s05.rpy:209
 translate chinese d03s05_25a37c21:
 
     # kb "Pete didn't catch you watching him?"
-    kb "Pete didn't catch you watching him?"
+    kb "Pete没发现你吗?"
 
 # game/code/d03/d03s05.rpy:211
 translate chinese d03s05_09140c51:
 
     # mc "No... He wanted me to see that."
-    mc "No... He wanted me to see that."
+    mc "没... 他就是想让我看来着."
 
 # game/code/d03/d03s05.rpy:213
 translate chinese d03s05_7c9c15be:
@@ -532,79 +532,79 @@ translate chinese d03s05_7c9c15be:
 translate chinese d03s05_3a70d32f:
 
     # mc "Yeah, enough heavy talk for today."
-    mc "Yeah, enough heavy talk for today."
+    mc "是啊，我们今天谈了许多."
 
 # game/code/d03/d03s05.rpy:221
 translate chinese d03s05_c132f03a:
 
     # kb "Oh hey, how is your plan to get Lydia? {w}Are you going to that Party?"
-    kb "Oh hey, how is your plan to get Lydia? {w}Are you going to that Party?"
+    kb "对了老兄, 你追Lydia的计划怎么样了? {w}你要去参加派对吗?"
 
 # game/code/d03/d03s05.rpy:223
 translate chinese d03s05_3f36c092:
 
     # mc "I hope so. I still need more points for the invite."
-    mc "I hope so. I still need more points for the invite."
+    mc "我是这样想的. 我还需要一些分数才够."
 
 # game/code/d03/d03s05.rpy:225
 translate chinese d03s05_78854411:
 
     # kb "Well, I just sent you a few more points."
-    kb "Well, I just sent you a few more points."
+    kb "那好, 我给你转了一些分数过去."
 
 # game/code/d03/d03s05.rpy:227
 translate chinese d03s05_024d9015:
 
     # mc "Good looking out, bro!"
-    mc "Good looking out, bro!"
+    mc "太谢谢你了!"
 
 # game/code/d03/d03s05.rpy:229
 translate chinese d03s05_067cfb18:
 
     # mc "I'll see you at the Party tonight."
-    mc "I'll see you at the Party tonight."
+    mc "今晚派对上见."
 
 # game/code/d03/d03s05.rpy:231
 translate chinese d03s05_f316dfd6:
 
     # kb "Oh, I've got other plans."
-    kb "Oh, I've got other plans."
+    kb "我今天有别的计划."
 
 # game/code/d03/d03s05.rpy:233
 translate chinese d03s05_e2074614:
 
     # mc "I guess I'll just have to enjoy it twice as hard for both of us."
-    mc "I guess I'll just have to enjoy it twice as hard for both of us."
+    mc "看来我得带着你那份一起努力了哈哈哈."
 
 # game/code/d03/d03s05.rpy:235
 translate chinese d03s05_ff8a55e2:
 
     # kb "Sounds good. See ya'"
-    kb "Sounds good. See ya'"
+    kb "就是这样，回见'"
 
 # game/code/d03/d03s05.rpy:237
 translate chinese d03s05_4a28039c:
 
     # mc "Later"
-    mc "Later"
+    mc "回见"
 
 # game/code/d03/d03s05.rpy:244
 translate chinese d03s05_disappointed_994f4c08:
 
     # mc "Dude, I'm sorry, but I just can't understand that."
-    mc "Dude, I'm sorry, but I just can't understand that."
+    mc "老兄对不起啊，我不太懂你."
 
 # game/code/d03/d03s05.rpy:246
 translate chinese d03s05_disappointed_848bc08c:
 
     # kb "What don't you understand?"
-    kb "What don't you understand?"
+    kb "没懂什么?"
 
 # game/code/d03/d03s05.rpy:248
 translate chinese d03s05_disappointed_b5af7896:
 
     # mc "Look, I'm sorry, but I've gotta drop an unpleasant truth on you."
-    mc "Look, I'm sorry, but I've gotta drop an unpleasant truth on you."
+    mc "看，虽然很抱歉，但是我得告诉你一下不好的事实."
 
 # game/code/d03/d03s05.rpy:250
 translate chinese d03s05_disappointed_0a3b0f6b:
