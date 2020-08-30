@@ -304,79 +304,79 @@ translate chinese d03s05_cfb564c1:
 translate chinese d03s05_bb87c77c:
 
     # kb "No, dude. We still have sex together. Just sometimes she has sex with other people, and a lot of those times I watch."
-    kb "No, dude. We still have sex together. Just sometimes she has sex with other people, and a lot of those times I watch."
+    kb "不是. 我们仍然在一起做爱. 只不过有时候她跟别人做爱, 而我大多数情况都会在那观看."
 
 # game/code/d03/d03s05.rpy:134
 translate chinese d03s05_868dcd33:
 
     # mc "Isn't that a cuckold?"
-    mc "Isn't that a cuckold?"
+    mc "这难道不是被带绿帽?"
 
 # game/code/d03/d03s05.rpy:137
 translate chinese d03s05_eb937bbb:
 
     # kb "I think cuckold is when two people are in a sexless relationship, and one of them has sex with other people with the intention of embarrassing the other."
-    kb "I think cuckold is when two people are in a sexless relationship, and one of them has sex with other people with the intention of embarrassing the other."
+    kb "我认为戴绿帽是指两个人处于一个没有性行为的关系中, and one of them has sex with other people with the intention of embarrassing the other."
 
 # game/code/d03/d03s05.rpy:139
 translate chinese d03s05_1ac56e6d:
 
     # mc "Huh. So, do you get off on the humiliation of it or something?"
-    mc "Huh. So, do you get off on the humiliation of it or something?"
+    mc "呃，所以说你不对它感到屈辱还是什么的吗?"
 
 # game/code/d03/d03s05.rpy:141
 translate chinese d03s05_7cb4f525:
 
     # kb "Humiliation? What are you talking about?"
-    kb "Humiliation? What are you talking about?"
+    kb "屈辱? 你在说什么?"
 
 # game/code/d03/d03s05.rpy:143
 translate chinese d03s05_daf679ca:
 
     # mc "I mean, it's gotta be emasculating watching someone you want to fuck get fucked by somebody else."
-    mc "I mean, it's gotta be emasculating watching someone you want to fuck get fucked by somebody else."
+    mc "我的意思是，你看着你想做爱的女人正在被别人肏，这不是很屈辱吗."
 
 # game/code/d03/d03s05.rpy:145
 translate chinese d03s05_fe5e4ff4:
 
     # kb "No, that's not it at all. You've watched porn, right?"
-    kb "No, that's not it at all. You've watched porn, right?"
+    kb "并不是这样，你看过小黄片对吧?"
 
 # game/code/d03/d03s05.rpy:147
 translate chinese d03s05_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然."
 
 # game/code/d03/d03s05.rpy:149
 translate chinese d03s05_dd1c9796:
 
     # kb "You've watched girls fuck guys in porn, right?"
-    kb "You've watched girls fuck guys in porn, right?"
+    kb "你看到黄片里的女孩跟别人做爱了对吧?"
 
 # game/code/d03/d03s05.rpy:151
 translate chinese d03s05_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "对啊."
 
 # game/code/d03/d03s05.rpy:153
 translate chinese d03s05_b18d3eaf:
 
     # kb "You wanted to fuck those girls in porn, but got off watching them have sex with other guys, right?"
-    kb "You wanted to fuck those girls in porn, but got off watching them have sex with other guys, right?"
+    kb "你也想肏黄片里的女孩, 但你不是也在看着她在跟别人做爱吗?"
 
 # game/code/d03/d03s05.rpy:155
 translate chinese d03s05_72b032b6:
 
     # mc "Huh. Yeah, but it wasn't happening in front of me."
-    mc "Huh. Yeah, but it wasn't happening in front of me."
+    mc "呃对，不对，这也不是在我面前发生的啊."
 
 # game/code/d03/d03s05.rpy:156
 translate chinese d03s05_7a46236a:
 
     # mc "I mean, if I had a choice between fucking those girls myself, or just watching them get fucked by other guys, I'd be the only guy in the room."
-    mc "I mean, if I had a choice between fucking those girls myself, or just watching them get fucked by other guys, I'd be the only guy in the room."
+    mc "我的意思是, 如果我能从看着她们被人肏，还是从肏她们之间选, 我会选跟她们做爱而不是在那看."
 
 # game/code/d03/d03s05.rpy:158
 translate chinese d03s05_9b0ef937:
