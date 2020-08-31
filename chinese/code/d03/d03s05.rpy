@@ -316,7 +316,7 @@ translate chinese d03s05_868dcd33:
 translate chinese d03s05_eb937bbb:
 
     # kb "I think cuckold is when two people are in a sexless relationship, and one of them has sex with other people with the intention of embarrassing the other."
-    kb "我认为戴绿帽是指两个人处于一个没有性行为的关系中, and one of them has sex with other people with the intention of embarrassing the other."
+    kb "我认为戴绿帽是指两个人处于一个没有性行为的关系中, 或者一个人的行为令对方感觉到背叛."
 
 # game/code/d03/d03s05.rpy:139
 translate chinese d03s05_1ac56e6d:
@@ -610,191 +610,191 @@ translate chinese d03s05_disappointed_b5af7896:
 translate chinese d03s05_disappointed_0a3b0f6b:
 
     # mc "I think your [game.chloekevin] has you so whipped that she's using you."
-    mc "I think your [game.chloekevin] has you so whipped that she's using you."
+    mc "我认为你的[game.chloekevin]在骗你利用你."
 
 # game/code/d03/d03s05.rpy:252
 translate chinese d03s05_disappointed_48ac5fda:
 
     # kb "What?"
-    kb "What?"
+    kb "什么?"
 
 # game/code/d03/d03s05.rpy:254
 translate chinese d03s05_disappointed_03bf8d1e:
 
     # mc "Just hear me out. She's going around having sex with guys whether you're watching or not, right?"
-    mc "Just hear me out. She's going around having sex with guys whether you're watching or not, right?"
+    mc "听我说，她在你看着的情况下跟别人做爱，对吧?"
 
 # game/code/d03/d03s05.rpy:256
 translate chinese d03s05_disappointed_14de7fbb:
 
     # kb "Yeah. I've got no problem with that."
-    kb "Yeah. I've got no problem with that."
+    kb "对啊，我没什么意见啊."
 
 # game/code/d03/d03s05.rpy:258
 translate chinese d03s05_disappointed_02ed18a6:
 
     # mc "And she's got you so confused that you think you're getting off on that."
-    mc "And she's got you so confused that you think you're getting off on that."
+    mc "她使你感到迷茫，然后使你认为对此兴奋."
 
 # game/code/d03/d03s05.rpy:261
 translate chinese d03s05_disappointed_1bac23f7:
 
     # kb "I do get off on that. I'm not confused."
-    kb "I do get off on that. I'm not confused."
+    kb "确实是这样啊，而且我没感到迷茫啊."
 
 # game/code/d03/d03s05.rpy:263
 translate chinese d03s05_disappointed_59f80af9:
 
     # mc "I'm not trying to judge you or embarrass you or anything. I'm just calling it as I see it."
-    mc "I'm not trying to judge you or embarrass you or anything. I'm just calling it as I see it."
+    mc "我不是在试着评价你，或者使你尴尬什么的，我只是说了我认为的事."
 
 # game/code/d03/d03s05.rpy:265
 translate chinese d03s05_disappointed_7db1b0f7:
 
     # mc "I think she's using you, and convinced you of things about yourself that just aren't true."
-    mc "I think she's using you, and convinced you of things about yourself that just aren't true."
+    mc "我认为她在利用你，她使你认为这一切都是对的."
 
 # game/code/d03/d03s05.rpy:267
 translate chinese d03s05_disappointed_ee9e4bf5:
 
     # kb "Huh. I thought you could understand this, but I guess I was wrong."
-    kb "Huh. I thought you could understand this, but I guess I was wrong."
+    kb "呃，我以为你会懂我，看来我错了."
 
 # game/code/d03/d03s05.rpy:269
 translate chinese d03s05_disappointed_910e78b7:
 
     # mc "Dude, I'm sorry, but I gotta be honest with you."
-    mc "Dude, I'm sorry, but I gotta be honest with you."
+    mc "对不起老兄，不过我得对你坦诚一点."
 
 # game/code/d03/d03s05.rpy:272
 translate chinese d03s05_disappointed_10455935:
 
     # kb "No, I appreciate your honesty. I'm not confused or being used, but I get what you're saying."
-    kb "No, I appreciate your honesty. I'm not confused or being used, but I get what you're saying."
+    kb "没事，我喜欢你的诚实，不过我没有迷茫或者被利用，但是我懂你想表达什么."
 
 # game/code/d03/d03s05.rpy:274
 translate chinese d03s05_disappointed_edaaaff3:
 
     # kb "Look, just do me a favor and don't tell anybody else about this."
-    kb "Look, just do me a favor and don't tell anybody else about this."
+    kb "帮我个忙老兄，千万别告诉别人这件事，可以吗."
 
 # game/code/d03/d03s05.rpy:276
 translate chinese d03s05_disappointed_5d4466f7:
 
     # mc "Of course. You can trust me."
-    mc "Of course. You can trust me."
+    mc "当然，你可以信我."
 
 # game/code/d03/d03s05.rpy:279
 translate chinese d03s05_disappointed_3036ea8f:
 
     # kb "Thanks. See ya'."
-    kb "Thanks. See ya'."
+    kb "谢了，回见."
 
 # game/code/d03/d03s05.rpy:281
 translate chinese d03s05_disappointed_4a28039c:
 
     # mc "Later"
-    mc "Later"
+    mc "回见"
 
 # game/code/d03/d03s05.rpy:289
 translate chinese d03s05_end_e756d91a:
 
     # nk "(Whispers)"
-    nk "(Whispers)"
+    nk "(悄悄话)"
 
 # game/code/d03/d03s05.rpy:290
 translate chinese d03s05_end_b3b94851:
 
     # nk "And I was standing right here!"
-    nk "And I was standing right here!"
+    nk "A我当时就站在那!"
 
 # game/code/d03/d03s05.rpy:291
 translate chinese d03s05_end_ad08eabb:
 
     # nk "His hands were so strong! But at the same time gentle..."
-    nk "His hands were so strong! But at the same time gentle..."
+    nk "她的手很壮! 但是同时又很温柔..."
 
 # game/code/d03/d03s05.rpy:294
 translate chinese d03s05_end_09a26495:
 
     # nk "Hey [mcname], leaving already?"
-    nk "Hey [mcname], leaving already?"
+    nk "嗨 [mcname], 要走了吗?"
 
 # game/code/d03/d03s05.rpy:295
 translate chinese d03s05_end_118cc394:
 
     # mc "Yes! Thanks for the coffee! Hey Polly."
-    mc "Yes! Thanks for the coffee! Hey Polly."
+    mc "嗯! 谢谢你的咖啡! 嗨，Polly."
 
 # game/code/d03/d03s05.rpy:296
 translate chinese d03s05_end_e5be2635:
 
     # pw "Hey [mcname]."
-    pw "Hey [mcname]."
+    pw "嗨 [mcname]."
 
 # game/code/d03/d03s05.rpy:297
 translate chinese d03s05_end_9f10079b:
 
     # nk "Ah, so you know each other?"
-    nk "Ah, so you know each other?"
+    nk "呃, 你们已经认识了?"
 
 # game/code/d03/d03s05.rpy:298
 translate chinese d03s05_end_6d40b1d9:
 
     # pw "Yeah, we have some classes in common."
-    pw "Yeah, we have some classes in common."
+    pw "是的, 我们有一些相同的课程."
 
 # game/code/d03/d03s05.rpy:299
 translate chinese d03s05_end_3d6f5532:
 
     # mc "Ok, see you!"
-    mc "Ok, see you!"
+    mc "回见!"
 
 # game/code/d03/d03s05.rpy:306
 translate chinese d03s05_end_2aaffd37:
 
     # fl "You received points from another user!"
-    fl "You received points from another user!"
+    fl "你从比别的用户那得到了分数!"
 
 # game/code/d03/d03s05.rpy:308
 translate chinese d03s05_end_cc0d5da9:
 
     # fl "[d03s05_points] points were transferred to you from Bravo's account."
-    fl "[d03s05_points] points were transferred to you from Bravo's account."
+    fl "[d03s05_points]分从Bravo的账号发送了过来."
 
 # game/code/d03/d03s05.rpy:309
 translate chinese d03s05_end_9c65edcf:
 
     # mct "Oh, that's from Kevin! [d03s05_points] points! Awesome!"
-    mct "Oh, that's from Kevin! [d03s05_points] points! Awesome!"
+    mct "从Kevin那发来的! [d03s05_points] 分，真酷!"
 
 # game/code/d03/d03s05.rpy:310
 translate chinese d03s05_end_00449c84:
 
     # mct "Wait a second... {w}Echo & Bravo won yesterday's challenge."
-    mct "Wait a second... {w}Echo & Bravo won yesterday's challenge."
+    mct "等一下... {w}Echo & Bravo赢得了昨天的挑战."
 
 # game/code/d03/d03s05.rpy:311
 translate chinese d03s05_end_f24ca1de:
 
     # mct "Does that mean Chloe & Kevin are Echo & Bravo?"
-    mct "Does that mean Chloe & Kevin are Echo & Bravo?"
+    mct "这说明Chloe & Kevin是Echo & Bravo?"
 
 translate chinese strings:
 
     # game/code/d03/d03s05.rpy:170
     old "Tell Kevin to Stop Being a Pussy"
-    new "Tell Kevin to Stop Being a Pussy"
+    new "告诉Kevin这样是不对的"
 
     # game/code/d03/d03s05.rpy:170
     old "Understand Kevin's Point of View"
-    new "Understand Kevin's Point of View"
+    new "理解Kevin"
 
     # game/code/d03/d03s05.rpy:196
     old "Show Photo of Chloe Covered in Cum"
-    new "Show Photo of Chloe Covered in Cum"
+    new "给他看"
 
     # game/code/d03/d03s05.rpy:196
     old "Don't show him that pic"
-    new "Don't show him that pic"
+    new "不给他看"
 
