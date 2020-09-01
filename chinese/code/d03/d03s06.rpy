@@ -112,147 +112,147 @@ translate chinese d03s06_28e53307:
 translate chinese d03s06_69677eb6:
 
     # mct "I just need to clean this place up and then forget about it."
-    mct "I just need to clean this place up and then forget about it."
+    mct "我只需要把这收拾完家就好."
 
 # game/code/d03/d03s06.rpy:68
 translate chinese d03s06_424cbf95:
 
     # mct "Hmmm. Strange. This door isn't usually locked."
-    mct "Hmmm. Strange. This door isn't usually locked."
+    mct "嗯...奇怪，这个门平时是不锁的啊."
 
 # game/code/d03/d03s06.rpy:69
 translate chinese d03s06_cd5b4ed5:
 
     # mct "It is good that Miss Waller gave me a key."
-    mct "It is good that Miss Waller gave me a key."
+    mct "多亏Miss Waller给我了钥匙."
 
 # game/code/d03/d03s06.rpy:73
 translate chinese d03s06_073de5aa:
 
     # mct "Damn! They must have arrived early."
-    mct "Damn! They must have arrived early."
+    mct "我去! 她们应该来早了."
 
 # game/code/d03/d03s06.rpy:75
 translate chinese d03s06_4869cf64:
 
     # mct "What the hell?"
-    mct "What the hell?"
+    mct "卧槽?"
 
 # game/code/d03/d03s06.rpy:80
 translate chinese d03s06_dcac2cf7:
 
     # mct "AmRose is with Maria?! Why?!"
-    mct "AmRose is with Maria?! Why?!"
+    mct "AmRose和Maria?!为什么?!"
 
 # game/code/d03/d03s06.rpy:82
 translate chinese d03s06_1ffcd4b7:
 
     # mct "What AmRose and Maria were doing here?!"
-    mct "What AmRose and Maria were doing here?!"
+    mct "AmRose和Maria刚才在干什么?!"
 
 # game/code/d03/d03s06.rpy:83
 translate chinese d03s06_bd801f2d:
 
     # mct "Maria attends some lectures with us in this classroom."
-    mct "Maria attends some lectures with us in this classroom."
+    mct "Maria跟咱们在这个教室里一起上过几门课."
 
 # game/code/d03/d03s06.rpy:85
 translate chinese d03s06_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "嗨!"
 
 # game/code/d03/d03s06.rpy:87
 translate chinese d03s06_8288cc92:
 
     # arjt "Shit! She swore that door was locked!"
-    arjt "Shit! She swore that door was locked!"
+    arjt "该死!她发誓过这个门是锁着的!"
 
 # game/code/d03/d03s06.rpy:89
 translate chinese d03s06_955ed4a4:
 
     # arj "Oh, hey [mcname]. We were just doing some studying. Do you need the room?"
-    arj "Oh, hey [mcname]. We were just doing some studying. Do you need the room?"
+    arj "呃, 嗨[mcname].我们刚才在学点东西. 你需要教室吗?"
 
 # game/code/d03/d03s06.rpy:90
 translate chinese d03s06_129c32e6:
 
     # mct "Studying my ass, they don't even have any books."
-    mct "Studying my ass, they don't even have any books."
+    mct "学个狗屁, 连书都没拿你学你个锤子."
 
 # game/code/d03/d03s06.rpy:91
 translate chinese d03s06_9c741a6c:
 
     # mc "Meh. I got a cleaning duty. I can come back when you're finished."
-    mc "Meh. I got a cleaning duty. I can come back when you're finished."
+    mc "唔. 我得打扫教室. 等你们完事我再回来."
 
 # game/code/d03/d03s06.rpy:93
 translate chinese d03s06_506e5425:
 
     # arj "Oh, well..."
-    arj "Oh, well..."
+    arj "呃, 好吧..."
 
 # game/code/d03/d03s06.rpy:96
 translate chinese d03s06_6f0dce88:
 
     # mk "We were just leaving. You can have the room."
-    mk "We were just leaving. You can have the room."
+    mk "我们要走了，你可以开始打扫了."
 
 # game/code/d03/d03s06.rpy:98
 translate chinese d03s06_289f25d7:
 
     # arj "... Right."
-    arj "... Right."
+    arj "... 对."
 
 # game/code/d03/d03s06.rpy:101
 translate chinese d03s06_aa75be7c:
 
     # mct "Damn. I wonder what I missed."
-    mct "Damn. I wonder what I missed."
+    mct "我去. 我在想我到底错过了什么."
 
 # game/code/d03/d03s06.rpy:103
 translate chinese d03s06_16923b43:
 
     # mct "What were they doing here?"
-    mct "What were they doing here?"
+    mct "™之前在这干什么?"
 
 # game/code/d03/d03s06.rpy:106
 translate chinese d03s06_9a6527b3:
 
     # mct "Ok... {w}Let's get to work."
-    mct "Ok... {w}Let's get to work."
+    mct "好... {w}该干活了."
 
 # game/code/d03/d03s06.rpy:109
 translate chinese d03s06_de205227:
 
     # "Sometime later..."
-    "Sometime later..."
+    "过了一会..."
 
 # game/code/d03/d03s06.rpy:120
 translate chinese d03s06_end_8b9eb29d:
 
     # mct "Interesting, this girl that Pete told me about. Is it Daisy? She was in our room this morning."
-    mct "Interesting, this girl that Pete told me about. Is it Daisy? She was in our room this morning."
+    mct "有趣, 那个Pete刚才跟我说的那个女孩. 是Daisy吗? 今天早上她在我们房间来着."
 
 # game/code/d03/d03s06.rpy:121
 translate chinese d03s06_end_f30318b8:
 
     # mct "It would be so awesome to get some action with her!"
-    mct "It would be so awesome to get some action with her!"
+    mct "要是能跟她发生点什么那就太棒了!"
 
 # game/code/d03/d03s06.rpy:122
 translate chinese d03s06_end_548a9308:
 
     # mct "Let's get to the dorm."
-    mct "Let's get to the dorm."
+    mct "该去宿舍了."
 
 translate chinese strings:
 
     # game/code/d03/d03s06.rpy:43
     old "First go and check what AmRose is up to"
-    new "First go and check what AmRose is up to"
+    new "先看看AmRose在干什么"
 
     # game/code/d03/d03s06.rpy:43
     old "Go back to dorm"
-    new "Go back to dorm"
+    new "回宿舍"
 
