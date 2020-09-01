@@ -10,7 +10,7 @@ translate chinese d03s06_b44a5e18:
 translate chinese d03s06_7405e86b:
 
     # "[mcname] went to Zarah Waller's office and got the key to the lecture hall that he has to clean as his punishment."
-    "[mcname]去Zarah Waller的办公室拿主教室的钥匙，因为他的惩罚是清理教室."
+    "[mcname]去Zarah Waller的办公室拿主教室的钥匙，因为他被惩罚清理教室."
 
 # game/code/d03/d03s06.rpy:20
 translate chinese d03s06_2d23b9ad:
