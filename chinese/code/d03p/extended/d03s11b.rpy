@@ -4,67 +4,67 @@
 translate chinese d03s11b_74397485:
 
     # mct "Let's see what is here."
-    mct "Let's see what is here."
+    mct "让我看看这有什么."
 
 # game/code/d03p/extended/d03s11b.rpy:31
 translate chinese d03s11b_ca2ca07f:
 
     # jfx "*whispers* You can do this. Just be who you want to be."
-    jfx "*whispers* You can do this. Just be who you want to be."
+    jfx "*小声* 你可以的，做你想做的就行."
 
 # game/code/d03p/extended/d03s11b.rpy:33
 translate chinese d03s11b_69fa0296:
 
     # mct "Oops..."
-    mct "Oops..."
+    mct "唔..."
 
 # game/code/d03p/extended/d03s11b.rpy:41
 translate chinese d03s11b_dff5569e:
 
     # mc "Hi!"
-    mc "Hi!"
+    mc "嗨!"
 
 # game/code/d03p/extended/d03s11b.rpy:43
 translate chinese d03s11b_d4dd8239:
 
     # jfx "Eep!"
-    jfx "Eep!"
+    jfx "呀!"
 
 # game/code/d03p/extended/d03s11b.rpy:44
 translate chinese d03s11b_3e2cf48e:
 
     # jfx "Just a second... let me... {w}...I'm sorry..."
-    jfx "Just a second... let me... {w}...I'm sorry..."
+    jfx "等一下... 先让我... {w}...对不起..."
 
 # game/code/d03p/extended/d03s11b.rpy:46
 translate chinese d03s11b_76138e22:
 
     # mct "I guess some people are really afraid of anyone seeing their faces here."
-    mct "I guess some people are really afraid of anyone seeing their faces here."
+    mct "我猜这有的人真的怕被看到他们的脸."
 
 # game/code/d03p/extended/d03s11b.rpy:47
 translate chinese d03s11b_16a52dd5:
 
     # mc "Sorry, I just wanted to say hello."
-    mc "Sorry, I just wanted to say hello."
+    mc "对不起，我只是想打个招呼."
 
 # game/code/d03p/extended/d03s11b.rpy:51
 translate chinese d03s11b_d8d3ea23:
 
     # jfx "Oh, it's you. {w}Did you ravage any unsuspecting virgins in the park this week?"
-    jfx "Oh, it's you. {w}Did you ravage any unsuspecting virgins in the park this week?"
+    jfx "是你啊. {w}你这星期在公园钓到女孩了吗?"
 
 # game/code/d03p/extended/d03s11b.rpy:52
 translate chinese d03s11b_33ffd6bb:
 
     # mc "What? No. What are you talking about?"
-    mc "What? No. What are you talking about?"
+    mc "什么? 没啊，你在说什么?"
 
 # game/code/d03p/extended/d03s11b.rpy:53
 translate chinese d03s11b_489e3831:
 
     # jfx "Perhaps I'm confusing you for someone else. Do you have a twin?"
-    jfx "Perhaps I'm confusing you for someone else. Do you have a twin?"
+    jfx "或许我把你跟其他人弄混了，你有个双胞胎吗?"
 
 # game/code/d03p/extended/d03s11b.rpy:54
 translate chinese d03s11b_21f7e783:
