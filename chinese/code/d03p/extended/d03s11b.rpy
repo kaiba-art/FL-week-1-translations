@@ -286,65 +286,65 @@ translate chinese d03s11b_085722e2:
 translate chinese d03s11b_431fcb05:
 
     # jfx "I've always wanted to do that. Probably not tonight, but soon."
-    jfx "I've always wanted to do that. Probably not tonight, but soon."
+    jfx "我一直想这么做的，或许不是今晚，但我迟早会这么做的..."
 
 # game/code/d03p/extended/d03s11b.rpy:125
 translate chinese d03s11b_cfebbcee:
 
     # mc "No thanks. Exit only. I've never had anything up my back door."
-    mc "No thanks. Exit only. I've never had anything up my back door."
+    mc "谢谢，算了吧，我那是只出不进的，我后门可从来没进过什么东西."
 
 # game/code/d03p/extended/d03s11b.rpy:127
 translate chinese d03s11b_a5b7cc0b:
 
     # jfx "You should try it. I prefer to have something back there, but it's never been alive."
-    jfx "You should try it. I prefer to have something back there, but it's never been alive."
+    jfx "你应该试试的，我喜欢有什么东西插在我的那里，不过目前为止...插进去的都是假物."
 
 # game/code/d03p/extended/d03s11b.rpy:128
 translate chinese d03s11b_459aacbf:
 
     # mc "I don't think-"
-    mc "I don't think-"
+    mc "我不这么认为-"
 
 # game/code/d03p/extended/d03s11b.rpy:130
 translate chinese d03s11b_eea2f177:
 
     # jfx "Yeah, that could've been phrased better. I don't think I want an eel or something like that."
-    jfx "Yeah, that could've been phrased better. I don't think I want an eel or something like that."
+    jfx "好吧好吧，我想我是应该重新组织下语言，我不觉得我会喜欢鳗鱼什么之类的进入我的后门."
 
 # game/code/d03p/extended/d03s11b.rpy:132
 translate chinese d03s11b_d25e4cd0:
 
     # jfx "Although..."
-    jfx "Although..."
+    jfx "虽然..."
 
 # game/code/d03p/extended/d03s11b.rpy:133
 translate chinese d03s11b_191b0522:
 
     # mc "Heh. Well, I think I'm going to check out the rest of the party."
-    mc "Heh. Well, I think I'm going to check out the rest of the party."
+    mc "呃，我想我是时候去看看派对里有什么游戏的东西了."
 
 # game/code/d03p/extended/d03s11b.rpy:135
 translate chinese d03s11b_a1f5d472:
 
     # jfx "Me too. I hope you find whatever it is you're looking for!"
-    jfx "Me too. I hope you find whatever it is you're looking for!"
+    jfx "我也是，祝你找到你想要的东西!"
 
 # game/code/d03p/extended/d03s11b.rpy:136
 translate chinese d03s11b_23d6706d:
 
     # mc "Yeah, thanks. You too."
-    mc "Yeah, thanks. You too."
+    mc "谢谢，你也是."
 
 # game/code/d03p/extended/d03s11b.rpy:138
 translate chinese d03s11b_430d96ac:
 
     # mct "What a strange girl."
-    mct "What a strange girl."
+    mct "真是个奇怪的女孩."
 
 # game/code/d03p/extended/d03s11b.rpy:144
 translate chinese d03s11b_5b84cc74:
 
     # mct "Probably should look for Lydia upstairs..."
-    mct "Probably should look for Lydia upstairs..."
+    mct "或许我应该去楼上找找Lydia..."
 
