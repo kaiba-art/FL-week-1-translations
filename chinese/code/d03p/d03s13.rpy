@@ -472,571 +472,571 @@ translate chinese replay_d03s13_6215bbf9:
 translate chinese replay_d03s13_eec6d34a:
 
     # dd "GO!!!"
-    dd "GO!!!"
+    dd "开始!!!"
 
 # game/code/d03p/d03s13.rpy:271
 translate chinese replay_d03s13_bc7c869e:
 
     # dd "[mcname] is off to an early lead..."
-    dd "[mcname] is off to an early lead..."
+    dd "[mcname] 在开始时取得了领先..."
 
 # game/code/d03p/d03s13.rpy:275
 translate chinese replay_d03s13_ab160341:
 
     # dd "[mesfl] appears to be struggling at the starting line..."
-    dd "[mesfl] appears to be struggling at the starting line..."
+    dd "[mesfl]则在起步时遇到了困难..."
 
 # game/code/d03p/d03s13.rpy:279
 translate chinese replay_d03s13_33bcb18b:
 
     # dd "[mcname] is really pouring it on..."
-    dd "[mcname] is really pouring it on..."
+    dd "[mcname]正在加把劲继续..."
 
 # game/code/d03p/d03s13.rpy:284
 translate chinese replay_d03s13_3a3a5d4b:
 
     # dd "[mesfl] has started, but will it be enough..."
-    dd "[mesfl] has started, but will it be enough..."
+    dd "[mesfl]终于开始了，可是她会成功地反超吗..."
 
 # game/code/d03p/d03s13.rpy:288
 translate chinese replay_d03s13_43a86b51:
 
     # dd "[mcname] has a strong lead..."
-    dd "[mcname] has a strong lead..."
+    dd "[mcname]的优势很大..."
 
 # game/code/d03p/d03s13.rpy:292
 translate chinese replay_d03s13_0894d08d:
 
     # dd "[mesfl] is going strong..."
-    dd "[mesfl] is going strong..."
+    dd "[mesfl]在努力追赶..."
 
 # game/code/d03p/d03s13.rpy:295
 translate chinese replay_d03s13_0f9d95d3:
 
     # dd "can she catch up to [mcname]???"
-    dd "can she catch up to [mcname]???"
+    dd "她能否赶上[mcname]???"
 
 # game/code/d03p/d03s13.rpy:298
 translate chinese replay_d03s13_10dd0d54:
 
     # dd "Is it just me, or is this incredibly hot?"
-    dd "Is it just me, or is this incredibly hot?"
+    dd "难道只有我...认为这很刺激吗?"
 
 # game/code/d03p/d03s13.rpy:303
 translate chinese replay_d03s13_d5639277:
 
     # dd "[mcname] has filled his container, but remember..."
-    dd "[mcname] has filled his container, but remember..."
+    dd "[mcname]结束了, 不过得记住..."
 
 # game/code/d03p/d03s13.rpy:305
 translate chinese replay_d03s13_91aeee4d:
 
     # dd "this is about volume, not just speed."
-    dd "this is about volume, not just speed."
+    dd "这场比赛比的是量，而不是速度."
 
 # game/code/d03p/d03s13.rpy:307
 translate chinese replay_d03s13_6c5302f8:
 
     # dd "[mesfl] appears to be pushing herself hard to tie [mcname]'s volume..."
-    dd "[mesfl] appears to be pushing herself hard to tie [mcname]'s volume..."
+    dd "[mesfl]努力追赶，想要持平[mcname]的量..."
 
 # game/code/d03p/d03s13.rpy:311
 translate chinese replay_d03s13_fec68026:
 
     # dd "SHE DID IT! Ladies and Gentlemen, it appears to be a draw!"
-    dd "SHE DID IT! Ladies and Gentlemen, it appears to be a draw!"
+    dd "她做到了! 先生们，女士们，这是一场...平局!"
 
 # game/code/d03p/d03s13.rpy:314
 translate chinese replay_d03s13_8a0034a5:
 
     # dd "I don't believe it. This is the greatest moment in my career as a race announcer!"
-    dd "I don't believe it. This is the greatest moment in my career as a race announcer!"
+    dd "难以置信，这是我解说生涯最美好的时刻!"
 
 # game/code/d03p/d03s13.rpy:320
 translate chinese replay_d03s13_02e62dd1:
 
     # mes "That was a good challenge. Thank you."
-    mes "That was a good challenge. Thank you."
+    mes "真是个不错的挑战，谢谢你."
 
 # game/code/d03p/d03s13.rpy:322
 translate chinese replay_d03s13_620cb18b:
 
     # mc "Well done. I guess we can call that a draw."
-    mc "Well done. I guess we can call that a draw."
+    mc "嗯，我觉得这是个平局."
 
 # game/code/d03p/d03s13.rpy:331
 translate chinese replay_d03s13_c421b4c9:
 
     # mes "No. You challenged me. I met your challenge. {w}I won."
-    mes "No. You challenged me. I met your challenge. {w}I won."
+    mes "不. 是你挑战了我. 而我接受了. {w}所以说我赢了."
 
 # game/code/d03p/d03s13.rpy:332
 translate chinese replay_d03s13_b31cfab4:
 
     # mc "Oh, I guess so."
-    mc "Oh, I guess so."
+    mc "呃，好吧."
 
 # game/code/d03p/d03s13.rpy:335
 translate chinese replay_d03s13_581d2380:
 
     # dd "You're a winner in my book!"
-    dd "You're a winner in my book!"
+    dd "你在我心中就是赢家!"
 
 # game/code/d03p/d03s13.rpy:338
 translate chinese replay_d03s13_8359954c:
 
     # dd "I mean, you're both winners."
-    dd "I mean, you're both winners."
+    dd "我的意思是你们俩都是赢家."
 
 # game/code/d03p/d03s13.rpy:341
 translate chinese replay_d03s13_c4651896:
 
     # dd "That was really something to see."
-    dd "That was really something to see."
+    dd "太刺激了."
 
 # game/code/d03p/d03s13.rpy:344
 translate chinese replay_d03s13_4981d323:
 
     # mc "Um, Daisy?"
-    mc "Um, Daisy?"
+    mc "呃, Daisy?"
 
 # game/code/d03p/d03s13.rpy:346
 translate chinese replay_d03s13_170fcf0e:
 
     # mc "Do you think we could finish what you started earlier?"
-    mc "Do you think we could finish what you started earlier?"
+    mc "你觉得我们能不能继续下之前干的事?"
 
 # game/code/d03p/d03s13.rpy:348
 translate chinese replay_d03s13_808f30fb:
 
     # dd "[mcname] don't be gross. I just watched you pee from that thing."
-    dd "[mcname] don't be gross. I just watched you pee from that thing."
+    dd "[mcname]... 你知道我刚才看到你从那里撒尿来着."
 
 # game/code/d03p/d03s13.rpy:350
 translate chinese replay_d03s13_ec4950d4:
 
     # mc "Great..."
-    mc "Great..."
+    mc "好吧..."
 
 # game/code/d03p/d03s13.rpy:352
 translate chinese replay_d03s13_3b192da5:
 
     # mc "Yeah, I'll just put my pants on and go."
-    mc "Yeah, I'll just put my pants on and go."
+    mc "Ok，我穿上裤子就走."
 
 # game/code/d03p/d03s13.rpy:358
 translate chinese replay_d03s13_af147d72:
 
     # mc "I have an idea how can we resolve this draw!"
-    mc "I have an idea how can we resolve this draw!"
+    mc "平局是吗，我有个主意来决出胜者!"
 
 # game/code/d03p/d03s13.rpy:360
 translate chinese replay_d03s13_150cf153:
 
     # mes "Hm-m-m?"
-    mes "Hm-m-m?"
+    mes "啊，是吗?"
 
 # game/code/d03p/d03s13.rpy:362
 translate chinese replay_d03s13_f1366c5c:
 
     # mc "Let's call it tie resolution challenge!"
-    mc "Let's call it tie resolution challenge!"
+    mc "让我们叫它打破僵局挑战吧!"
 
 # game/code/d03p/d03s13.rpy:364
 translate chinese replay_d03s13_89accabd:
 
     # mes "Go on."
-    mes "Go on."
+    mes "继续说."
 
 # game/code/d03p/d03s13.rpy:366
 translate chinese replay_d03s13_5b04b019:
 
     # mc "Our bowls have the same volume... {w} But!"
-    mc "Our bowls have the same volume... {w} But!"
+    mc "这两个碗装着同样容量的尿... {w} 但是!"
 
 # game/code/d03p/d03s13.rpy:369
 translate chinese replay_d03s13_82b192e4:
 
     # mc "Let me show you."
-    mc "Let me show you."
+    mc "好好看着."
 
 # game/code/d03p/d03s13.rpy:372
 translate chinese replay_d03s13_71408274:
 
     # mes "What are you doing?!"
-    mes "What are you doing?!"
+    mes "你在搞什么?!"
 
 # game/code/d03p/d03s13.rpy:377
 translate chinese replay_d03s13_bcbc62f3:
 
     # "(Gulp) (gulp) (gulp)"
-    "(Gulp) (gulp) (gulp)"
+    "(吨) (吨) (吨)"
 
 # game/code/d03p/d03s13.rpy:379
 translate chinese replay_d03s13_31e92a2b:
 
     # dd "Wow!"
-    dd "Wow!"
+    dd "我...我去!"
 
 # game/code/d03p/d03s13.rpy:381
 translate chinese replay_d03s13_af5560e0:
 
     # mes "You must be kidding me!"
-    mes "You must be kidding me!"
+    mes "你脑子进水了吗我擦!"
 
 # game/code/d03p/d03s13.rpy:384
 translate chinese replay_d03s13_890fc4c9:
 
     # dd "Oh {w}my {w}gosh."
-    dd "Oh {w}my {w}gosh."
+    dd "我 {w}的 {w}天."
 
 # game/code/d03p/d03s13.rpy:388
 translate chinese replay_d03s13_806956a1:
 
     # mc "It's not bad. It looks and tastes just like white grape juice."
-    mc "It's not bad. It looks and tastes just like white grape juice."
+    mc "还不错嘛，就像是喝白葡萄果汁一样."
 
 # game/code/d03p/d03s13.rpy:389
 translate chinese replay_d03s13_62c92d04:
 
     # mc "You see. Your bowl is empty again!"
-    mc "You see. Your bowl is empty again!"
+    mc "看. 你的碗又空了!"
 
 # game/code/d03p/d03s13.rpy:393
 translate chinese replay_d03s13_9f58cdc8:
 
     # mes "Now I have to drink your piss?"
-    mes "Now I have to drink your piss?"
+    mes "现在我得喝你的小便?"
 
 # game/code/d03p/d03s13.rpy:395
 translate chinese replay_d03s13_f9825be5:
 
     # mc "That's it. Just drink my empty and we can call it a draw."
-    mc "That's it. Just drink my empty and we can call it a draw."
+    mc "就是这样，你把这个喝没，就是平局了."
 
 # game/code/d03p/d03s13.rpy:397
 translate chinese replay_d03s13_20b3e14c:
 
     # mes "A win, not a draw. You make the challenge. If I match the challenge, I win."
-    mes "A win, not a draw. You make the challenge. If I match the challenge, I win."
+    mes "胜利，而不是平局. 你挑战了我. 如果我们都做到了，那我才是赢家."
 
 # game/code/d03p/d03s13.rpy:399
 translate chinese replay_d03s13_dd5b30ec:
 
     # mc "Fair enough. Drink it dry and you can call it a win."
-    mc "Fair enough. Drink it dry and you can call it a win."
+    mc "听起来挺公平，把它喝了，然后你就赢了."
 
 # game/code/d03p/d03s13.rpy:401
 translate chinese replay_d03s13_c2d58c4c:
 
     # mes "If I had known what I was agreeing to..."
-    mes "If I had known what I was agreeing to..."
+    mes "我要是早知道会这样..."
 
 # game/code/d03p/d03s13.rpy:403
 translate chinese replay_d03s13_0999870b:
 
     # dd "Are you backing out? Is it too much for you?"
-    dd "Are you backing out? Is it too much for you?"
+    dd "怎么，你想放弃了? 受不了了吗?"
 
 # game/code/d03p/d03s13.rpy:404
 translate chinese replay_d03s13_f26dc804:
 
     # mes "I will do it. You have the right. I agreed to this."
-    mes "I will do it. You have the right. I agreed to this."
+    mes "才没有呢，我接受了你的挑战，我就要做完."
 
 # game/code/d03p/d03s13.rpy:414
 translate chinese replay_d03s13_10fc7e56:
 
     # mest "I can do this."
-    mest "I can do this."
+    mest "我可以的."
 
 # game/code/d03p/d03s13.rpy:416
 translate chinese replay_d03s13_79ed1fb0:
 
     # mest "Just pretend it is grape juice..."
-    mest "Just pretend it is grape juice..."
+    mest "把它想象成葡萄汁..."
 
 # game/code/d03p/d03s13.rpy:417
 translate chinese replay_d03s13_16a3af30:
 
     # mest "This bowl is so warm! {w}It is just a juice..."
-    mest "This bowl is so warm! {w}It is just a juice..."
+    mest "这也太热了! {w}这只是果汁而已..."
 
 # game/code/d03p/d03s13.rpy:419
 translate chinese replay_d03s13_e1df2347:
 
     # mest "C'mon Min! You can win this! I won't let this defeat me."
-    mest "C'mon Min! You can win this! I won't let this defeat me."
+    mest "加油啊Min! 你能赢的! 我才不会被这东西打败."
 
 # game/code/d03p/d03s13.rpy:420
 translate chinese replay_d03s13_c76ddea0:
 
     # mest "Why is it so hot in here?"
-    mest "Why is it so hot in here?"
+    mest "为什么这么热啊?"
 
 # game/code/d03p/d03s13.rpy:424
 translate chinese replay_d03s13_fbfc0b04:
 
     # mes "(gulp)"
-    mes "(gulp)"
+    mes "(吨)"
 
 # game/code/d03p/d03s13.rpy:428
 translate chinese replay_d03s13_fbfc0b04_1:
 
     # mes "(gulp)"
-    mes "(gulp)"
+    mes "(吨)"
 
 # game/code/d03p/d03s13.rpy:429
 translate chinese replay_d03s13_e3ff21a8:
 
     # dd "One sip down!"
-    dd "One sip down!"
+    dd "她开始喝了!"
 
 # game/code/d03p/d03s13.rpy:430
 translate chinese replay_d03s13_5e75afd3:
 
     # mct "Wow she is actually drinking my piss!"
-    mct "Wow she is actually drinking my piss!"
+    mct "她真的在喝我的尿!"
 
 # game/code/d03p/d03s13.rpy:434
 translate chinese replay_d03s13_c0b9cd37:
 
     # mes "Euh-h-h"
-    mes "Euh-h-h"
+    mes "啊啊啊"
 
 # game/code/d03p/d03s13.rpy:437
 translate chinese replay_d03s13_efeb6de5:
 
     # mes "DAMN IT!"
-    mes "DAMN IT!"
+    mes "该死!"
 
 # game/code/d03p/d03s13.rpy:438
 translate chinese replay_d03s13_9025af82:
 
     # mest "It tastes even worse than it smells."
-    mest "It tastes even worse than it smells."
+    mest "它尝起来比它闻起来还要糟糕."
 
 # game/code/d03p/d03s13.rpy:440
 translate chinese replay_d03s13_8b6b3d5c:
 
     # mes "I can't do it..."
-    mes "I can't do it..."
+    mes "我不行了..."
 
 # game/code/d03p/d03s13.rpy:444
 translate chinese replay_d03s13_5f84504f:
 
     # mct "I did it. I beat her."
-    mct "I did it. I beat her."
+    mct "我成功了. 我赢了."
 
 # game/code/d03p/d03s13.rpy:446
 translate chinese replay_d03s13_0c437da8:
 
     # mct "I wonder..."
-    mct "I wonder..."
+    mct "我想说..."
 
 # game/code/d03p/d03s13.rpy:448
 translate chinese replay_d03s13_67473244:
 
     # dd "Yay!!! {w}What did he win!!!"
-    dd "Yay!!! {w}What did he win!!!"
+    dd "耶!!! {w}他赢了，真不敢相信!!!"
 
 # game/code/d03p/d03s13.rpy:451
 translate chinese replay_d03s13_60a0dd86:
 
     # mes "Daisy, is it?"
-    mes "Daisy, is it?"
+    mes "Daisy,对吧?"
 
 # game/code/d03p/d03s13.rpy:453
 translate chinese replay_d03s13_2841b96a:
 
     # dd "That's Me!"
-    dd "That's Me!"
+    dd "是我!"
 
 # game/code/d03p/d03s13.rpy:455
 translate chinese replay_d03s13_99aea372:
 
     # mes "Could you give us a few minutes?"
-    mes "Could you give us a few minutes?"
+    mes "你能不能让我们单独待一会?"
 
 # game/code/d03p/d03s13.rpy:457
 translate chinese replay_d03s13_5231dce8:
 
     # dd "Aww, I wanted to watch."
-    dd "Aww, I wanted to watch."
+    dd "啊，我想看来着."
 
 # game/code/d03p/d03s13.rpy:459
 translate chinese replay_d03s13_57aabe72:
 
     # mes "Trust me. You don't want to be here for this."
-    mes "Trust me. You don't want to be here for this."
+    mes "相信我，你不会想在这呆着的."
 
 # game/code/d03p/d03s13.rpy:461
 translate chinese replay_d03s13_c9ffc51a:
 
     # dd "Why's that?"
-    dd "Why's that?"
+    dd "为什么?"
 
 # game/code/d03p/d03s13.rpy:463
 translate chinese replay_d03s13_fd8eb059:
 
     # mes "Because I would tear out your eyes and render you deaf."
-    mes "Because I would tear out your eyes and render you deaf."
+    mes "因为我会挖掉你的眼睛并且把你变成聋子."
 
 # game/code/d03p/d03s13.rpy:465
 translate chinese replay_d03s13_20c18383:
 
     # dd "That wouldn't... oh. {w}Ok, see you!"
-    dd "That wouldn't... oh. {w}Ok, see you!"
+    dd "这... 哦. {w}好吧那等会见!"
 
 # game/code/d03p/d03s13.rpy:467
 translate chinese replay_d03s13_9849049c:
 
     # mc "Should I leave too?"
-    mc "Should I leave too?"
+    mc "我也应该离开吗?"
 
 # game/code/d03p/d03s13.rpy:470
 translate chinese replay_d03s13_972f4ffc:
 
     # mes "No, you stay. {w}Let me remove this first..."
-    mes "No, you stay. {w}Let me remove this first..."
+    mes "不，你呆在这. {w}让我先把这个拿掉..."
 
 # game/code/d03p/d03s13.rpy:475
 translate chinese replay_d03s13_efae2267:
 
     # mes "To the victor goes the spoils."
-    mes "To the victor goes the spoils."
+    mes "赢家的战利品."
 
 # game/code/d03p/d03s13.rpy:478
 translate chinese replay_d03s13_aaed64e5:
 
     # mes "I bet I know what you think you want..."
-    mes "I bet I know what you think you want..."
+    mes "我才我知道你想要什么..."
 
 # game/code/d03p/d03s13.rpy:481
 translate chinese replay_d03s13_9a3b5c6c:
 
     # mes "I bet you want my mouth{w} ...or my cunt{w}"
-    mes "I bet you want my mouth{w} ...or my cunt{w}"
+    mes "我的嘴巴{w} ...我的小穴{w}"
 
 # game/code/d03p/d03s13.rpy:483
 translate chinese replay_d03s13_dc9ef5e7:
 
     # mes "...or maybe my ass..."
-    mes "...or maybe my ass..."
+    mes "...又或者是我的屁股..."
 
 # game/code/d03p/d03s13.rpy:485
 translate chinese replay_d03s13_938b3d39:
 
     # mes "...wrapped around your hard cock."
-    mes "...wrapped around your hard cock."
+    mes "...来把你的肉棒弄舒服."
 
 # game/code/d03p/d03s13.rpy:486
 translate chinese replay_d03s13_49c38924:
 
     # mes "I bet you want to cum."
-    mes "I bet you want to cum."
+    mes "我猜你想射出来."
 
 # game/code/d03p/d03s13.rpy:489
 translate chinese replay_d03s13_a18ff623:
 
     # mes "I know something you want even more than that."
-    mes "I know something you want even more than that."
+    mes "不过我知道你真正想要的东西."
 
 # game/code/d03p/d03s13.rpy:490
 translate chinese replay_d03s13_5f13d56b:
 
     # mes "Do you want to hear it?"
-    mes "Do you want to hear it?"
+    mes "你想听吗?"
 
 # game/code/d03p/d03s13.rpy:492
 translate chinese replay_d03s13_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "当然."
 
 # game/code/d03p/d03s13.rpy:495
 translate chinese replay_d03s13_11524ba1:
 
     # mes "I will help you win Lydia."
-    mes "I will help you win Lydia."
+    mes "我会帮助你来赢得Lydia的芳心."
 
 # game/code/d03p/d03s13.rpy:498
 translate chinese replay_d03s13_7c0fd87d:
 
     # mc "What? How did you know?"
-    mc "What? How did you know?"
+    mc "啊? 你是怎么知道的?"
 
 # game/code/d03p/d03s13.rpy:500
 translate chinese replay_d03s13_07317fba:
 
     # mes "It's obvious, probably everyone knows you're into Lydia... well, except for her."
-    mes "It's obvious, probably everyone knows you're into Lydia... well, except for her."
+    mes "很明显，我估计所有人都知道你喜欢她... 呃，除了她自己."
 
 # game/code/d03p/d03s13.rpy:502
 translate chinese replay_d03s13_f699dd96:
 
     # mc "Wait, what about..."
-    mc "Wait, what about..."
+    mc "等等，那怎么..."
 
 # game/code/d03p/d03s13.rpy:503
 translate chinese replay_d03s13_7c55351f:
 
     # mes "I think you'll be a good fit for her, and I am her best friend."
-    mes "I think you'll be a good fit for her, and I am her best friend."
+    mes "我会在她面前帮你的，我是她最好的朋友."
 
 # game/code/d03p/d03s13.rpy:504
 translate chinese replay_d03s13_915ecf9a:
 
     # mc "Do you mean...?"
-    mc "Do you mean...?"
+    mc "你的意思是...?"
 
 # game/code/d03p/d03s13.rpy:506
 translate chinese replay_d03s13_7ab50454:
 
     # mes "Anyway, you should probably put your pants back on."
-    mes "Anyway, you should probably put your pants back on."
+    mes "不管怎么说，你可以把内裤穿上了."
 
 # game/code/d03p/d03s13.rpy:507
 translate chinese replay_d03s13_27399a26:
 
     # mc "Okay, but..."
-    mc "Okay, but..."
+    mc "好的，但是..."
 
 # game/code/d03p/d03s13.rpy:508
 translate chinese replay_d03s13_fee771f6:
 
     # mes "Feel free to use one of the showers. There's plenty of hot water.{w}.. and cold."
-    mes "Feel free to use one of the showers. There's plenty of hot water.{w}.. and cold."
+    mes "你可以去洗澡，这有很多热水.{w}.. 当然，也有冷水."
 
 # game/code/d03p/d03s13.rpy:509
 translate chinese replay_d03s13_4dbf8248:
 
     # mct "... Yeah, okay."
-    mct "... Yeah, okay."
+    mct "... 啊, 好的."
 
 # game/code/d03p/d03s13.rpy:510
 translate chinese replay_d03s13_5f006774:
 
     # mes "You can thank me later."
-    mes "You can thank me later."
+    mes "你会谢谢我的."
 
 # game/code/d03p/d03s13.rpy:518
 translate chinese d03s13_end_329cfa27:
 
     # mct "My balls are going to explode soon!"
-    mct "My balls are going to explode soon!"
+    mct "我的蛋蛋要憋爆了!"
 
 # game/code/d03p/d03s13.rpy:519
 translate chinese d03s13_end_6a49319a:
 
     # mct "Two events with getting my dick sucked and didn't manage to cum a single time..."
-    mct "Two events with getting my dick sucked and didn't manage to cum a single time..."
+    mct "在两个活动中我被别人口了两次，然而一次都没射出来..."
 
 translate chinese strings:
 
     # game/code/d03p/d03s13.rpy:194
     old "Challenge Min to a Pissing Contest"
-    new "Challenge Min to a Pissing Contest"
+    new "向Min发起撒尿挑战"
 
     # game/code/d03p/d03s13.rpy:194
     old "Don't Challenge Min"
@@ -1044,9 +1044,9 @@ translate chinese strings:
 
     # game/code/d03p/d03s13.rpy:323
     old "Do Whatever It Takes To Win"
-    new "Do Whatever It Takes To Win"
+    new "想办法赢"
 
     # game/code/d03p/d03s13.rpy:323
     old "Shake Hands in Acceptance"
-    new "Shake Hands in Acceptance"
+    new "接受结果"
 
