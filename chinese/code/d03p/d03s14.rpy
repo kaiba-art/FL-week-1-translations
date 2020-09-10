@@ -4,91 +4,91 @@
 translate chinese replay_d03s14_95908d3d:
 
     # mct "It seems like this event is happening on the rooftop. {w}Let's go there."
-    mct "It seems like this event is happening on the rooftop. {w}Let's go there."
+    mct "看来这个活动是在房顶举行的. {w}看看去."
 
 # game/code/d03p/d03s14.rpy:76
 translate chinese replay_d03s14_63c38e87:
 
     # tm "I told you, I'm straight."
-    tm "I told you, I'm straight."
+    tm "我告诉过你我是直的."
 
 # game/code/d03p/d03s14.rpy:80
 translate chinese replay_d03s14_a6bca1ee:
 
     # tm "Hey!"
-    tm "Hey!"
+    tm "嗨!"
 
 # game/code/d03p/d03s14.rpy:82
 translate chinese replay_d03s14_f41382cc:
 
     # tm "The light is too bright! Close the door!"
-    tm "The light is too bright! Close the door!"
+    tm "灯太亮了! 把门关上!"
 
 # game/code/d03p/d03s14.rpy:84
 translate chinese replay_d03s14_bdca0566:
 
     # tm "That is much better!"
-    tm "That is much better!"
+    tm "现在好多了!"
 
 # game/code/d03p/d03s14.rpy:85
 translate chinese replay_d03s14_aaf02080:
 
     # mc "Are you girls here for the event?"
-    mc "Are you girls here for the event?"
+    mc "你们是来这参加活动的吗?"
 
 # game/code/d03p/d03s14.rpy:87
 translate chinese replay_d03s14_7748f064:
 
     # mkfl "Yes, it looks like the right place. But Mister D1cky is not here yet..."
-    mkfl "Yes, it looks like the right place. But Mister D1cky is not here yet..."
+    mkfl "嗯，应该就是这，不过Mister Dicky看起来还没到..."
 
 # game/code/d03p/d03s14.rpy:89
 translate chinese replay_d03s14_6018f8d3:
 
     # tm "Yeah... So, what we were talking about?"
-    tm "Yeah... So, what we were talking about?"
+    tm "啊... 所以说, 我们刚才说到哪了?"
 
 # game/code/d03p/d03s14.rpy:91
 translate chinese replay_d03s14_83071273:
 
     # mkfl "You being straight! Have you never even experimented with a girl?!"
-    mkfl "You being straight! Have you never even experimented with a girl?!"
+    mkfl "你是直的! 你从来都没跟一个女孩做过吗?!"
 
 # game/code/d03p/d03s14.rpy:92
 translate chinese replay_d03s14_008b8ce7:
 
     # tm "Maybe. Have you?"
-    tm "Maybe. Have you?"
+    tm "也许吧. 你呢?"
 
 # game/code/d03p/d03s14.rpy:93
 translate chinese replay_d03s14_a6da8fcc:
 
     # mkfl "Of course, I'm a lesbian!"
-    mkfl "Of course, I'm a lesbian!"
+    mkfl "我当然了, 我是Les!"
 
 # game/code/d03p/d03s14.rpy:94
 translate chinese replay_d03s14_e7b0c3bf:
 
     # tm "No, have you ever experimented with a cock?"
-    tm "No, have you ever experimented with a cock?"
+    tm "呃，我想问你跟男人做过吗?"
 
 # game/code/d03p/d03s14.rpy:95
 translate chinese replay_d03s14_a5aff01b:
 
     # mkfl "What? Fuck no!"
-    mkfl "What? Fuck no!"
+    mkfl "什么? 当然没有!"
 
 # game/code/d03p/d03s14.rpy:96
 translate chinese replay_d03s14_54b935a4:
 
     # tm "You've never sucked a dick? Never had a guy take your virginity?"
-    tm "You've never sucked a dick? Never had a guy take your virginity?"
+    tm "你从来没口过肉棒吗? 从来没有过男人舔你的小穴?"
 
 # game/code/d03p/d03s14.rpy:97
 translate chinese replay_d03s14_29086b00:
 
     # mkfl "That's disgusting."
-    mkfl "That's disgusting."
+    mkfl "听起来真恶心."
 
 # game/code/d03p/d03s14.rpy:99
 translate chinese replay_d03s14_76ed807c:
