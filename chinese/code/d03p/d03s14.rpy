@@ -94,127 +94,127 @@ translate chinese replay_d03s14_29086b00:
 translate chinese replay_d03s14_76ed807c:
 
     # tm "Hey guy, come over here."
-    tm "Hey guy, come over here."
+    tm "过这来宝贝."
 
 # game/code/d03p/d03s14.rpy:100
 translate chinese replay_d03s14_e58297ce:
 
     # mc "I'm..."
-    mc "I'm..."
+    mc "我..."
 
 # game/code/d03p/d03s14.rpy:101
 translate chinese replay_d03s14_8a3de237:
 
     # tm "Shh. I just need your dick."
-    tm "Shh. I just need your dick."
+    tm "嘘. 我只是需要你的肉棒而已."
 
 # game/code/d03p/d03s14.rpy:102
 translate chinese replay_d03s14_8cb249cd:
 
     # mc "I am all yours."
-    mc "I am all yours."
+    mc "我是你的人了."
 
 # game/code/d03p/d03s14.rpy:104
 translate chinese replay_d03s14_9df63843:
 
     # tm "Okay, so here's the deal. I'll do to Vesna whatever she does to you."
-    tm "Okay, so here's the deal. I'll do to Vesna whatever she does to you."
+    tm "Ok，我们的交易是这样的. Vesna对你做什么，我就会对她做什么."
 
 # game/code/d03p/d03s14.rpy:105
 translate chinese replay_d03s14_1f9e966f:
 
     # mkfl "What?"
-    mkfl "What?"
+    mkfl "啊?"
 
 # game/code/d03p/d03s14.rpy:108
 translate chinese replay_d03s14_51a54c0e:
 
     # tm "It's really simple. You kiss him, I'll kiss you."
-    tm "It's really simple. You kiss him, I'll kiss you."
+    tm "很简单，你亲他，我就会吻你."
 
 # game/code/d03p/d03s14.rpy:109
 translate chinese replay_d03s14_3052db57:
 
     # tm "You suck his cock, I'll eat your cunt."
-    tm "You suck his cock, I'll eat your cunt."
+    tm "你给他吹箫，我就会舔你的小穴."
 
 # game/code/d03p/d03s14.rpy:110
 translate chinese replay_d03s14_3fc431a4:
 
     # tm "You let him fuck you, I'll do whatever you want all night long."
-    tm "You let him fuck you, I'll do whatever you want all night long."
+    tm "如果你让他肏你，那么今晚你想让我干什么都可以."
 
 # game/code/d03p/d03s14.rpy:112
 translate chinese replay_d03s14_e039ba75:
 
     # mkfl "That isn't funny."
-    mkfl "That isn't funny."
+    mkfl "T这一点也不好笑."
 
 # game/code/d03p/d03s14.rpy:114
 translate chinese replay_d03s14_f5e44afb:
 
     # tm "I'm serious."
-    tm "I'm serious."
+    tm "我是认真的."
 
 # game/code/d03p/d03s14.rpy:119
 translate chinese replay_d03s14_64f4a96f:
 
     # amfl "Welcome!"
-    amfl "Welcome!"
+    amfl "欢迎你们!"
 
 # game/code/d03p/d03s14.rpy:121
 translate chinese replay_d03s14_aa08e49b:
 
     # mkfl "Holy Shit!"
-    mkfl "Holy Shit!"
+    mkfl "我去!"
 
 # game/code/d03p/d03s14.rpy:122
 translate chinese replay_d03s14_79098cbd:
 
     # tm "How did he...?"
-    tm "How did he...?"
+    tm "他是怎么...?"
 
 # game/code/d03p/d03s14.rpy:123
 translate chinese replay_d03s14_a298c546:
 
     # mct "Where did he come from?"
-    mct "Where did he come from?"
+    mct "他从哪来的?"
 
 # game/code/d03p/d03s14.rpy:125
 translate chinese replay_d03s14_dcf176b0:
 
     # amfl "Please, take a seat."
-    amfl "Please, take a seat."
+    amfl "请坐下."
 
 # game/code/d03p/d03s14.rpy:126
 translate chinese replay_d03s14_1e0f955b:
 
     # mkfl "Where would we sit?"
-    mkfl "Where would we sit?"
+    mkfl "...我们能坐哪?"
 
 # game/code/d03p/d03s14.rpy:130
 translate chinese replay_d03s14_07eef455:
 
     # mc "Wow!"
-    mc "Wow!"
+    mc "哇哦!"
 
 # game/code/d03p/d03s14.rpy:131
 translate chinese replay_d03s14_8e1ab843:
 
     # mkfl "How!?"
-    mkfl "How!?"
+    mkfl "怎么可能!?"
 
 # game/code/d03p/d03s14.rpy:133
 translate chinese replay_d03s14_405313bc:
 
     # tm "Ok, this promises to be interesting!"
-    tm "Ok, this promises to be interesting!"
+    tm "看起来会很有趣!"
 
 # game/code/d03p/d03s14.rpy:135
 translate chinese replay_d03s14_7054deda:
 
     # mkfl "You seem excited."
-    mkfl "You seem excited."
+    mkfl "你看起来很兴奋啊."
 
 # game/code/d03p/d03s14.rpy:137
 translate chinese replay_d03s14_5992592a:
