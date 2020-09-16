@@ -220,199 +220,199 @@ translate chinese replay_d03s14_7054deda:
 translate chinese replay_d03s14_5992592a:
 
     # tm "Oh yes! I love crazy experiences! Let your imagination run free!"
-    tm "Oh yes! I love crazy experiences! Let your imagination run free!"
+    tm "当然了! 我喜欢尝试这种新事物，而且这可以完全放飞你的想象力!"
 
 # game/code/d03p/d03s14.rpy:139
 translate chinese replay_d03s14_2a3dd485:
 
     # mkfl "Okay, I'm willing to go with the flow."
-    mkfl "Okay, I'm willing to go with the flow."
+    mkfl "好吧, 我也试试."
 
 # game/code/d03p/d03s14.rpy:140
 translate chinese replay_d03s14_acc20661:
 
     # mc "Me too!"
-    mc "Me too!"
+    mc "我也是!"
 
 # game/code/d03p/d03s14.rpy:144
 translate chinese replay_d03s14_e5aa35d2:
 
     # amfl "Now you are ready!"
-    amfl "Now you are ready!"
+    amfl "现在你们都准备好了吧!"
 
 # game/code/d03p/d03s14.rpy:146
 translate chinese replay_d03s14_2fbe2221:
 
     # amfl "We will have to travel for some time to find the right place!"
-    amfl "We will have to travel for some time to find the right place!"
+    amfl "我们现在需要!"
 
 # game/code/d03p/d03s14.rpy:147
 translate chinese replay_d03s14_bceeee56:
 
     # amfl "Hold tight to the candles they will direct to the right world!"
-    amfl "Hold tight to the candles they will direct to the right world!"
+    amfl "抓紧旁边的蜡烛，这会帮助你们不迷路的!"
 
 # game/code/d03p/d03s14.rpy:152
 translate chinese replay_d03s14_bd4330f9:
 
     # mc "What? World? We're traveling?"
-    mc "What? World? We're traveling?"
+    mc "什么? 迷路? 我们在去什么地方吗?"
 
 # game/code/d03p/d03s14.rpy:154
 translate chinese replay_d03s14_36c6942a:
 
     # tm "Just feel it! Don't you? {w}It is so sunny there! Yet I can feel the raindrops on the leaves!"
-    tm "Just feel it! Don't you? {w}It is so sunny there! Yet I can feel the raindrops on the leaves!"
+    tm "用心感受就好了，不是吗? {w}这里的阳光太刺眼了! 不过同时我还能听见雨点打在树叶上的声音!"
 
 # game/code/d03p/d03s14.rpy:158
 translate chinese replay_d03s14_19411e03:
 
     # mkfl "I feel... the sea breeze? {w}Waves are crashing to the shore... {w}and a bird! I hear birds!"
-    mkfl "I feel... the sea breeze? {w}Waves are crashing to the shore... {w}and a bird! I hear birds!"
+    mkfl "我感受到了...海浪? {w}波浪打在礁石上的声音... {w}而且还有鸟! 我听到了小鸟的声音!"
 
 # game/code/d03p/d03s14.rpy:160
 translate chinese replay_d03s14_b4b38576:
 
     # amfl "Just open your eyes! You are already there!"
-    amfl "Just open your eyes! You are already there!"
+    amfl "睁开你们的眼睛吧! 你们已经到了!"
 
 # game/code/d03p/d03s14.rpy:161
 translate chinese replay_d03s14_721c8a3c:
 
     # mc "My eyes are... oh!"
-    mc "My eyes are... oh!"
+    mc "我的眼睛... 哦!"
 
 # game/code/d03p/d03s14.rpy:165
 translate chinese replay_d03s14_feede58f:
 
     # mc "This is beautiful!"
-    mc "This is beautiful!"
+    mc "这景色太漂亮了吧!"
 
 # game/code/d03p/d03s14.rpy:167
 translate chinese replay_d03s14_6858a475:
 
     # mkfl "The sun!"
-    mkfl "The sun!"
+    mkfl "...那个太阳!"
 
 # game/code/d03p/d03s14.rpy:168
 translate chinese replay_d03s14_163f5645:
 
     # tm "I can feel the sea!"
-    tm "I can feel the sea!"
+    tm "我可以感受到大海!"
 
 # game/code/d03p/d03s14.rpy:172
 translate chinese replay_d03s14_f6118cca:
 
     # mkfl "I can feel the sunlight on my skin!"
-    mkfl "I can feel the sunlight on my skin!"
+    mkfl "我可以感受到阳光照在我的皮肤上!"
 
 # game/code/d03p/d03s14.rpy:174
 translate chinese replay_d03s14_12fb036d:
 
     # tm "Hey how are you naked?"
-    tm "Hey how are you naked?"
+    tm "你们怎么是裸体的?"
 
 # game/code/d03p/d03s14.rpy:175
 translate chinese replay_d03s14_043d3589:
 
     # mc "I don't know. I was just looking at you... and wanted to be naked."
-    mc "I don't know. I was just looking at you... and wanted to be naked."
+    mc "我不知道. 我只是看着你... 大概是我自己想脱掉衣服的吧."
 
 # game/code/d03p/d03s14.rpy:176
 translate chinese replay_d03s14_5f9c4081:
 
     # tm "I want to be naked too!"
-    tm "I want to be naked too!"
+    tm "我也是!"
 
 # game/code/d03p/d03s14.rpy:180
 translate chinese replay_d03s14_8fe73e99:
 
     # mkfl "Wow!"
-    mkfl "Wow!"
+    mkfl "哇哦!"
 
 # game/code/d03p/d03s14.rpy:184
 translate chinese replay_d03s14_789af58b:
 
     # mkfl "How are you doing this?"
-    mkfl "How are you doing this?"
+    mkfl "你们是怎么做到的?"
 
 # game/code/d03p/d03s14.rpy:185
 translate chinese replay_d03s14_80d073e3:
 
     # tm "Just want it! Want to be naked!"
-    tm "Just want it! Want to be naked!"
+    tm "只是想象而已，是我们想这样的!"
 
 # game/code/d03p/d03s14.rpy:187
 translate chinese replay_d03s14_28724b36:
 
     # mkfl "You are so gorgeous!"
-    mkfl "You are so gorgeous!"
+    mkfl "你也太美了!"
 
 # game/code/d03p/d03s14.rpy:189
 translate chinese replay_d03s14_9ca91933:
 
     # mkfl "Your skin is so warm and soft!"
-    mkfl "Your skin is so warm and soft!"
+    mkfl "你的皮肤...是如此柔软温暖!"
 
 # game/code/d03p/d03s14.rpy:190
 translate chinese replay_d03s14_4771848f:
 
     # tm "Why are you still dressed?"
-    tm "Why are you still dressed?"
+    tm "你怎么还没脱掉衣服?"
 
 # game/code/d03p/d03s14.rpy:191
 translate chinese replay_d03s14_9d6c35ca:
 
     # mkfl "I'll undress for you! Anything for you!"
-    mkfl "I'll undress for you! Anything for you!"
+    mkfl "我会为你脱掉衣服的，我会为你做任何事情!"
 
 # game/code/d03p/d03s14.rpy:192
 translate chinese replay_d03s14_3b5590fc:
 
     # tm "Anything?"
-    tm "Anything?"
+    tm "任何事情?"
 
 # game/code/d03p/d03s14.rpy:194
 translate chinese replay_d03s14_5f6a9766:
 
     # tm "I want you to undress for him! I want to see his dick getting hard because of you!"
-    tm "I want you to undress for him! I want to see his dick getting hard because of you!"
+    tm "我希望你为他脱衣服! 我希望他的肉棒能因为你硬起来!"
 
 # game/code/d03p/d03s14.rpy:195
 translate chinese replay_d03s14_b79809d5:
 
     # tm "Did you ever made a dick hard?"
-    tm "Did you ever made a dick hard?"
+    tm "从来没有肉棒因为你硬过吗?"
 
 # game/code/d03p/d03s14.rpy:196
 translate chinese replay_d03s14_d6f1ae6e:
 
     # mkfl "I don't think so..."
-    mkfl "I don't think so..."
+    mkfl "应该没有吧..."
 
 # game/code/d03p/d03s14.rpy:197
 translate chinese replay_d03s14_c4c497d8:
 
     # tm "Then do it!"
-    tm "Then do it!"
+    tm "那你现在可以试试!"
 
 # game/code/d03p/d03s14.rpy:199
 translate chinese replay_d03s14_3ddcabe9:
 
     # mkfl "As you wish! Anything you say!"
-    mkfl "As you wish! Anything you say!"
+    mkfl "听你的!就像你说的那样!"
 
 # game/code/d03p/d03s14.rpy:202
 translate chinese replay_d03s14_f5a739ff:
 
     # mkfl "Watch me!"
-    mkfl "Watch me!"
+    mkfl "看着我!"
 
 # game/code/d03p/d03s14.rpy:203
 translate chinese replay_d03s14_b510a635:
 
     # tm "You look gorgeous! See! He is getting hard!"
-    tm "You look gorgeous! See! He is getting hard!"
+    tm "你看起来真性感! 快看! 他开始硬了!"
 
 # game/code/d03p/d03s14.rpy:205
 translate chinese replay_d03s14_8cffec53:
