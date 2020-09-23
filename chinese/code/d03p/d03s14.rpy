@@ -418,67 +418,67 @@ translate chinese replay_d03s14_b510a635:
 translate chinese replay_d03s14_8cffec53:
 
     # tm "Now go to him!"
-    tm "Now go to him!"
+    tm "现在快上!"
 
 # game/code/d03p/d03s14.rpy:210
 translate chinese replay_d03s14_0773385d:
 
     # mkfl "It is... not what I expected... beautiful..."
-    mkfl "It is... not what I expected... beautiful..."
+    mkfl "这... 我没想到会这么... 刺激..."
 
 # game/code/d03p/d03s14.rpy:214
 translate chinese replay_d03s14_4c197500:
 
     # tm "See? You're making his cock hard!"
-    tm "See? You're making his cock hard!"
+    tm "看见没? 你快让他硬了!"
 
 # game/code/d03p/d03s14.rpy:216
 translate chinese replay_d03s14_b4ed123f:
 
     # tm "And now all you want is to taste this cock with your mouth!"
-    tm "And now all you want is to taste this cock with your mouth!"
+    tm "现在你含住他的肉棒!"
 
 # game/code/d03p/d03s14.rpy:218
 translate chinese replay_d03s14_14c77262:
 
     # tm "You want nothing else but this dick in your throat... hard and deep!"
-    tm "You want nothing else but this dick in your throat... hard and deep!"
+    tm "你现在什么都不想要...只想让他的肉棒在你喉咙里!"
 
 # game/code/d03p/d03s14.rpy:219
 translate chinese replay_d03s14_0751663c:
 
     # mkfl "Yes! I want it!"
-    mkfl "Yes! I want it!"
+    mkfl "就是这样! 我想要!"
 
 # game/code/d03p/d03s14.rpy:220
 translate chinese replay_d03s14_a7889851:
 
     # tm "Good girl!"
-    tm "Good girl!"
+    tm "好女孩!"
 
 # game/code/d03p/d03s14.rpy:226
 translate chinese replay_d03s14_3b944fc2:
 
     # tm "Now you are ready! Go into the water and swallow this man-meat!"
-    tm "Now you are ready! Go into the water and swallow this man-meat!"
+    tm "现在你准备好了! 你先去水里，然后准备把他的子孙吞下去吧!"
 
 # game/code/d03p/d03s14.rpy:227
 translate chinese replay_d03s14_2e52c045:
 
     # mkfl "Yes!"
-    mkfl "Yes!"
+    mkfl "当然!"
 
 # game/code/d03p/d03s14.rpy:232
 translate chinese replay_d03s14_fbb1a20b:
 
     # tm "Wow! Honey, you look delicious."
-    tm "Wow! Honey, you look delicious."
+    tm "哇哦! 宝贝，你看起来真...美味."
 
 # game/code/d03p/d03s14.rpy:234
 translate chinese replay_d03s14_5f7e9400:
 
     # tm "Are you sure it is your first time having a dick in your mouth?"
-    tm "Are you sure it is your first time having a dick in your mouth?"
+    tm "你确定你这是第一次尝到肉棒吗?"
 
 # game/code/d03p/d03s14.rpy:235
 translate chinese replay_d03s14_7f3bbf52:
